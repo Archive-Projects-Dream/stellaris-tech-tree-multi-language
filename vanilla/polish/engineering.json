@@ -76,7 +76,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
               ],
               "potential": [],
               "children": [
@@ -107,7 +107,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -138,7 +138,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -174,7 +174,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -209,8 +209,8 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert",
-                        "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Mote Stabilization<br/>    •   Has Technology: Volatile Material Plants<br/>    •   Has the has_market_access country flag"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert",
+                        "(×<b style='color:red'>0.0</b>) Żaden warunek nie jest spełniony.<br/>    •   Has Technology: Mote Stabilization<br/>    •   Has Technology: Volatile Material Plants<br/>    •   Has the has_market_access country flag"
                       ],
                       "potential": [],
                       "children": [
@@ -280,7 +280,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
               ],
               "potential": [],
               "children": [
@@ -312,12 +312,12 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
-                    "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Spiritualist Ethic<br/>    •   Has Fanatic Spiritualist Ethic",
-                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                    "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Ma etykę: Duchowość<br/>    •   Ma etykę: Fanatyczna duchowość",
+                    "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                   ],
                   "potential": [
-                    "Does NOT have Gestalt Consciousness Ethic"
+                    "Nie ma etyki: Połączona świadomość"
                   ],
                   "children": [
                     {
@@ -348,10 +348,10 @@
                       ],
                       "weight_modifiers": [
                         "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                       ],
                       "potential": [
-                        "Does NOT have Gestalt Consciousness Ethic"
+                        "Nie ma etyki: Połączona świadomość"
                       ],
                       "children": [
                         {
@@ -387,10 +387,10 @@
                           "weight_modifiers": [
                             "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
                             "(×<b style='color:lime'>2.0</b>) Has Origin Mechanist",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 2"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 2"
                           ],
                           "potential": [
-                            "Does NOT have Gestalt Consciousness Ethic"
+                            "Nie ma etyki: Połączona świadomość"
                           ],
                           "children": [
                             {
@@ -427,12 +427,12 @@
                                 "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
                                 "(×<b style='color:lime'>2.0</b>) Has Origin Mechanist",
                                 "(×<b style='color:lime'>4.0</b>) Has The Flesh is Weak Ascension Perk",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Fungible Circuitry",
-                                "(×<b style='color:red'>0.5</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Industry Expert"
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Fungible Circuitry",
+                                "(×<b style='color:red'>0.5</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Industry Expert"
                               ],
                               "potential": [
-                                "Does NOT have Gestalt Consciousness Ethic"
+                                "Nie ma etyki: Połączona świadomość"
                               ],
                               "children": [],
                               "is_event": false,
@@ -479,13 +479,13 @@
                       ],
                       "weight_modifiers": [
                         "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
-                        "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Spiritualist Ethic<br/>    •   Has Fanatic Spiritualist Ethic",
-                        "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic",
+                        "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Ma etykę: Duchowość<br/>    •   Ma etykę: Fanatyczna duchowość",
+                        "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic",
                         "(×<b style='color:lime'>2.0</b>) Has Origin Mechanist",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 2"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 2"
                       ],
                       "potential": [
-                        "Does NOT have Gestalt Consciousness Ethic"
+                        "Nie ma etyki: Połączona świadomość"
                       ],
                       "children": [
                         {
@@ -526,16 +526,16 @@
                           ],
                           "weight_modifiers": [
                             "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
-                            "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Spiritualist Ethic<br/>    •   Has Fanatic Spiritualist Ethic",
-                            "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic",
-                            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Synthetics",
+                            "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Ma etykę: Duchowość<br/>    •   Ma etykę: Fanatyczna duchowość",
+                            "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic",
+                            "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                            "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Synthetics",
                             "(×<b style='color:lime'>2.0</b>) Has Origin Mechanist",
                             "(×<b style='color:lime'>4.0</b>) Has The Flesh is Weak Ascension Perk",
-                            "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Industry Expert"
+                            "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Industry Expert"
                           ],
                           "potential": [
-                            "Does NOT have Gestalt Consciousness Ethic"
+                            "Nie ma etyki: Połączona świadomość"
                           ],
                           "children": [
                             {
@@ -566,11 +566,11 @@
                               "weight_modifiers": [
                                 "(×<b style='color:red'>0.0</b>) Has policy Robotic Workers Outlawed",
                                 "(×<b style='color:red'>0.0</b>) Has policy AI Outlawed",
-                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 3",
+                                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 3",
                                 "(×<b style='color:red'>0.33</b>) Is Necrophage"
                               ],
                               "potential": [
-                                "Does NOT have Gestalt Consciousness Ethic"
+                                "Nie ma etyki: Połączona świadomość"
                               ],
                               "children": [],
                               "is_event": false,
@@ -615,10 +615,10 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                   ],
                   "potential": [
-                    "Has Machine Intelligence Authority"
+                    "Ma władzę: Mechaniczna inteligencja"
                   ],
                   "children": [
                     {
@@ -652,10 +652,10 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 2"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert<br/>    •   Skill level is greater than 2"
                       ],
                       "potential": [
-                        "Has Machine Intelligence Authority"
+                        "Ma władzę: Mechaniczna inteligencja"
                       ],
                       "children": [
                         {
@@ -689,13 +689,13 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Industry Expert",
-                            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Nanite Assemblers",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                            "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Industry Expert",
+                            "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                            "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Nanite Assemblers",
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                           ],
                           "potential": [
-                            "Has Machine Intelligence Authority"
+                            "Ma władzę: Mechaniczna inteligencja"
                           ],
                           "children": [],
                           "is_event": false,
@@ -732,13 +732,13 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Industry Expert",
-                            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Mega-Assembly Systems",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                            "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Industry Expert",
+                            "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                            "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Mega-Assembly Systems",
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                           ],
                           "potential": [
-                            "Has Machine Intelligence Authority"
+                            "Ma władzę: Mechaniczna inteligencja"
                           ],
                           "children": [],
                           "is_event": false,
@@ -781,11 +781,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                "(×<b style='color:red'>0.0</b>) Żaden warunek nie jest spełniony.<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
               ],
               "potential": [
-                "One must be true\n    •   Does NOT have Gestalt Consciousness Ethic\n    •   Has Government Civic: Rogue Servitor"
+                "Jedno z tych stwierdzeń musi być prawdą\n    •   Nie ma etyki: Połączona świadomość\n    •   Ma ustrój Zbuntowany sługa"
               ],
               "children": [
                 {
@@ -819,10 +819,10 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
                   ],
                   "potential": [
-                    "One must be true\n    •   Does NOT have Gestalt Consciousness Ethic\n    •   Has Government Civic: Rogue Servitor"
+                    "Jedno z tych stwierdzeń musi być prawdą\n    •   Nie ma etyki: Połączona świadomość\n    •   Ma ustrój Zbuntowany sługa"
                   ],
                   "children": [],
                   "is_event": false,
@@ -858,8 +858,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Mote Stabilization<br/>    •   Has Technology: Volatile Material Plants<br/>    •   Has the has_market_access country flag",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                "(×<b style='color:red'>0.0</b>) Żaden warunek nie jest spełniony.<br/>    •   Has Technology: Mote Stabilization<br/>    •   Has Technology: Volatile Material Plants<br/>    •   Has the has_market_access country flag",
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
               ],
               "potential": [],
               "children": [
@@ -894,7 +894,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -929,8 +929,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Has deposit Bubbling Swamp<br/>\t\t    •   Has deposit Fuming Bog<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   One must be true<br/>\t\t    •   Has deposit £exotic_gases£ +1<br/>\t\t    •   Has deposit £exotic_gases£ +2<br/>\t\t    •   Has deposit £exotic_gases£ +3<br/>\t\t    •   Has deposit £exotic_gases£ +4<br/>\t\t    •   Has deposit £exotic_gases£ +5",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Any Owned Planet<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit Bubbling Swamp<br/>\t\t    •   Has deposit Fuming Bog<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit £exotic_gases£ +1<br/>\t\t    •   Has deposit £exotic_gases£ +2<br/>\t\t    •   Has deposit £exotic_gases£ +3<br/>\t\t    •   Has deposit £exotic_gases£ +4<br/>\t\t    •   Has deposit £exotic_gases£ +5",
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
               ],
               "potential": [],
               "children": [],
@@ -963,8 +963,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Has deposit Crystalline Caverns<br/>\t\t    •   Has deposit Crystal Forest<br/>\t\t    •   Has deposit Crystal Reef<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   One must be true<br/>\t\t    •   Has deposit £rare_crystals£ +1<br/>\t\t    •   Has deposit £rare_crystals£ +2<br/>\t\t    •   Has deposit £rare_crystals£ +3<br/>\t\t    •   Has deposit £rare_crystals£ +4<br/>\t\t    •   Has deposit £rare_crystals£ +5",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Any Owned Planet<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit Crystalline Caverns<br/>\t\t    •   Has deposit Crystal Forest<br/>\t\t    •   Has deposit Crystal Reef<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit £rare_crystals£ +1<br/>\t\t    •   Has deposit £rare_crystals£ +2<br/>\t\t    •   Has deposit £rare_crystals£ +3<br/>\t\t    •   Has deposit £rare_crystals£ +4<br/>\t\t    •   Has deposit £rare_crystals£ +5",
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
               ],
               "potential": [],
               "children": [],
@@ -1023,7 +1023,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
               ],
               "potential": [],
               "children": [
@@ -1053,7 +1053,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -1083,7 +1083,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -1113,7 +1113,7 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                           ],
                           "potential": [],
                           "children": [
@@ -1143,7 +1143,7 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                               ],
                               "potential": [],
                               "children": [],
@@ -1187,7 +1187,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>2.0</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert",
+                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit Betharian Fields"
               ],
               "potential": [],
@@ -1221,8 +1221,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert",
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Has deposit Bubbling Swamp<br/>\t\t    •   Has deposit Fuming Bog<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   One must be true<br/>\t\t    •   Has deposit £exotic_gases£ +1<br/>\t\t    •   Has deposit £exotic_gases£ +2<br/>\t\t    •   Has deposit £exotic_gases£ +3<br/>\t\t    •   Has deposit £exotic_gases£ +4<br/>\t\t    •   Has deposit £exotic_gases£ +5"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert",
+                "(×<b style='color:red'>0.0</b>) Żaden warunek nie jest spełniony.<br/>    •   Any Owned Planet<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit Bubbling Swamp<br/>\t\t    •   Has deposit Fuming Bog<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit £exotic_gases£ +1<br/>\t\t    •   Has deposit £exotic_gases£ +2<br/>\t\t    •   Has deposit £exotic_gases£ +3<br/>\t\t    •   Has deposit £exotic_gases£ +4<br/>\t\t    •   Has deposit £exotic_gases£ +5"
               ],
               "potential": [],
               "children": [],
@@ -1255,8 +1255,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>2.0</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert",
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Has deposit Crystalline Caverns<br/>\t\t    •   Has deposit Crystal Forest<br/>\t\t    •   Has deposit Crystal Reef<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   One must be true<br/>\t\t    •   Has deposit £rare_crystals£ +1<br/>\t\t    •   Has deposit £rare_crystals£ +2<br/>\t\t    •   Has deposit £rare_crystals£ +3<br/>\t\t    •   Has deposit £rare_crystals£ +4<br/>\t\t    •   Has deposit £rare_crystals£ +5"
+                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert",
+                "(×<b style='color:red'>0.0</b>) Żaden warunek nie jest spełniony.<br/>    •   Any Owned Planet<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit Crystalline Caverns<br/>\t\t    •   Has deposit Crystal Forest<br/>\t\t    •   Has deposit Crystal Reef<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   Jedno z tych stwierdzeń musi być prawdą<br/>\t\t    •   Has deposit £rare_crystals£ +1<br/>\t\t    •   Has deposit £rare_crystals£ +2<br/>\t\t    •   Has deposit £rare_crystals£ +3<br/>\t\t    •   Has deposit £rare_crystals£ +4<br/>\t\t    •   Has deposit £rare_crystals£ +5"
               ],
               "potential": [],
               "children": [],
@@ -1320,7 +1320,7 @@
             "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 10",
             "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 15",
             "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 20",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
           ],
           "potential": [],
           "children": [
@@ -1350,8 +1350,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert",
-                "(×<b style='color:lime'>1.25</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert",
+                "(×<b style='color:lime'>1.25</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic"
               ],
               "potential": [],
               "children": [
@@ -1382,10 +1382,10 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.5</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Industry Expert<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Construction Templates",
-                    "(×<b style='color:lime'>1.25</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic"
+                    "(×<b style='color:red'>0.5</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Industry Expert<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator",
+                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Construction Templates",
+                    "(×<b style='color:lime'>1.25</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic"
                   ],
                   "potential": [],
                   "children": [
@@ -1455,7 +1455,7 @@
                 "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 30",
                 "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 35",
                 "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 40",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
               ],
               "potential": [],
               "children": [
@@ -1489,7 +1489,7 @@
                     "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 30",
                     "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 35",
                     "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 40",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -1520,7 +1520,7 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
           ],
           "potential": [],
           "children": [
@@ -1552,11 +1552,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                "(×<b style='color:red'>0.0</b>) Żaden warunek nie jest spełniony.<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Statecraft Expert"
               ],
               "potential": [
-                "One must be true\n    •   Does NOT have Gestalt Consciousness Ethic\n    •   Has Government Civic: Rogue Servitor"
+                "Jedno z tych stwierdzeń musi być prawdą\n    •   Nie ma etyki: Połączona świadomość\n    •   Ma ustrój Zbuntowany sługa"
               ],
               "children": [],
               "is_event": false,
@@ -1590,7 +1590,7 @@
               ],
               "weight_modifiers": [
                 "(×<b style='color:red'>0.0</b>) Has Government Civic: Agrarian Idyll",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
               ],
               "potential": [],
               "children": [],
@@ -1619,10 +1619,10 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
           ],
           "potential": [
-            "Has Machine Intelligence Authority"
+            "Ma władzę: Mechaniczna inteligencja"
           ],
           "children": [
             {
@@ -1651,10 +1651,10 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Industry Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Industry Expert"
               ],
               "potential": [
-                "Has Machine Intelligence Authority"
+                "Ma władzę: Mechaniczna inteligencja"
               ],
               "children": [],
               "is_event": false,
@@ -1715,7 +1715,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
               ],
               "potential": [],
               "children": [
@@ -1750,7 +1750,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -1790,7 +1790,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -1827,7 +1827,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -1859,7 +1859,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -1891,7 +1891,7 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -1988,7 +1988,7 @@
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                 "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
               ],
               "potential": [],
               "children": [
@@ -2020,7 +2020,7 @@
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -2079,7 +2079,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert",
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert",
                 "(×<b style='color:lime'>2.0</b>) Has Technology: Ion Thrusters",
                 "(×<b style='color:lime'>2.0</b>) Has Technology: Plasma Thrusters"
               ],
@@ -2116,7 +2116,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -2151,7 +2151,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert",
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert",
                 "(×<b style='color:lime'>2.0</b>) Has Technology: Destroyers"
               ],
               "potential": [],
@@ -2182,7 +2182,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert",
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert",
                     "(×<b style='color:lime'>2.0</b>) Has Technology: Cruisers"
                   ],
                   "potential": [],
@@ -2213,7 +2213,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert",
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert",
                         "(×<b style='color:lime'>2.0</b>) Has Technology: Battleships"
                       ],
                       "potential": [],
@@ -2244,7 +2244,7 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Is of country type: Fallen Empire<br/>    •   Is of country type: Awakened Empire"
+                            "(×<b style='color:red'>0.0</b>) Żaden warunek nie jest spełniony.<br/>    •   Is of country type: Fallen Empire<br/>    •   Is of country type: Awakened Empire"
                           ],
                           "potential": [],
                           "children": [],
@@ -2317,7 +2317,7 @@
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                 "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
               ],
               "potential": [],
               "children": [
@@ -2349,7 +2349,7 @@
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -2381,7 +2381,7 @@
                       "weight_modifiers": [
                         "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                         "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -2413,7 +2413,7 @@
                           "weight_modifiers": [
                             "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                             "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -2513,7 +2513,7 @@
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -2545,7 +2545,7 @@
                       "weight_modifiers": [
                         "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                         "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -2585,7 +2585,7 @@
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                 "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
               ],
               "potential": [],
               "children": [
@@ -2617,7 +2617,7 @@
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -2649,7 +2649,7 @@
                       "weight_modifiers": [
                         "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                         "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -2718,7 +2718,7 @@
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                 "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
               ],
               "potential": [],
               "children": [
@@ -2752,7 +2752,7 @@
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -2786,7 +2786,7 @@
                       "weight_modifiers": [
                         "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                         "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -2818,7 +2818,7 @@
                           "weight_modifiers": [
                             "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                             "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                           ],
                           "potential": [],
                           "children": [
@@ -2855,7 +2855,7 @@
                               "weight_modifiers": [
                                 "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                                 "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                               ],
                               "potential": [],
                               "children": [],
@@ -2897,7 +2897,7 @@
                           "weight_modifiers": [
                             "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                             "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                           ],
                           "potential": [],
                           "children": [
@@ -2934,7 +2934,7 @@
                               "weight_modifiers": [
                                 "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                                 "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                               ],
                               "potential": [],
                               "children": [],
@@ -2973,7 +2973,7 @@
                           "weight_modifiers": [
                             "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                             "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -3074,7 +3074,7 @@
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
                     "(×<b style='color:red'>0.5</b>) Does NOT have Technology: Mass Drivers",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3106,7 +3106,7 @@
                       "weight_modifiers": [
                         "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                         "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -3138,7 +3138,7 @@
                           "weight_modifiers": [
                             "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                             "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Propulsion Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Propulsion Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -3204,7 +3204,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
               ],
               "potential": [],
               "children": [
@@ -3234,7 +3234,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3264,7 +3264,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -3370,7 +3370,7 @@
                 "(×<b style='color:lime'>4.0</b>) Number of years since game start is greater than 40",
                 "(×<b style='color:lime'>5.0</b>) Number of Starport is greater than or equal to 3",
                 "(×<b style='color:lime'>1.25</b>) Has Unyielding Traditions Tradition",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
               ],
               "potential": [],
               "children": [
@@ -3400,9 +3400,9 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Improved Structural Integrity",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Improved Structural Integrity",
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3496,10 +3496,10 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.5</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Modular Engineering",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:red'>0.5</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator",
+                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Modular Technika",
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3535,10 +3535,10 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator",
-                        "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                        "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Corps of Engineers",
-                        "(×<b style='color:lime'>1.25</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic"
+                        "(×<b style='color:red'>0.25</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator",
+                        "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                        "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Corps of Engineers",
+                        "(×<b style='color:lime'>1.25</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic"
                       ],
                       "potential": [],
                       "children": [],
@@ -3580,7 +3580,7 @@
                     "(×<b style='color:lime'>4.0</b>) Number of years since game start is greater than 70",
                     "(×<b style='color:lime'>5.0</b>) Number of Starhold is greater than or equal to 3",
                     "(×<b style='color:lime'>1.25</b>) Has Unyielding Traditions Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3617,7 +3617,7 @@
                         "(×<b style='color:lime'>4.0</b>) Number of years since game start is greater than 100",
                         "(×<b style='color:lime'>5.0</b>) Number of Star Fortress is greater than or equal to 3",
                         "(×<b style='color:lime'>1.25</b>) Has Unyielding Traditions Tradition",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -3658,10 +3658,10 @@
                     "(×<b style='color:lime'>5.0</b>) Number of Starhold is greater than or equal to 3",
                     "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                     "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Finished Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [
-                    "One must be true\n    •   Has Origin Void Dwellers\n    •   Has DLC Utopia"
+                    "Jedno z tych stwierdzeń musi być prawdą\n    •   Ma pochodzenie \"Mieszkańcy próżni\".\n    •   Wymaga DLC Utopia!"
                   ],
                   "children": [
                     {
@@ -3694,11 +3694,11 @@
                       ],
                       "weight_modifiers": [
                         "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Is Orbital Habitat",
-                        "(×<b style='color:lime'>10.0</b>) Has Origin Void Dwellers",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                        "(×<b style='color:lime'>10.0</b>) Ma pochodzenie \"Mieszkańcy próżni\".",
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                       ],
                       "potential": [
-                        "One must be true\n    •   Has Origin Void Dwellers\n    •   Has DLC Utopia"
+                        "Jedno z tych stwierdzeń musi być prawdą\n    •   Ma pochodzenie \"Mieszkańcy próżni\".\n    •   Wymaga DLC Utopia!"
                       ],
                       "children": [
                         {
@@ -3731,11 +3731,11 @@
                           ],
                           "weight_modifiers": [
                             "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Is Orbital Habitat",
-                            "(×<b style='color:lime'>10.0</b>) Has Origin Void Dwellers",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                            "(×<b style='color:lime'>10.0</b>) Ma pochodzenie \"Mieszkańcy próżni\".",
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                           ],
                           "potential": [
-                            "One must be true\n    •   Has Origin Void Dwellers\n    •   Has DLC Utopia"
+                            "Jedno z tych stwierdzeń musi być prawdą\n    •   Ma pochodzenie \"Mieszkańcy próżni\".\n    •   Wymaga DLC Utopia!"
                           ],
                           "children": [],
                           "is_event": false
@@ -3806,7 +3806,7 @@
                 "(×<b style='color:lime'>3.0</b>) Number of years since game start is greater than 20",
                 "(×<b style='color:lime'>4.0</b>) Number of years since game start is greater than 30",
                 "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
               ],
               "potential": [],
               "children": [
@@ -3837,7 +3837,7 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3867,11 +3867,11 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert",
+                        "(×<b style='color:red'>0.25</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert",
                         "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                        "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                        "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Advanced Destroyer Hulls",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                        "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                        "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Advanced Destroyer Hulls",
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -3913,7 +3913,7 @@
                     "(×<b style='color:lime'>3.0</b>) Number of years since game start is greater than 35",
                     "(×<b style='color:lime'>4.0</b>) Number of years since game start is greater than 40",
                     "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3950,7 +3950,7 @@
                         "(×<b style='color:lime'>3.0</b>) Number of years since game start is greater than 65",
                         "(×<b style='color:lime'>4.0</b>) Number of years since game start is greater than 70",
                         "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -3981,7 +3981,7 @@
                           ],
                           "weight_modifiers": [
                             "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                           ],
                           "potential": [],
                           "children": [
@@ -4011,11 +4011,11 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Advanced Battleship Hulls",
+                                "(×<b style='color:red'>0.25</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert",
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Advanced Battleship Hulls",
                                 "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                               ],
                               "potential": [],
                               "children": [],
@@ -4060,10 +4060,10 @@
                             "(×<b style='color:lime'>3.0</b>) Number of years since game start is greater than 140",
                             "(×<b style='color:lime'>4.0</b>) Number of years since game start is greater than 150",
                             "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                           ],
                           "potential": [
-                            "Has DLC Apocalypse"
+                            "Wymaga DLC Apocalypse!"
                           ],
                           "children": [
                             {
@@ -4092,11 +4092,11 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Improved Titan Hulls",
+                                "(×<b style='color:red'>0.25</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert",
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Improved Titan Hulls",
                                 "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                               ],
                               "potential": [],
                               "children": [
@@ -4126,11 +4126,11 @@
                                     }
                                   ],
                                   "weight_modifiers": [
-                                    "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert",
-                                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Advanced Titan Hulls",
+                                    "(×<b style='color:red'>0.25</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert",
+                                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Advanced Titan Hulls",
                                     "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                                   ],
                                   "potential": [],
                                   "children": [],
@@ -4164,7 +4164,7 @@
                               ],
                               "weight_modifiers": [],
                               "potential": [
-                                "Has DLC Apocalypse"
+                                "Wymaga DLC Apocalypse!"
                               ],
                               "children": [
                                 {
@@ -4193,16 +4193,16 @@
                                     }
                                   ],
                                   "weight_modifiers": [
-                                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Neutron Sweeping",
-                                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Physics): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Physics): <br/>\t    •   Is Curator<br/>    •   Research Leader (Physics): <br/>\t    •   Is Particles Expert",
-                                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic"
+                                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Neutron Sweeping",
+                                    "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Physics): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Physics): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Physics): <br/>\t    •   Is Particles Expert",
+                                    "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Materialist Ethic<br/>    •   Has Fanatic Materialist Ethic"
                                   ],
                                   "potential": [
-                                    "Has DLC Apocalypse",
-                                    "Has the Colossus Project country flag",
-                                    "One must be true\n    •   All must be false\n\t    •   Has Spiritualist Ethic\n\t    •   Has Fanatic Spiritualist Ethic\n    •   All must be false\n\t    •   All must be true\n\t\t    •   Does NOT have DLC Utopia\n\t\t    •   Has Technology: Telepathy\n\t    •   All must be true\n\t\t    •   Has DLC Utopia\n\t\t    •   Has Mind over Matter Ascension Perk",
-                                    "All must be false\n    •   Has Pacifist Ethic\n    •   Has Fanatic Pacifist Ethic"
+                                    "Wymaga DLC Apocalypse!",
+                                    "Has the Projekt \"Kolos country flag",
+                                    "Jedno z tych stwierdzeń musi być prawdą\n    •   Żaden warunek nie jest spełniony.\n\t    •   Ma etykę: Duchowość\n\t    •   Ma etykę: Fanatyczna duchowość\n    •   Żaden warunek nie jest spełniony.\n\t    •   Wszystkie z tych stwierdzeń muszą być prawdą\n\t\t    •   Does NOT have DLC Utopia\n\t\t    •   Ma: Telepatia\n\t    •   Wszystkie z tych stwierdzeń muszą być prawdą\n\t\t    •   Wymaga DLC Utopia!\n\t\t    •   Ma korzyść z rozwoju Triumf umysłu nad materią",
+                                    "Żaden warunek nie jest spełniony.\n    •   Ma etykę: Pacyfizm\n    •   Ma etykę: Fanatyczny pacyfizm"
                                   ],
                                   "children": [],
                                   "is_event": false
@@ -4233,14 +4233,14 @@
                                     }
                                   ],
                                   "weight_modifiers": [
-                                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Global Pacification",
-                                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Physics): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Physics): <br/>\t    •   Is Curator<br/>    •   Research Leader (Physics): <br/>\t    •   Is Field Manipulation Expert",
-                                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Pacifist Ethic<br/>    •   Has Fanatic Pacifist Ethic"
+                                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Global Pacification",
+                                    "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Physics): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Physics): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Physics): <br/>\t    •   Is Field Manipulation Expert",
+                                    "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Ma etykę: Pacyfizm<br/>    •   Ma etykę: Fanatyczny pacyfizm"
                                   ],
                                   "potential": [
-                                    "Has DLC Apocalypse",
-                                    "Has the Colossus Project country flag"
+                                    "Wymaga DLC Apocalypse!",
+                                    "Has the Projekt \"Kolos country flag"
                                   ],
                                   "children": [],
                                   "is_event": false
@@ -4271,15 +4271,15 @@
                                     }
                                   ],
                                   "weight_modifiers": [
-                                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Divine Stimulus",
-                                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Psionics Expert"
+                                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Divine Stimulus",
+                                    "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Socjologia): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Socjologia): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Socjologia): <br/>\t    •   Is Psionics Expert"
                                   ],
                                   "potential": [
-                                    "Has DLC Apocalypse",
-                                    "Has the Colossus Project country flag",
-                                    "One must be true\n    •   Has Spiritualist Ethic\n    •   Has Fanatic Spiritualist Ethic",
-                                    "One must be true\n    •   All must be true\n\t    •   Does NOT have DLC Utopia\n\t    •   Has Technology: Telepathy\n    •   All must be true\n\t    •   Has DLC Utopia\n\t    •   Has Mind over Matter Ascension Perk"
+                                    "Wymaga DLC Apocalypse!",
+                                    "Has the Projekt \"Kolos country flag",
+                                    "Jedno z tych stwierdzeń musi być prawdą\n    •   Ma etykę: Duchowość\n    •   Ma etykę: Fanatyczna duchowość",
+                                    "Jedno z tych stwierdzeń musi być prawdą\n    •   Wszystkie z tych stwierdzeń muszą być prawdą\n\t    •   Does NOT have DLC Utopia\n\t    •   Ma: Telepatia\n    •   Wszystkie z tych stwierdzeń muszą być prawdą\n\t    •   Wymaga DLC Utopia!\n\t    •   Ma korzyść z rozwoju Triumf umysłu nad materią"
                                   ],
                                   "children": [],
                                   "is_event": false
@@ -4310,14 +4310,14 @@
                                     }
                                   ],
                                   "weight_modifiers": [
-                                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Core Cracking",
-                                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert"
+                                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Core Cracking",
+                                    "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert"
                                   ],
                                   "potential": [
-                                    "Has DLC Apocalypse",
-                                    "Has the Colossus Project country flag",
-                                    "All must be false\n    •   Has Pacifist Ethic\n    •   Has Fanatic Pacifist Ethic"
+                                    "Wymaga DLC Apocalypse!",
+                                    "Has the Projekt \"Kolos country flag",
+                                    "Żaden warunek nie jest spełniony.\n    •   Ma etykę: Pacyfizm\n    •   Ma etykę: Fanatyczny pacyfizm"
                                   ],
                                   "children": [],
                                   "is_event": false
@@ -4348,14 +4348,14 @@
                                     }
                                   ],
                                   "weight_modifiers": [
-                                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Atmospheric Nanobot Dispersal",
-                                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert"
+                                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Atmospheric Nanobot Dispersal",
+                                    "(×<b style='color:red'>0.2</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert"
                                   ],
                                   "potential": [
-                                    "Has DLC Apocalypse",
-                                    "Has the Colossus Project country flag",
-                                    "Has Government Civic: Driven Assimilator"
+                                    "Wymaga DLC Apocalypse!",
+                                    "Has the Projekt \"Kolos country flag",
+                                    "Ma ustrój Ambitny asymilator"
                                   ],
                                   "children": [],
                                   "is_event": false
@@ -4403,9 +4403,9 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.5</b>) One must be true<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal",
-                            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Mega-Engineering",
+                            "(×<b style='color:lime'>1.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal",
+                            "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                            "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Mega-Technika",
                             "(×<b style='color:lime'>1.5</b>) Number of Starhold is greater than or equal to 1",
                             "(×<b style='color:lime'>1.5</b>) Number of Starhold is greater than or equal to 2",
                             "(×<b style='color:lime'>1.5</b>) Number of Starhold is greater than or equal to 3",
@@ -4419,7 +4419,7 @@
                             "(×<b style='color:lime'>1.5</b>) Number of Citadel is greater than or equal to 5",
                             "(×<b style='color:lime'>1.5</b>) Number of Citadel is greater than or equal to 6",
                             "(×<b style='color:lime'>2.0</b>) Any Owned Planet<br/>    •   Is Orbital Habitat",
-                            "(×<b style='color:lime'>1.5</b>) Any Neighbor Country<br/>    •   Has Technology: Mega-Engineering",
+                            "(×<b style='color:lime'>1.5</b>) Any Neighbor Country<br/>    •   Has Technology: Mega-Technika",
                             "(×<b style='color:lime'>20.0</b>) Has any Megastructure"
                           ],
                           "potential": [],
@@ -4448,15 +4448,15 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Physics): <br/>    •   Is Maniacal",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Physics): <br/>    •   Is Spark of Genius",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Physics): <br/>    •   Is Maniacal",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Physics): <br/>    •   Is Spark of Genius",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Master Builders Ascension Perk",
-                                "(×<b style='color:lime'>9.0</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Science Nexus"
+                                "(×<b style='color:lime'>9.0</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Science Nexus"
                               ],
                               "potential": [
-                                "Has DLC Utopia"
+                                "Wymaga DLC Utopia!"
                               ],
                               "children": [],
                               "is_event": false
@@ -4485,16 +4485,16 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Physics): <br/>    •   Is Maniacal",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Physics): <br/>    •   Is Spark of Genius",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Physics): <br/>    •   Is Maniacal",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Physics): <br/>    •   Is Spark of Genius",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Master Builders Ascension Perk",
-                                "(×<b style='color:lime'>6.0</b>) Has Enigmatic Engineering Ascension Perk",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Sentry Array"
+                                "(×<b style='color:lime'>6.0</b>) Has Enigmatic Technika Ascension Perk",
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Sentry Array"
                               ],
                               "potential": [
-                                "Has DLC Utopia"
+                                "Wymaga DLC Utopia!"
                               ],
                               "children": [],
                               "is_event": false
@@ -4523,18 +4523,18 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Pacifist Ethic<br/>    •   Has Fanatic Pacifist Ethic",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Spark of Genius",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
+                                "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Ma etykę: Pacyfizm<br/>    •   Ma etykę: Fanatyczny pacyfizm",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Maniacal",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Spark of Genius",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Master Builders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Eternal Vigilance Ascension Perk",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Strategic Coordination Center"
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Strategic Coordination Center"
                               ],
                               "potential": [
-                                "Has DLC Megacorp"
+                                "Wymaga DLC Megacorp!"
                               ],
                               "children": [],
                               "is_event": false
@@ -4563,18 +4563,18 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Pacifist Ethic<br/>    •   Has Fanatic Pacifist Ethic",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Spark of Genius",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
+                                "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Ma etykę: Pacyfizm<br/>    •   Ma etykę: Fanatyczny pacyfizm",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Maniacal",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Spark of Genius",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Master Builders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Galactic Force Projection Ascension Perk",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Mega Shipyard"
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Mega Shipyard"
                               ],
                               "potential": [
-                                "Has DLC Federations"
+                                "Wymaga DLC Federacjas!"
                               ],
                               "children": [],
                               "is_event": false
@@ -4603,17 +4603,17 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Xenophobe Ethic<br/>    •   Has Fanatic Xenophobe Ethic",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Xenophile Ethic<br/>    •   Has Fanatic Xenophile Ethic",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Spark of Genius",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
+                                "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Xenophobe Ethic<br/>    •   Has Fanatic Xenophobe Ethic",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Xenophile Ethic<br/>    •   Has Fanatic Xenophile Ethic",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Maniacal",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Spark of Genius",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Master Builders Ascension Perk",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Interstellar Assembly"
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Interstellar Assembly"
                               ],
                               "potential": [
-                                "Has DLC Megacorp"
+                                "Wymaga DLC Megacorp!"
                               ],
                               "children": [],
                               "is_event": false
@@ -4642,18 +4642,18 @@
                                 }
                               ],
                               "weight_modifiers": [
-                                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Pacifist Ethic<br/>    •   Has Fanatic Pacifist Ethic",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-                                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Spark of Genius",
-                                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
+                                "(×<b style='color:red'>0.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Ma etykę: Pacyfizm<br/>    •   Ma etykę: Fanatyczny pacyfizm",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Maniacal",
+                                "(×<b style='color:lime'>2.0</b>) Zbadaj przywódcę (Socjologia): <br/>    •   Is Spark of Genius",
+                                "(×<b style='color:lime'>2.0</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Has Galactic Wonders Ascension Perk<br/>    •   Has Galactic Wonders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has Master Builders Ascension Perk",
                                 "(×<b style='color:lime'>6.0</b>) Has One Vision Ascension Perk",
-                                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Mega Art Installation"
+                                "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                                "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Mega Art Installation"
                               ],
                               "potential": [
-                                "Has DLC Megacorp"
+                                "Wymaga DLC Megacorp!"
                               ],
                               "children": [],
                               "is_event": false
@@ -4688,7 +4688,7 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -4725,14 +4725,14 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.5</b>) One must be true<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Maniacal",
-                            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Juggernaut",
+                            "(×<b style='color:lime'>1.5</b>) Jedno z tych stwierdzeń musi być prawdą<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Maniacal",
+                            "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                            "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Juggernaut",
                             "(×<b style='color:lime'>1.25</b>) Has Technology: Titans",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                           ],
                           "potential": [
-                            "Has DLC Federations"
+                            "Wymaga DLC Federacjas!"
                           ],
                           "children": [],
                           "is_event": false
@@ -4767,7 +4767,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -4800,7 +4800,7 @@
                       ],
                       "weight_modifiers": [
                         "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -4830,11 +4830,11 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert",
-                            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Advanced Cruiser Hulls",
+                            "(×<b style='color:red'>0.25</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert",
+                            "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                            "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Advanced Cruiser Hulls",
                             "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -4873,7 +4873,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -4908,7 +4908,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
               ],
               "potential": [],
               "children": [
@@ -4938,10 +4938,10 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Curator<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Engineering): <br/>\t    •   Is Voidcraft Expert",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Advanced Corvette Hulls",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                    "(×<b style='color:red'>0.25</b>) Żaden warunek nie jest spełniony.<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Curator<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Spark of Genius<br/>    •   Zbadaj przywódcę (Technika): <br/>\t    •   Is Voidcraft Expert",
+                    "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+                    "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Advanced Corvette Hulls",
+                    "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -4977,7 +4977,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Voidcraft Expert"
+                "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Voidcraft Expert"
               ],
               "potential": [],
               "children": [],
@@ -5027,12 +5027,12 @@
           "prerequisites_names": [],
           "weight_modifiers": [
             "(×<b style='color:red'>0.0</b>) No System within borders<br/>    •   Any system planet<br/>\t    •   Has £nanites£ Nanites greater than 0",
-            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Nanite Transmutation",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Engineering): <br/>    •   Is Materials Expert"
+            "(×<b style='color:lime'>1.5</b>) Ma korzyść z rozwoju Technologiczna potęga",
+            "(×<b style='color:lime'>2.0</b>) Federacja :<br/>    •   Federacja ma cechę Inspiracja naukowa<br/>    •   Dowolny członek<br/>\t    •   Has Technology: Nanite Transmutation",
+            "(×<b style='color:lime'>1.25</b>) Zbadaj przywódcę (Technika): <br/>    •   Is Materials Expert"
           ],
           "potential": [
-            "Has DLC Distant Stars Story Pack"
+            "Wymaga DLC undefined!"
           ],
           "children": [],
           "is_event": false
@@ -5080,7 +5080,7 @@
           "prerequisites_names": [],
           "weight_modifiers": [],
           "potential": [
-            "Has Gestalt Consciousness Ethic"
+            "Ma etykę: Połączona świadomość"
           ],
           "children": [],
           "is_event": false,
@@ -5177,7 +5177,7 @@
           "potential": [
             "Has the encountered_first_lgate country flag",
             "Does NOT have the completed_lcluster_chain country flag",
-            "Does NOT have the l_cluster_opened global flag"
+            "Does NOT have the l_cluster_opened(Gromada L) global flag"
           ],
           "children": [],
           "is_event": false

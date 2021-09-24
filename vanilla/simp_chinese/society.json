@@ -72,11 +72,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.01</b>) All must be false<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
-                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Machine Intelligence Authority<br/>    •   Founder Species :<br/>\t    •   Is Lithoid",
-                "(×<b style='color:lime'>1.25</b>) Has Pacifist Ethic",
-                "(×<b style='color:lime'>1.5</b>) Has Fanatic Pacifist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                "(×<b style='color:red'>0.01</b>) 以下条件全部为否<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士<br/>    •   Any Owned Planet<br/>\t    •   以下条件至少一个满足<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
+                "(×<b style='color:red'>0.5</b>) 以下条件至少一个满足<br/>    •   拥有机械智能政体<br/>    •   创始物种 :<br/>\t    •   Is Lithoid",
+                "(×<b style='color:lime'>1.25</b>) 拥有和平主义思潮",
+                "(×<b style='color:lime'>1.5</b>) 拥有极端和平主义思潮",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
               ],
               "potential": [],
               "children": [
@@ -107,9 +107,9 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.01</b>) All must be false<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
-                    "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Machine Intelligence Authority<br/>    •   Founder Species :<br/>\t    •   Is Lithoid",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                    "(×<b style='color:red'>0.01</b>) 以下条件全部为否<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士<br/>    •   Any Owned Planet<br/>\t    •   以下条件至少一个满足<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
+                    "(×<b style='color:red'>0.5</b>) 以下条件至少一个满足<br/>    •   拥有机械智能政体<br/>    •   创始物种 :<br/>\t    •   Is Lithoid",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -139,10 +139,10 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.01</b>) All must be false<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
-                        "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Machine Intelligence Authority<br/>    •   Founder Species :<br/>\t    •   Is Lithoid",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert",
-                        "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Mote Stabilization<br/>    •   Has Technology: Volatile Material Plants<br/>    •   Has the has_market_access country flag"
+                        "(×<b style='color:red'>0.01</b>) 以下条件全部为否<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士<br/>    •   Any Owned Planet<br/>\t    •   以下条件至少一个满足<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
+                        "(×<b style='color:red'>0.5</b>) 以下条件至少一个满足<br/>    •   拥有机械智能政体<br/>    •   创始物种 :<br/>\t    •   Is Lithoid",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert",
+                        "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has Technology: Mote Stabilization<br/>    •   Has Technology: Volatile Material Plants<br/>    •   Has the has_market_access country flag"
                       ],
                       "potential": [],
                       "children": [],
@@ -180,11 +180,11 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.01</b>) All must be false<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
-                    "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Machine Intelligence Authority<br/>    •   Founder Species :<br/>\t    •   Is Lithoid",
-                    "(×<b style='color:lime'>1.25</b>) Has Pacifist Ethic",
-                    "(×<b style='color:lime'>1.5</b>) Has Fanatic Pacifist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                    "(×<b style='color:red'>0.01</b>) 以下条件全部为否<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士<br/>    •   Any Owned Planet<br/>\t    •   以下条件至少一个满足<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
+                    "(×<b style='color:red'>0.5</b>) 以下条件至少一个满足<br/>    •   拥有机械智能政体<br/>    •   创始物种 :<br/>\t    •   Is Lithoid",
+                    "(×<b style='color:lime'>1.25</b>) 拥有和平主义思潮",
+                    "(×<b style='color:lime'>1.5</b>) 拥有极端和平主义思潮",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -215,11 +215,11 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.01</b>) All must be false<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
-                        "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Machine Intelligence Authority<br/>    •   Founder Species :<br/>\t    •   Is Lithoid",
-                        "(×<b style='color:lime'>1.25</b>) Has Pacifist Ethic",
-                        "(×<b style='color:lime'>1.5</b>) Has Fanatic Pacifist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                        "(×<b style='color:red'>0.01</b>) 以下条件全部为否<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士<br/>    •   Any Owned Planet<br/>\t    •   以下条件至少一个满足<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
+                        "(×<b style='color:red'>0.5</b>) 以下条件至少一个满足<br/>    •   拥有机械智能政体<br/>    •   创始物种 :<br/>\t    •   Is Lithoid",
+                        "(×<b style='color:lime'>1.25</b>) 拥有和平主义思潮",
+                        "(×<b style='color:lime'>1.5</b>) 拥有极端和平主义思潮",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -250,16 +250,16 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:red'>0.01</b>) All must be false<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
-                            "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Machine Intelligence Authority<br/>    •   Founder Species :<br/>\t    •   Is Lithoid",
-                            "(×<b style='color:red'>0.5</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Nutrient Replication",
-                            "(×<b style='color:lime'>1.25</b>) Has Pacifist Ethic",
-                            "(×<b style='color:lime'>1.5</b>) Has Fanatic Pacifist Ethic"
+                            "(×<b style='color:red'>0.01</b>) 以下条件全部为否<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士<br/>    •   Any Owned Planet<br/>\t    •   以下条件至少一个满足<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
+                            "(×<b style='color:red'>0.5</b>) 以下条件至少一个满足<br/>    •   拥有机械智能政体<br/>    •   创始物种 :<br/>\t    •   Is Lithoid",
+                            "(×<b style='color:red'>0.5</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                            "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                            "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Nutrient Replication",
+                            "(×<b style='color:lime'>1.25</b>) 拥有和平主义思潮",
+                            "(×<b style='color:lime'>1.5</b>) 拥有极端和平主义思潮"
                           ],
                           "potential": [
-                            "Does NOT have Machine Intelligence Authority"
+                            "权力制度不为机械智能"
                           ],
                           "children": [],
                           "is_event": false,
@@ -331,9 +331,9 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.01</b>) All must be false<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator<br/>    •   Any Owned Planet<br/>\t    •   One must be true<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
-                "(×<b style='color:red'>0.5</b>) One must be true<br/>    •   Has Machine Intelligence Authority<br/>    •   Founder Species :<br/>\t    •   Is Lithoid",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                "(×<b style='color:red'>0.01</b>) 以下条件全部为否<br/>    •   Has the non_lithoid_subspecies country flag<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士<br/>    •   Any Owned Planet<br/>\t    •   以下条件至少一个满足<br/>\t\t    •   Number of Agriculture District is greater than 0<br/>\t\t    •   Number of Agricultural Segment is greater than 0",
+                "(×<b style='color:red'>0.5</b>) 以下条件至少一个满足<br/>    •   拥有机械智能政体<br/>    •   创始物种 :<br/>\t    •   Is Lithoid",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
               ],
               "potential": [],
               "children": [],
@@ -363,10 +363,10 @@
           "weight_modifiers": [
             "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
             "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
           ],
           "potential": [
-            "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+            "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
           ],
           "children": [
             {
@@ -397,10 +397,10 @@
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
                 "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
               ],
               "potential": [
-                "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator"
+                "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士"
               ],
               "children": [
                 {
@@ -429,16 +429,16 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.5</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Spark of Genius",
+                    "(×<b style='color:red'>0.5</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Spark of Genius",
                     "(×<b style='color:red'>0.0</b>) Has Fanatic Egalitarian Ethic",
-                    "(×<b style='color:red'>0.25</b>) One must be true<br/>    •   Has Egalitarian Ethic<br/>    •   Has Fanatic Egalitarian Ethic",
-                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Selected Lineages",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                    "(×<b style='color:red'>0.25</b>) 以下条件至少一个满足<br/>    •   Has Egalitarian Ethic<br/>    •   Has Fanatic Egalitarian Ethic",
+                    "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Selected Lineages",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                   ],
                   "potential": [
-                    "Does NOT have Machine Intelligence Authority"
+                    "权力制度不为机械智能"
                   ],
                   "children": [
                     {
@@ -467,15 +467,15 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Spark of Genius",
-                        "(×<b style='color:red'>0.0</b>) One must be true<br/>    •   Has Egalitarian Ethic<br/>    •   Has Fanatic Egalitarian Ethic",
-                        "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
-                        "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                        "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Capacity Boosters",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                        "(×<b style='color:red'>0.2</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Spark of Genius",
+                        "(×<b style='color:red'>0.0</b>) 以下条件至少一个满足<br/>    •   Has Egalitarian Ethic<br/>    •   Has Fanatic Egalitarian Ethic",
+                        "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
+                        "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                        "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Capacity Boosters",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                       ],
                       "potential": [
-                        "Does NOT have Machine Intelligence Authority"
+                        "权力制度不为机械智能"
                       ],
                       "children": [],
                       "is_event": false,
@@ -546,13 +546,13 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) All must be false<br/>    •   Has Egalitarian Ethic<br/>    •   Has Fanatic Egalitarian Ethic",
-                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Subdermal Stimulation",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                "(×<b style='color:lime'>1.25</b>) 以下条件全部为否<br/>    •   Has Egalitarian Ethic<br/>    •   Has Fanatic Egalitarian Ethic",
+                "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Subdermal Stimulation",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [
                 {
@@ -586,11 +586,11 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Has the Curator Insight modifier<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Statecraft Expert",
-                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Tracking Implants",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                    "(×<b style='color:red'>0.2</b>) 以下条件全部为否<br/>    •   Has the Curator Insight modifier<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Statecraft Expert",
+                    "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Tracking Implants",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -629,12 +629,12 @@
               ],
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
-                "(×<b style='color:lime'>1.25</b>) One must be true<br/>    •   Has Xenophile Ethic<br/>    •   Has Fanatic Xenophile Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert",
+                "(×<b style='color:lime'>1.25</b>) 以下条件至少一个满足<br/>    •   Has Xenophile Ethic<br/>    •   Has Fanatic Xenophile Ethic",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert",
                 "(×<b style='color:lime'>1.25</b>) Is Necrophage"
               ],
               "potential": [
-                "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
               ],
               "children": [
                 {
@@ -665,11 +665,11 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert",
                     "(×<b style='color:lime'>1.25</b>) Is Necrophage"
                   ],
                   "potential": [
-                    "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                    "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
                   ],
                   "children": [],
                   "is_event": false,
@@ -704,13 +704,13 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
-                    "(×<b style='color:red'>0.5</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Spark of Genius",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Targeted Gene Expressions",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                    "(×<b style='color:red'>0.5</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Spark of Genius",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Targeted Gene Expressions",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                   ],
                   "potential": [
-                    "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                    "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
                   ],
                   "children": [],
                   "is_event": false,
@@ -744,19 +744,19 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.0</b>) Has DLC Utopia",
+                    "(×<b style='color:red'>0.0</b>) 需要 DLC 乌托邦!",
                     "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                    "(×<b style='color:red'>0.1</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Gene Seed Purification",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Spark of Genius",
-                    "(×<b style='color:lime'>1.5</b>) Research Leader (Society): <br/>    •   Skill level is greater than 4",
-                    "(×<b style='color:red'>0.75</b>) NOT Research Leader (Society): <br/>    •   Skill level is greater than 3"
+                    "(×<b style='color:red'>0.1</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Gene Seed Purification",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Spark of Genius",
+                    "(×<b style='color:lime'>1.5</b>) 研究领袖 (社会学): <br/>    •   Skill level is greater than 4",
+                    "(×<b style='color:red'>0.75</b>) NOT 研究领袖 (社会学): <br/>    •   Skill level is greater than 3"
                   ],
                   "potential": [
-                    "Does NOT have Machine Intelligence Authority"
+                    "权力制度不为机械智能"
                   ],
                   "children": [],
                   "is_event": false,
@@ -798,12 +798,12 @@
                 "(×<b style='color:red'>0.75</b>) Has Xenophobe Ethic",
                 "(×<b style='color:lime'>1.25</b>) Has Xenophile Ethic",
                 "(×<b style='color:lime'>1.5</b>) Has Fanatic Xenophile Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert",
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has the found_presapients country flag<br/>    •   Any Planet within borders<br/>\t    •   Any Owned Pop<br/>\t\t    •   Pop is NOT Sapient"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert",
+                "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has the found_presapients country flag<br/>    •   Any Planet within borders<br/>\t    •   Any Owned Pop<br/>\t\t    •   Pop is NOT Sapient"
               ],
               "potential": [
-                "Does NOT have Government Civic: Fanatic Purifiers",
-                "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                "没有国民理念：种族洁癖",
+                "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
               ],
               "children": [
                 {
@@ -832,20 +832,20 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.0</b>) Has Machine Intelligence Authority",
+                    "(×<b style='color:red'>0.0</b>) 拥有机械智能政体",
                     "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
                     "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
                     "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
-                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Morphogenetic Field Mastery",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Spark of Genius",
-                    "(×<b style='color:lime'>1.5</b>) Research Leader (Society): <br/>    •   Skill level is greater than 4",
-                    "(×<b style='color:red'>0.75</b>) NOT Research Leader (Society): <br/>    •   Skill level is greater than 2"
+                    "(×<b style='color:red'>0.2</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Morphogenetic Field Mastery",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Maniacal",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Spark of Genius",
+                    "(×<b style='color:lime'>1.5</b>) 研究领袖 (社会学): <br/>    •   Skill level is greater than 4",
+                    "(×<b style='color:red'>0.75</b>) NOT 研究领袖 (社会学): <br/>    •   Skill level is greater than 2"
                   ],
                   "potential": [
-                    "Does NOT have Machine Intelligence Authority"
+                    "权力制度不为机械智能"
                   ],
                   "children": [],
                   "is_event": false,
@@ -885,10 +885,10 @@
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
                 "(×<b style='color:lime'>1.25</b>) Has Supremacy Traditions Tradition",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
               ],
               "potential": [
-                "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator"
+                "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士"
               ],
               "children": [
                 {
@@ -918,14 +918,14 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Hive Mind Authority",
-                    "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Spark of Genius",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Gene Banks",
-                    "(×<b style='color:lime'>1.5</b>) Research Leader (Society): <br/>    •   Skill level is greater than 4",
-                    "(×<b style='color:red'>0.75</b>) Research Leader (Society): <br/>    •   Skill level is lower than 2"
+                    "(×<b style='color:red'>0.2</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Spark of Genius",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Gene Banks",
+                    "(×<b style='color:lime'>1.5</b>) 研究领袖 (社会学): <br/>    •   Skill level is greater than 4",
+                    "(×<b style='color:red'>0.75</b>) 研究领袖 (社会学): <br/>    •   Skill level is lower than 2"
                   ],
                   "potential": [
-                    "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator"
+                    "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士"
                   ],
                   "children": [],
                   "is_event": false,
@@ -967,7 +967,7 @@
             "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 10",
             "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 15",
             "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 20",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
           ],
           "potential": [],
           "children": [
@@ -1001,7 +1001,7 @@
                 "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 10",
                 "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 15",
                 "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 20",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
               ],
               "potential": [],
               "children": [
@@ -1035,7 +1035,7 @@
                     "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 30",
                     "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 35",
                     "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 40",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -1069,7 +1069,7 @@
                   "weight_modifiers": [
                     "(×<b style='color:red'>0.0</b>) Does NOT have £minor_artifacts£ Minor Artifacts greater than 0",
                     "(×<b style='color:red'>0.0</b>) Does NOT have DLC Ancient Relics Story Pack",
-                    "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                    "(×<b style='color:lime'>2.0</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -1130,8 +1130,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
               ],
               "potential": [],
               "children": [
@@ -1162,8 +1162,8 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                    "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -1195,8 +1195,8 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+            "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
           ],
           "potential": [],
           "children": [
@@ -1226,8 +1226,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
               ],
               "potential": [],
               "children": [
@@ -1257,8 +1257,8 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                    "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -1288,8 +1288,8 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                        "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -1319,8 +1319,8 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                            "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
                           ],
                           "potential": [],
                           "children": [
@@ -1389,8 +1389,8 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+            "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
           ],
           "potential": [],
           "children": [
@@ -1421,8 +1421,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
               ],
               "potential": [],
               "children": [
@@ -1511,8 +1511,8 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+            "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
           ],
           "potential": [],
           "children": [
@@ -1542,8 +1542,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
               ],
               "potential": [],
               "children": [
@@ -1573,8 +1573,8 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                    "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -1604,8 +1604,8 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                        "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -1670,10 +1670,10 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
           ],
           "potential": [
-            "Has Machine Intelligence Authority"
+            "拥有机械智能政体"
           ],
           "children": [
             {
@@ -1702,14 +1702,14 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.1</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Biology Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Biomechanics",
-                "(×<b style='color:lime'>1.5</b>) Research Leader (Society): <br/>    •   Skill level is greater than 4",
-                "(×<b style='color:red'>0.75</b>) NOT Research Leader (Society): <br/>    •   Skill level is greater than 3"
+                "(×<b style='color:red'>0.1</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is 生物学 Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Biomechanics",
+                "(×<b style='color:lime'>1.5</b>) 研究领袖 (社会学): <br/>    •   Skill level is greater than 4",
+                "(×<b style='color:red'>0.75</b>) NOT 研究领袖 (社会学): <br/>    •   Skill level is greater than 3"
               ],
               "potential": [
-                "Has Machine Intelligence Authority"
+                "拥有机械智能政体"
               ],
               "children": [],
               "is_event": false,
@@ -1739,8 +1739,8 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+            "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
           ],
           "potential": [],
           "children": [
@@ -1771,8 +1771,8 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
               ],
               "potential": [],
               "children": [
@@ -1803,8 +1803,8 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert"
+                    "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Militarist Ethic<br/>    •   Has Fanatic Militarist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -1865,11 +1865,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
-                "(×<b style='color:red'>0.7</b>) One must be true<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:red'>0.7</b>) 以下条件至少一个满足<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士"
               ],
               "potential": [
-                "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
               ],
               "children": [
                 {
@@ -1898,11 +1898,11 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
-                    "(×<b style='color:red'>0.7</b>) One must be true<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
+                    "(×<b style='color:red'>0.7</b>) 以下条件至少一个满足<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士"
                   ],
                   "potential": [
-                    "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                    "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
                   ],
                   "children": [
                     {
@@ -1931,11 +1931,11 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
-                        "(×<b style='color:red'>0.7</b>) One must be true<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
+                        "(×<b style='color:red'>0.7</b>) 以下条件至少一个满足<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士"
                       ],
                       "potential": [
-                        "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                        "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
                       ],
                       "children": [
                         {
@@ -1964,11 +1964,11 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
-                            "(×<b style='color:red'>0.7</b>) One must be true<br/>    •   Has Government Civic: Rogue Servitor<br/>    •   Has Government Civic: Driven Assimilator"
+                            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
+                            "(×<b style='color:red'>0.7</b>) 以下条件至少一个满足<br/>    •   拥有国民理念：失控机仆<br/>    •   拥有国民理念：同化斗士"
                           ],
                           "potential": [
-                            "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                            "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
                           ],
                           "children": [],
                           "is_event": false,
@@ -2008,13 +2008,13 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is New Worlds Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                        "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                        "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Tomb World Adaptation",
+                        "(×<b style='color:red'>0.2</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is New Worlds Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                        "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                        "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Tomb World Adaptation",
                         "(×<b style='color:lime'>2.0</b>) Any Owned Planet<br/>    •   Is Tomb World"
                       ],
                       "potential": [
-                        "One must be true\n    •   Does NOT have Machine Intelligence Authority\n    •   Has Government Civic: Driven Assimilator\n    •   Has Government Civic: Rogue Servitor"
+                        "以下条件至少一个满足\n    •   权力制度不为机械智能\n    •   拥有国民理念：同化斗士\n    •   拥有国民理念：失控机仆"
                       ],
                       "children": [],
                       "is_event": false,
@@ -2066,10 +2066,10 @@
               ],
               "weight_modifiers": [
                 "(×<b style='color:lime'>1.25</b>) Has Harmony Traditions Tradition",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [
                 {
@@ -2103,12 +2103,12 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Exotic Gas Extraction<br/>    •   Has Technology: Exotic Gas Refining<br/>    •   Has the has_market_access country flag",
+                    "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has Technology: Exotic Gas Extraction<br/>    •   Has Technology: Exotic Gas Refining<br/>    •   Has the has_market_access country flag",
                     "(×<b style='color:lime'>1.25</b>) Has Harmony Traditions Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert"
                   ],
                   "potential": [
-                    "Does NOT have Gestalt Consciousness Ethic"
+                    "没有格式塔意识思潮"
                   ],
                   "children": [],
                   "is_event": false,
@@ -2146,7 +2146,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Deep Sinkhole",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2181,7 +2181,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Massive Glacier",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2216,7 +2216,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Noxious Swamp",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2251,7 +2251,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Dense Jungle",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2286,7 +2286,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Quicksand Basin",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2321,7 +2321,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Toxic Kelp",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2356,7 +2356,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Active Volcano",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2392,7 +2392,7 @@
               "weight_modifiers": [
                 "(×<b style='color:red'>0.0</b>) Has Government Civic: Devouring Swarm",
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert"
               ],
               "potential": [],
               "children": [
@@ -2423,7 +2423,7 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -2454,7 +2454,7 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -2491,7 +2491,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Impassable Mountains",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2526,7 +2526,7 @@
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
                 "(×<b style='color:lime'>4.0</b>) Has Mastery of Nature Ascension Perk",
                 "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit £blocker£ Dangerous Wildlife",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [],
@@ -2558,7 +2558,7 @@
             "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 2",
             "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 3",
             "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 4",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
             "(×<b style='color:red'>0.0</b>) Number of communications is lower than 1"
           ],
           "potential": [],
@@ -2590,11 +2590,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.0</b>) One must be true<br/>    •   Has Government Civic: Fanatic Purifiers<br/>    •   Has Government Civic: Devouring Swarm<br/>    •   Has Government Civic: Determined Exterminator",
+                "(×<b style='color:red'>0.0</b>) 以下条件至少一个满足<br/>    •   Has Government Civic: Fanatic Purifiers<br/>    •   Has Government Civic: Devouring Swarm<br/>    •   Has Government Civic: Determined Exterminator",
                 "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 2",
                 "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 3",
                 "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 4",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert",
                 "(×<b style='color:red'>0.0</b>) Number of communications is lower than 1"
               ],
               "potential": [],
@@ -2626,11 +2626,11 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.0</b>) One must be true<br/>    •   Has Government Civic: Fanatic Purifiers<br/>    •   Has Government Civic: Devouring Swarm<br/>    •   Has Government Civic: Determined Exterminator",
+                    "(×<b style='color:red'>0.0</b>) 以下条件至少一个满足<br/>    •   Has Government Civic: Fanatic Purifiers<br/>    •   Has Government Civic: Devouring Swarm<br/>    •   Has Government Civic: Determined Exterminator",
                     "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 2",
                     "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 3",
                     "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 4",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Military Theory Expert",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Military Theory Expert",
                     "(×<b style='color:red'>0.0</b>) Number of communications is lower than 1"
                   ],
                   "potential": [],
@@ -2669,7 +2669,7 @@
                 "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 2",
                 "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 3",
                 "(×<b style='color:lime'>2.0</b>) Number of communications is greater than 4",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert",
                 "(×<b style='color:red'>0.0</b>) Number of communications is lower than 1"
               ],
               "potential": [],
@@ -2728,7 +2728,7 @@
           "tier": 0,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [
             "Has Hive Mind Authority"
@@ -2761,7 +2761,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
               ],
               "potential": [],
               "children": [
@@ -2796,7 +2796,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                   ],
                   "potential": [],
                   "children": [],
@@ -2829,7 +2829,7 @@
           "prerequisites_names": [],
           "weight_modifiers": [],
           "potential": [
-            "Does NOT have Gestalt Consciousness Ethic"
+            "没有格式塔意识思潮"
           ],
           "children": [
             {
@@ -2858,11 +2858,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Exotic Gas Extraction<br/>    •   Has Technology: Exotic Gas Refining<br/>    •   Has the has_market_access country flag",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has Technology: Exotic Gas Extraction<br/>    •   Has Technology: Exotic Gas Refining<br/>    •   Has the has_market_access country flag",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [],
               "is_event": false,
@@ -2926,7 +2926,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.75</b>) All must be false<br/>    •   Has Pacifist Ethic<br/>    •   Has Fanatic Pacifist Ethic"
+                "(×<b style='color:red'>0.75</b>) 以下条件全部为否<br/>    •   拥有和平主义思潮<br/>    •   拥有极端和平主义思潮"
               ],
               "potential": [],
               "children": [
@@ -2959,7 +2959,7 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -2995,7 +2995,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -3036,7 +3036,7 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is New Worlds Expert"
+                            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is New Worlds Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -3074,14 +3074,14 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
                         "(×<b style='color:lime'>1.25</b>) Has Xenophile Ethic",
                         "(×<b style='color:lime'>2.0</b>) Has Fanatic Xenophile Ethic",
                         "(×<b style='color:lime'>2.0</b>) Member of the Galactic Community",
                         "(×<b style='color:red'>0.01</b>) Has Government Civic: Inward Perfection"
                       ],
                       "potential": [
-                        "null\n    •   One must be true\n\t    •   Is of country type: default\n\t    •   Is of country type: Fallen Empire\n\t    •   Is of country type: Awakened Empire\n    •   Does NOT have Gestalt Consciousness Ethic"
+                        "null\n    •   以下条件至少一个满足\n\t    •   Is of country type: default\n\t    •   Is of country type: Fallen Empire\n\t    •   Is of country type: Awakened Empire\n    •   没有格式塔意识思潮"
                       ],
                       "children": [
                         {
@@ -3116,14 +3116,14 @@
                             }
                           ],
                           "weight_modifiers": [
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
+                            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
                             "(×<b style='color:lime'>1.25</b>) Has Xenophile Ethic",
                             "(×<b style='color:lime'>2.0</b>) Has Fanatic Xenophile Ethic",
                             "(×<b style='color:lime'>2.0</b>) Member of the Galactic Community",
                             "(×<b style='color:red'>0.01</b>) Has Government Civic: Inward Perfection"
                           ],
                           "potential": [
-                            "null\n    •   One must be true\n\t    •   Is of country type: default\n\t    •   Is of country type: Fallen Empire\n\t    •   Is of country type: Awakened Empire\n    •   Does NOT have Gestalt Consciousness Ethic"
+                            "null\n    •   以下条件至少一个满足\n\t    •   Is of country type: default\n\t    •   Is of country type: Fallen Empire\n\t    •   Is of country type: Awakened Empire\n    •   没有格式塔意识思潮"
                           ],
                           "children": [],
                           "is_event": false,
@@ -3164,10 +3164,10 @@
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 5",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 6",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 7",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [
-                        "Has Gestalt Consciousness Ethic"
+                        "拥有格式塔意识思潮"
                       ],
                       "children": [
                         {
@@ -3202,10 +3202,10 @@
                             "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 8",
                             "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 9",
                             "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 10",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                           ],
                           "potential": [
-                            "Has Gestalt Consciousness Ethic"
+                            "拥有格式塔意识思潮"
                           ],
                           "children": [],
                           "is_event": false,
@@ -3246,11 +3246,11 @@
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 5",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 6",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 7",
-                        "(×<b style='color:lime'>1.25</b>) One must be true<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 以下条件至少一个满足<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [
-                        "Does NOT have Gestalt Consciousness Ethic"
+                        "没有格式塔意识思潮"
                       ],
                       "children": [],
                       "is_event": false,
@@ -3290,8 +3290,8 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Nano-Circuit Assembly<br/>    •   Does NOT use consumer goods",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has Technology: Nano-Circuit Assembly<br/>    •   Does NOT use consumer goods",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -3330,10 +3330,10 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [
-                        "All must be false\n    •   Has Spiritualist Ethic\n    •   Has Fanatic Spiritualist Ethic\n    •   Has Government Civic: Rogue Servitor"
+                        "以下条件全部为否\n    •   拥有唯心主义思潮\n    •   拥有极端唯心主义思潮\n    •   拥有国民理念：失控机仆"
                       ],
                       "children": [],
                       "is_event": false
@@ -3366,7 +3366,7 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -3403,11 +3403,11 @@
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 8",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 9",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 10",
-                        "(×<b style='color:lime'>1.5</b>) One must be true<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.5</b>) 以下条件至少一个满足<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [
-                        "Does NOT have Gestalt Consciousness Ethic"
+                        "没有格式塔意识思潮"
                       ],
                       "children": [],
                       "is_event": false,
@@ -3444,14 +3444,14 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Statecraft Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                        "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                        "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Galactic Markets",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
+                        "(×<b style='color:red'>0.25</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Statecraft Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                        "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                        "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Galactic Markets",
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
                         "(×<b style='color:red'>0.0</b>) Number of communications is lower than 2"
                       ],
                       "potential": [
-                        "Does NOT have Gestalt Consciousness Ethic"
+                        "没有格式塔意识思潮"
                       ],
                       "children": [],
                       "is_event": false,
@@ -3490,7 +3490,7 @@
                     "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 2",
                     "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 3",
                     "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 4",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3527,7 +3527,7 @@
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 2",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 3",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 4",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -3564,7 +3564,7 @@
                             "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 2",
                             "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 3",
                             "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 4",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                           ],
                           "potential": [],
                           "children": [
@@ -3634,7 +3634,7 @@
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 2",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 3",
                         "(×<b style='color:lime'>1.5</b>) Number of owned planets is greater than 4",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [],
                       "children": [],
@@ -3670,7 +3670,7 @@
                   ],
                   "weight_modifiers": [
                     "(×<b style='color:red'>0.25</b>) Does NOT have Prosperity Traditions Finished Tradition",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                   ],
                   "potential": [],
                   "children": [
@@ -3706,7 +3706,7 @@
                       ],
                       "weight_modifiers": [
                         "(×<b style='color:red'>0.25</b>) Does NOT have Prosperity Traditions Finished Tradition",
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [],
                       "children": [
@@ -3742,7 +3742,7 @@
                           ],
                           "weight_modifiers": [
                             "(×<b style='color:red'>0.25</b>) Does NOT have Prosperity Traditions Finished Tradition",
-                            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                           ],
                           "potential": [],
                           "children": [],
@@ -3780,7 +3780,7 @@
           "prerequisites_names": [],
           "weight_modifiers": [],
           "potential": [
-            "Does NOT have Gestalt Consciousness Ethic"
+            "没有格式塔意识思潮"
           ],
           "children": [
             {
@@ -3809,11 +3809,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
                 "(×<b style='color:lime'>1.25</b>) Has Prosperity Traditions Tradition"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [
                 {
@@ -3843,12 +3843,12 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
+                    "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
                     "(×<b style='color:lime'>1.25</b>) Has Prosperity Traditions Tradition"
                   ],
                   "potential": [
-                    "Does NOT have Gestalt Consciousness Ethic"
+                    "没有格式塔意识思潮"
                   ],
                   "children": [],
                   "is_event": false,
@@ -3888,7 +3888,7 @@
           "tier": 0,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [
             "Does NOT have Hive Mind Authority"
@@ -3922,11 +3922,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
+                "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag"
               ],
               "potential": [
-                "All must be false\n    •   Has Spiritualist Ethic\n    •   Has Fanatic Spiritualist Ethic\n    •   Has Government Civic: Rogue Servitor"
+                "以下条件全部为否\n    •   拥有唯心主义思潮\n    •   拥有极端唯心主义思潮\n    •   拥有国民理念：失控机仆"
               ],
               "children": [
                 {
@@ -3962,10 +3962,10 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                   ],
                   "potential": [
-                    "All must be false\n    •   Has Spiritualist Ethic\n    •   Has Fanatic Spiritualist Ethic\n    •   Has Government Civic: Rogue Servitor"
+                    "以下条件全部为否\n    •   拥有唯心主义思潮\n    •   拥有极端唯心主义思潮\n    •   拥有国民理念：失控机仆"
                   ],
                   "children": [],
                   "is_event": false
@@ -4000,11 +4000,11 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.0</b>) All must be false<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                "(×<b style='color:red'>0.0</b>) 以下条件全部为否<br/>    •   Has Technology: Rare Crystal Mining<br/>    •   Has Technology: Rare Crystal Manufacturing<br/>    •   Has the has_market_access country flag",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
               ],
               "potential": [
-                "One must be true\n    •   Has Spiritualist Ethic\n    •   Has Fanatic Spiritualist Ethic"
+                "以下条件至少一个满足\n    •   拥有唯心主义思潮\n    •   拥有极端唯心主义思潮"
               ],
               "children": [
                 {
@@ -4039,10 +4039,10 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                    "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                   ],
                   "potential": [
-                    "One must be true\n    •   Has Spiritualist Ethic\n    •   Has Fanatic Spiritualist Ethic"
+                    "以下条件至少一个满足\n    •   拥有唯心主义思潮\n    •   拥有极端唯心主义思潮"
                   ],
                   "children": [
                     {
@@ -4076,10 +4076,10 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                        "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
                       ],
                       "potential": [
-                        "One must be true\n    •   Has Spiritualist Ethic\n    •   Has Fanatic Spiritualist Ethic"
+                        "以下条件至少一个满足\n    •   拥有唯心主义思潮\n    •   拥有极端唯心主义思潮"
                       ],
                       "children": [],
                       "is_event": false
@@ -4117,11 +4117,11 @@
             "(×<b style='color:lime'>1.5</b>) Number of slaves is greater than 9",
             "(×<b style='color:lime'>2.0</b>) Number of slaves is greater than 19",
             "(×<b style='color:lime'>2.0</b>) Number of slaves is greater than 29",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
-            "(×<b style='color:red'>0.0</b>) One must be true<br/>    •   All must be false<br/>\t    •   Has policy Slavery Allowed<br/>\t    •   Has Gestalt Consciousness Ethic<br/>    •   No Owned Pop<br/>\t    •   Pop is enslaved"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
+            "(×<b style='color:red'>0.0</b>) 以下条件至少一个满足<br/>    •   以下条件全部为否<br/>\t    •   Has policy Slavery Allowed<br/>\t    •   拥有格式塔意识思潮<br/>    •   No Owned Pop<br/>\t    •   Pop is enslaved"
           ],
           "potential": [
-            "Does NOT have Gestalt Consciousness Ethic"
+            "没有格式塔意识思潮"
           ],
           "children": [
             {
@@ -4148,13 +4148,13 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Statecraft Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
+                "(×<b style='color:red'>0.25</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Statecraft Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2",
-                "(×<b style='color:red'>0.0</b>) One must be true<br/>    •   All must be false<br/>\t    •   Has policy Slavery Allowed<br/>\t    •   Has Gestalt Consciousness Ethic<br/>    •   No Owned Pop<br/>\t    •   Pop is enslaved"
+                "(×<b style='color:red'>0.0</b>) 以下条件至少一个满足<br/>    •   以下条件全部为否<br/>\t    •   Has policy Slavery Allowed<br/>\t    •   拥有格式塔意识思潮<br/>    •   No Owned Pop<br/>\t    •   Pop is enslaved"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [],
               "is_event": false,
@@ -4184,10 +4184,10 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [
-            "Has Gestalt Consciousness Ethic"
+            "拥有格式塔意识思潮"
           ],
           "children": [
             {
@@ -4216,10 +4216,10 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
               ],
               "potential": [
-                "Has Machine Intelligence Authority"
+                "拥有机械智能政体"
               ],
               "children": [],
               "is_event": false,
@@ -4251,7 +4251,7 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
               ],
               "potential": [
                 "Has Hive Mind Authority"
@@ -4284,10 +4284,10 @@
           "tier": 2,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [
-            "Does NOT have Gestalt Consciousness Ethic"
+            "没有格式塔意识思潮"
           ],
           "children": [
             {
@@ -4314,15 +4314,15 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Statecraft Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Penal Colonies",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
-                "(×<b style='color:lime'>2.0</b>) One must be true<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
+                "(×<b style='color:red'>0.25</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Statecraft Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Penal Colonies",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
+                "(×<b style='color:lime'>2.0</b>) 以下条件至少一个满足<br/>    •   Has Authoritarian Ethic<br/>    •   Has Fanatic Authoritarian Ethic",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [],
               "is_event": false,
@@ -4352,14 +4352,14 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.25</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Statecraft Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Resort Worlds",
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert",
+                "(×<b style='color:red'>0.25</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Statecraft Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Resort Worlds",
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert",
                 "(×<b style='color:red'>0.0</b>) Number of owned planets is lower than 2"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [],
               "is_event": false,
@@ -4391,10 +4391,10 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+                "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [],
               "is_event": false,
@@ -4453,19 +4453,19 @@
           "tier": 3,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:red'>0.0</b>) Has Gestalt Consciousness Ethic",
-            "(×<b style='color:red'>0.5</b>) All must be false<br/>    •   Has Spiritualist Ethic<br/>    •   Has Fanatic Spiritualist Ethic",
-            "(×<b style='color:lime'>2.0</b>) Has Fanatic Spiritualist Ethic",
-            "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-            "(×<b style='color:lime'>8.0</b>) Research Leader (Society): <br/>    •   Is Psionics Expert",
-            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Psionic Theory",
+            "(×<b style='color:red'>0.0</b>) 拥有格式塔意识思潮",
+            "(×<b style='color:red'>0.5</b>) 以下条件全部为否<br/>    •   拥有唯心主义思潮<br/>    •   拥有极端唯心主义思潮",
+            "(×<b style='color:lime'>2.0</b>) 拥有极端唯心主义思潮",
+            "(×<b style='color:lime'>2.0</b>) 研究领袖 (社会学): <br/>    •   Is Maniacal",
+            "(×<b style='color:lime'>8.0</b>) 研究领袖 (社会学): <br/>    •   Is Psionics Expert",
+            "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+            "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Psionic Theory",
             "(×<b style='color:lime'>2.0</b>) Any Owned Pop<br/>    •   Pop has trait Psionic",
             "(×<b style='color:lime'>1.25</b>) No Owned Pop<br/>    •   Pop has trait Psionic",
-            "(×<b style='color:red'>0.0</b>) All must be true<br/>    •   One must be true<br/>\t    •   Has Materialist Ethic<br/>\t    •   Has Fanatic Materialist Ethic<br/>    •   All must be false<br/>\t    •   Research Leader (Society): <br/>\t\t    •   Is Psionics Expert<br/>\t    •   Any Owned Pop<br/>\t\t    •   One must be true<br/>\t\t\t    •   Pop has trait Psionic<br/>\t\t\t    •   Pop has trait Latent Psionic"
+            "(×<b style='color:red'>0.0</b>) 以下条件全部满足<br/>    •   以下条件至少一个满足<br/>\t    •   Has Materialist Ethic<br/>\t    •   Has Fanatic Materialist Ethic<br/>    •   以下条件全部为否<br/>\t    •   研究领袖 (社会学): <br/>\t\t    •   Is Psionics Expert<br/>\t    •   Any Owned Pop<br/>\t\t    •   以下条件至少一个满足<br/>\t\t\t    •   Pop has trait Psionic<br/>\t\t\t    •   Pop has trait Latent Psionic"
           ],
           "potential": [
-            "One must be true\n    •   Does NOT have Gestalt Consciousness Ethic\n    •   Has resolution : Extradimensional Experimentation"
+            "以下条件至少一个满足\n    •   没有格式塔意识思潮\n    •   Has resolution : Extradimensional Experimentation"
           ],
           "children": [
             {
@@ -4494,19 +4494,19 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.0</b>) Has DLC Utopia",
-                "(×<b style='color:red'>0.5</b>) NOT Research Leader (Society): <br/>    •   Is Psionics Expert",
-                "(×<b style='color:lime'>1.1</b>) Research Leader (Society): <br/>    •   Skill level is greater than 2<br/>    •   Is Psionics Expert",
-                "(×<b style='color:lime'>1.5</b>) Research Leader (Society): <br/>    •   Skill level is greater than 3<br/>    •   Is Psionics Expert",
-                "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Skill level is greater than 4<br/>    •   Is Psionics Expert",
-                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Telepathy",
-                "(×<b style='color:lime'>2.0</b>) Has Spiritualist Ethic",
-                "(×<b style='color:lime'>3.0</b>) Has Fanatic Spiritualist Ethic",
-                "(×<b style='color:lime'>4.0</b>) Research Leader (Society): <br/>    •   Is Maniacal"
+                "(×<b style='color:red'>0.0</b>) 需要 DLC 乌托邦!",
+                "(×<b style='color:red'>0.5</b>) NOT 研究领袖 (社会学): <br/>    •   Is Psionics Expert",
+                "(×<b style='color:lime'>1.1</b>) 研究领袖 (社会学): <br/>    •   Skill level is greater than 2<br/>    •   Is Psionics Expert",
+                "(×<b style='color:lime'>1.5</b>) 研究领袖 (社会学): <br/>    •   Skill level is greater than 3<br/>    •   Is Psionics Expert",
+                "(×<b style='color:lime'>2.0</b>) 研究领袖 (社会学): <br/>    •   Skill level is greater than 4<br/>    •   Is Psionics Expert",
+                "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   拥有心灵感应科技",
+                "(×<b style='color:lime'>2.0</b>) 拥有唯心主义思潮",
+                "(×<b style='color:lime'>3.0</b>) 拥有极端唯心主义思潮",
+                "(×<b style='color:lime'>4.0</b>) 研究领袖 (社会学): <br/>    •   Is Maniacal"
               ],
               "potential": [
-                "Does NOT have Gestalt Consciousness Ethic"
+                "没有格式塔意识思潮"
               ],
               "children": [
                 {
@@ -4535,17 +4535,17 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.0</b>) Has DLC Utopia",
-                    "(×<b style='color:red'>0.5</b>) NOT Research Leader (Society): <br/>    •   Is Psionics Expert",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Precognition Interface",
-                    "(×<b style='color:lime'>2.0</b>) Has Spiritualist Ethic",
-                    "(×<b style='color:lime'>3.0</b>) Has Fanatic Spiritualist Ethic",
-                    "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-                    "(×<b style='color:lime'>4.0</b>) Research Leader (Society): <br/>    •   Is Psionics Expert"
+                    "(×<b style='color:red'>0.0</b>) 需要 DLC 乌托邦!",
+                    "(×<b style='color:red'>0.5</b>) NOT 研究领袖 (社会学): <br/>    •   Is Psionics Expert",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Precognition Interface",
+                    "(×<b style='color:lime'>2.0</b>) 拥有唯心主义思潮",
+                    "(×<b style='color:lime'>3.0</b>) 拥有极端唯心主义思潮",
+                    "(×<b style='color:lime'>2.0</b>) 研究领袖 (社会学): <br/>    •   Is Maniacal",
+                    "(×<b style='color:lime'>4.0</b>) 研究领袖 (社会学): <br/>    •   Is Psionics Expert"
                   ],
                   "potential": [
-                    "Does NOT have Gestalt Consciousness Ethic"
+                    "没有格式塔意识思潮"
                   ],
                   "children": [
                     {
@@ -4575,13 +4575,13 @@
                         }
                       ],
                       "weight_modifiers": [
-                        "(×<b style='color:red'>0.0</b>) Has DLC Utopia",
-                        "(×<b style='color:red'>0.1</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Psionics Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Spark of Genius<br/>    •   Research Leader (Society): <br/>\t    •   Is Maniacal",
-                        "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                        "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Psi Jump Drive"
+                        "(×<b style='color:red'>0.0</b>) 需要 DLC 乌托邦!",
+                        "(×<b style='color:red'>0.1</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Psionics Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Spark of Genius<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Maniacal",
+                        "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                        "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Psi Jump Drive"
                       ],
                       "potential": [
-                        "Does NOT have Gestalt Consciousness Ethic"
+                        "没有格式塔意识思潮"
                       ],
                       "children": [],
                       "is_event": false,
@@ -4617,17 +4617,17 @@
                     }
                   ],
                   "weight_modifiers": [
-                    "(×<b style='color:red'>0.5</b>) NOT Research Leader (Society): <br/>    •   Is Psionics Expert",
-                    "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                    "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Thought Enforcement",
+                    "(×<b style='color:red'>0.5</b>) NOT 研究领袖 (社会学): <br/>    •   Is Psionics Expert",
+                    "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                    "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Thought Enforcement",
                     "(×<b style='color:lime'>2.0</b>) Has Authoritarian Ethic",
                     "(×<b style='color:lime'>3.0</b>) Has Fanatic Authoritarian Ethic",
                     "(×<b style='color:lime'>2.0</b>) Has Government Civic: Police State",
-                    "(×<b style='color:lime'>2.0</b>) Research Leader (Society): <br/>    •   Is Maniacal",
-                    "(×<b style='color:lime'>4.0</b>) Research Leader (Society): <br/>    •   Is Psionics Expert"
+                    "(×<b style='color:lime'>2.0</b>) 研究领袖 (社会学): <br/>    •   Is Maniacal",
+                    "(×<b style='color:lime'>4.0</b>) 研究领袖 (社会学): <br/>    •   Is Psionics Expert"
                   ],
                   "potential": [
-                    "Does NOT have Gestalt Consciousness Ethic"
+                    "没有格式塔意识思潮"
                   ],
                   "children": [],
                   "is_event": false,
@@ -4668,10 +4668,10 @@
                 }
               ],
               "weight_modifiers": [
-                "(×<b style='color:red'>0.1</b>) All must be false<br/>    •   Research Leader (Society): <br/>\t    •   Is Psionics Expert<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator",
-                "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-                "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Zro Distillation",
-                "(×<b style='color:lime'>10.0</b>) Research Leader (Society): <br/>    •   Is Psionics Expert"
+                "(×<b style='color:red'>0.1</b>) 以下条件全部为否<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Psionics Expert<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator",
+                "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+                "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Zro Distillation",
+                "(×<b style='color:lime'>10.0</b>) 研究领袖 (社会学): <br/>    •   Is Psionics Expert"
               ],
               "potential": [],
               "children": [],
@@ -4702,11 +4702,11 @@
           "weight_modifiers": [
             "(×<b style='color:lime'>2.0</b>) Has Xenophile Ethic",
             "(×<b style='color:lime'>3.0</b>) Has Fanatic Xenophile Ethic",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Biology Expert",
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is 生物学 Expert",
             "(×<b style='color:red'>0.0</b>) No Owned Planet<br/>    •   Has deposit Isolated Valley"
           ],
           "potential": [
-            "null\n    •   One must be true\n\t    •   Is of country type: default\n\t    •   Is of country type: Fallen Empire\n\t    •   Is of country type: Awakened Empire\n    •   Does NOT have Gestalt Consciousness Ethic"
+            "null\n    •   以下条件至少一个满足\n\t    •   Is of country type: default\n\t    •   Is of country type: Fallen Empire\n\t    •   Is of country type: Awakened Empire\n    •   没有格式塔意识思潮"
           ],
           "children": [],
           "is_event": false,
@@ -4731,10 +4731,10 @@
           "tier": 3,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [
-            "Has Corporate Authority"
+            "拥有企业政府政体"
           ],
           "children": [],
           "is_event": false,
@@ -4759,10 +4759,10 @@
           "tier": 3,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [
-            "Has Corporate Authority"
+            "拥有企业政府政体"
           ],
           "children": [],
           "is_event": false,
@@ -4788,7 +4788,7 @@
           "prerequisites_names": [],
           "weight_modifiers": [
             "(×<b style='color:red'>0.0</b>) Does NOT have Government Civic: Agrarian Idyll",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [],
           "children": [],
@@ -4814,10 +4814,10 @@
           "tier": 5,
           "prerequisites_names": [],
           "weight_modifiers": [
-            "(×<b style='color:red'>0.2</b>) All must be false<br/>    •   Has the Curator Insight modifier<br/>    •   Research Leader (Society): <br/>\t    •   Is Curator<br/>    •   Research Leader (Society): <br/>\t    •   Is Statecraft Expert",
-            "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-            "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Ascension Theory",
-            "(×<b style='color:lime'>1.25</b>) Research Leader (Society): <br/>    •   Is Statecraft Expert"
+            "(×<b style='color:red'>0.2</b>) 以下条件全部为否<br/>    •   Has the Curator Insight modifier<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Curator<br/>    •   研究领袖 (社会学): <br/>\t    •   Is Statecraft Expert",
+            "(×<b style='color:lime'>1.5</b>) 拥有科技至上飞升天赋",
+            "(×<b style='color:lime'>2.0</b>) 联邦 :<br/>    •   联邦已采取科研灵感<br/>    •   任意成员<br/>\t    •   Has Technology: Ascension Theory",
+            "(×<b style='color:lime'>1.25</b>) 研究领袖 (社会学): <br/>    •   Is Statecraft Expert"
           ],
           "potential": [],
           "children": [],

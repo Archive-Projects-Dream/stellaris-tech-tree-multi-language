@@ -184,9 +184,9 @@
     "prerequisites_names": [],
     "weight_modifiers": [],
     "potential": [
-      "Has DLC Nemesis",
-      "Has Become the Crisis Ascension Perk",
-      "Has the can_build_star_eaters country flag"
+      "Nécessite le DLC Nemesis.!",
+      "A l'atout de l'ascension Devenir la crise",
+      "Has the can_build_star_eaters($crisis_star_eater$) country flag"
     ],
     "children": [],
     "is_event": true
@@ -212,7 +212,7 @@
     "tier": 2,
     "prerequisites_names": [],
     "weight_modifiers": [
-      "(+<b style='color:lime'>1.0</b>) Has the crystal_armor_1_weight country flag"
+      "(+<b style='color:lime'>1.0</b>) Has the crystal_armor_1_weight(Placage de cristaux imprégnés) country flag"
     ],
     "potential": [],
     "children": [],
@@ -293,7 +293,7 @@
     ],
     "weight_modifiers": [],
     "potential": [
-      "Has DLC Utopia"
+      "Nécessite le DLC Utopia.!"
     ],
     "children": [],
     "is_event": true
@@ -365,9 +365,9 @@
     "tier": 5,
     "prerequisites_names": [],
     "weight_modifiers": [
-      "(×<b style='color:red'>0.0</b>) Does NOT have the Covenant: End of the Cycle modifier",
-      "(×<b style='color:lime'>1.5</b>) Has Technological Ascendancy Ascension Perk",
-      "(×<b style='color:lime'>2.0</b>) Federation :<br/>    •   Has Scientific Inspiration Federation Perk<br/>    •   Any member<br/>\t    •   Has Technology: Extradimensional Weaponry"
+      "(×<b style='color:red'>0.0</b>) N'a PAS le modificateur Accord avec la Fin du cycle",
+      "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+      "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   A découvert Armement extradimensionnel"
     ],
     "potential": [],
     "children": [],
@@ -438,7 +438,7 @@
     "prerequisites_names": [],
     "weight_modifiers": [],
     "potential": [
-      "Does NOT have the l_cluster_opened global flag"
+      "Does NOT have the l_cluster_opened(L'amas-L) global flag"
     ],
     "children": [],
     "is_event": true
@@ -468,7 +468,7 @@
     ],
     "weight_modifiers": [],
     "potential": [
-      "Has DLC Megacorp"
+      "Nécessite le DLC Megacorp.!"
     ],
     "children": [],
     "is_event": true
@@ -702,7 +702,7 @@
     ],
     "weight_modifiers": [],
     "potential": [
-      "Has DLC Utopia"
+      "Nécessite le DLC Utopia.!"
     ],
     "children": [],
     "is_event": true
