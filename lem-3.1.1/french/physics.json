@@ -1,0 +1,3449 @@
+{
+  "base_factor": 1,
+  "base_weight": 0,
+  "feature_unlocks": [],
+  "is_dangerous": false,
+  "is_rare": false,
+  "is_start_tech": false,
+  "prerequisites": [],
+  "tier": 0,
+  "prerequisites_names": [],
+  "weight_modifiers": [],
+  "potential": [],
+  "children": [
+    {
+      "area": "physics",
+      "base_factor": 1,
+      "base_weight": 0,
+      "feature_unlocks": [],
+      "is_dangerous": false,
+      "is_rare": false,
+      "is_start_tech": false,
+      "name": "physics",
+      "prerequisites": [],
+      "tier": 0,
+      "prerequisites_names": [],
+      "weight_modifiers": [],
+      "potential": [],
+      "children": [
+        {
+          "key": "tech_lasers_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Particules",
+          "cost": 0,
+          "description": "Les armes laser envoient des rayons de lumière concentrée sur leurs cibles, occasionnant des dégâts par leur immense chaleur.\\n\\n",
+          "feature_unlocks": [
+            "<b>Component</b>: Small Red Laser",
+            "<b>Component</b>: Medium Red Laser",
+            "<b>Component</b>: Large Red Laser"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Lasers rouges",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_lasers_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 95,
+              "category": "Particules",
+              "cost": 2500,
+              "description": "Plus puissants que les lasers rouges, ces variations bleues émettent des radiations électromagnétiques à une longueur d'ondes qui semble bleue ou violette pour la plupart des organiques.\\n\\n",
+              "feature_unlocks": [
+                "<b>Component</b>: Large Blue Laser",
+                "<b>Component</b>: Medium Blue Laser",
+                "<b>Component</b>: Small Blue Laser"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Lasers bleus",
+              "prerequisites": [
+                "tech_lasers_1"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Lasers rouges",
+                  "key": "tech_lasers_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_lasers_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 85,
+                  "category": "Particules",
+                  "cost": 4000,
+                  "description": "Les lasers ultraviolets sont une version améliorée et plus puissante de leurs prédécesseurs bleus. Précises et destructives, ces armes sont capables d'infliger d'immenses dégâts.\\n\\n",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Large UV Laser",
+                    "<b>Component</b>: Small UV Laser",
+                    "<b>Component</b>: Medium UV Laser"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Lasers UV",
+                  "prerequisites": [
+                    "tech_lasers_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Lasers bleus",
+                      "key": "tech_lasers_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                    "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_lasers_4",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 65,
+                      "category": "Particules",
+                      "cost": 8000,
+                      "description": "Ces lasers ont une longueur d'ondes plus courte que celles des armes basées sur les UV, mais ils sont encore plus dévastateurs.\\n\\n",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Large X-Ray Laser",
+                        "<b>Component</b>: Small X-Ray Laser",
+                        "<b>Component</b>: Medium X-Ray Laser"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Lasers rayons X",
+                      "prerequisites": [
+                        "tech_lasers_3"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Lasers UV",
+                          "key": "tech_lasers_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                        "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_lasers_5",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 45,
+                          "category": "Particules",
+                          "cost": 16000,
+                          "description": "La radiation électromagnétique émises par les lasers gamma est d'une fréquence extrêmement élevée. Leur potentiel destructif est sans égal dans le domaine des armes laser.\\n\\n",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Large Gamma Laser",
+                            "<b>Component</b>: Medium Gamma Laser",
+                            "<b>Component</b>: Small Gamma Laser"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Lasers gamma",
+                          "prerequisites": [
+                            "tech_lasers_4"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Lasers rayons X",
+                              "key": "tech_lasers_4"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                            "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                          ],
+                          "potential": [],
+                          "children": [],
+                          "is_event": false
+                        },
+                        {
+                          "key": "tech_energy_lance_1",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 40,
+                          "category": "Particules",
+                          "cost": 20000,
+                          "description": "Ces armes énergétiques lourdes tirent des rayons concentrés de particules occasionnant des dégâts destructeurs. La taille des émetteurs limite toutefois leur utilisation aux vaisseaux cuirassés et titans.",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Particle Lance"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Lances à particules",
+                          "prerequisites": [
+                            "tech_lasers_4",
+                            "tech_battleships"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Lasers rayons X",
+                              "key": "tech_lasers_4"
+                            },
+                            {
+                              "name": "Cuirassés",
+                              "key": "tech_battleships"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                            "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                          ],
+                          "potential": [],
+                          "children": [
+                            {
+                              "key": "tech_energy_lance_2",
+                              "area": "physics",
+                              "base_factor": 1,
+                              "base_weight": 35,
+                              "category": "Particules",
+                              "cost": 24000,
+                              "description": "Version plus puissante de la lance à particules, cette arme lance un rayon de tachyons d'une puissance immense. Comme son prédécesseur, son utilisation est limitée aux vaisseaux cuirassés et titans.",
+                              "feature_unlocks": [
+                                "<b>Component</b>: Tachyon Lance"
+                              ],
+                              "is_dangerous": false,
+                              "is_rare": false,
+                              "is_start_tech": false,
+                              "name": "Lances à tachyons",
+                              "prerequisites": [
+                                "tech_energy_lance_1",
+                                "tech_lasers_5"
+                              ],
+                              "tier": 4,
+                              "prerequisites_names": [
+                                {
+                                  "name": "Lasers gamma",
+                                  "key": "tech_lasers_5"
+                                },
+                                {
+                                  "name": "Lances à particules",
+                                  "key": "tech_energy_lance_1"
+                                }
+                              ],
+                              "weight_modifiers": [
+                                "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                                "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                              ],
+                              "potential": [],
+                              "children": [],
+                              "is_event": false
+                            }
+                          ],
+                          "is_event": false
+                        },
+                        {
+                          "key": "tech_energy_torpedoes_1",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 50,
+                          "category": "Particules",
+                          "cost": 12000,
+                          "description": "Ces projectiles énergétiques sont constitués de protons extrêmement concentrés, capables d'infliger des dégâts considérables aux coques des vaisseaux ennemis.",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Proton Launchers"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Lanceurs de protons",
+                          "prerequisites": [
+                            "tech_lasers_4"
+                          ],
+                          "tier": 3,
+                          "prerequisites_names": [
+                            {
+                              "name": "Lasers rayons X",
+                              "key": "tech_lasers_4"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                            "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                            "(×<b style='color:red'>0.5</b>) Does NOT have Technology: Red Lasers",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                          ],
+                          "potential": [],
+                          "children": [
+                            {
+                              "key": "tech_energy_torpedoes_2",
+                              "area": "physics",
+                              "base_factor": 1,
+                              "base_weight": 40,
+                              "category": "Particules",
+                              "cost": 20000,
+                              "description": "Des projectiles énergétiques améliorés, qui utilisent les neutrons à la place des protons pour avoir un effet destructeur plus grand encore.",
+                              "feature_unlocks": [
+                                "<b>Component</b>: Neutron Launchers"
+                              ],
+                              "is_dangerous": false,
+                              "is_rare": false,
+                              "is_start_tech": false,
+                              "name": "Lanceurs de neutrons",
+                              "prerequisites": [
+                                "tech_energy_torpedoes_1"
+                              ],
+                              "tier": 4,
+                              "prerequisites_names": [
+                                {
+                                  "name": "Lanceurs de protons",
+                                  "key": "tech_energy_torpedoes_1"
+                                }
+                              ],
+                              "weight_modifiers": [
+                                "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                                "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                              ],
+                              "potential": [],
+                              "children": [],
+                              "is_event": false
+                            }
+                          ],
+                          "is_event": false
+                        },
+                        {
+                          "key": "tech_repeatable_weapon_type_energy_damage",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 12.5,
+                          "category": "Particules",
+                          "cost": 50000,
+                          "description": "Optimiser la cadence de tir des armes laser pourrait occuper l'élite du génie de toutes les planètes pendant des siècles.\\n\\n",
+                          "feature_unlocks": [
+                            "Energy Weapon Damage +5%"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Réseau de capteurs focalisés",
+                          "prerequisites": [
+                            "tech_lasers_4"
+                          ],
+                          "tier": 5,
+                          "prerequisites_names": [
+                            {
+                              "name": "Lasers rayons X",
+                              "key": "tech_lasers_4"
+                            }
+                          ],
+                          "weight_modifiers": [],
+                          "potential": [],
+                          "children": [],
+                          "is_event": false
+                        }
+                      ],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_disruptors_1",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 75,
+                  "category": "Particules",
+                  "cost": 5000,
+                  "description": "Les disrupteurs lancent des charges énergétiques affaiblissant et détruisant les liens moléculaires qui maintiennent ensemble les atomes de la cible. Ces charges sont capables de franchir les boucliers et le blindage pour infliger des dégâts considérables sur la coque et à l'équipage.",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Medium Disruptor",
+                    "<b>Component</b>: Small Disruptor"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Disrupteurs",
+                  "prerequisites": [
+                    "tech_lasers_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Lasers bleus",
+                      "key": "tech_lasers_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                    "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert",
+                    "(×<b style='color:red'>0.5</b>) Does NOT have Technology: Red Lasers"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_disruptors_2",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 65,
+                      "category": "Particules",
+                      "cost": 8000,
+                      "description": "Disrupteurs améliorés projetant des carreaux ioniques, plus destructeurs encore pour leurs cibles.\\n\\n",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Small Ion Disruptor",
+                        "<b>Component</b>: Medium Ion Disruptor"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Disrupteurs ioniques",
+                      "prerequisites": [
+                        "tech_disruptors_1"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Disrupteurs",
+                          "key": "tech_disruptors_1"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                        "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_disruptors_3",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 45,
+                          "category": "Particules",
+                          "cost": 16000,
+                          "description": "Des disrupteurs à très haut rendement, tirant des charges énergétiques quantiques causant des dégâts incommensurables à quiconque a la malchance d'être pris dans la zone d'effet.",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Small Phased Disruptor",
+                            "<b>Component</b>: Medium Phased Disruptor"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Disrupteurs phasés",
+                          "prerequisites": [
+                            "tech_disruptors_2"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Disrupteurs ioniques",
+                              "key": "tech_disruptors_2"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                            "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                          ],
+                          "potential": [],
+                          "children": [
+                            {
+                              "key": "tech_arc_emitter_1",
+                              "area": "physics",
+                              "base_factor": 1,
+                              "base_weight": 40,
+                              "category": "Particules",
+                              "cost": 20000,
+                              "description": "Armes puissantes lançant vers leur cible un arc électrique capable de causer des anomalies et traversant une bonne épaisseur de boucliers et blindage de blindage.\\n\\n",
+                              "feature_unlocks": [
+                                "<b>Component</b>: Arc Emitter"
+                              ],
+                              "is_dangerous": false,
+                              "is_rare": false,
+                              "is_start_tech": false,
+                              "name": "Émetteurs électriques",
+                              "prerequisites": [
+                                "tech_disruptors_3",
+                                "tech_battleships"
+                              ],
+                              "tier": 4,
+                              "prerequisites_names": [
+                                {
+                                  "name": "Disrupteurs phasés",
+                                  "key": "tech_disruptors_3"
+                                },
+                                {
+                                  "name": "Cuirassés",
+                                  "key": "tech_battleships"
+                                }
+                              ],
+                              "weight_modifiers": [
+                                "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                                "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                              ],
+                              "potential": [],
+                              "children": [
+                                {
+                                  "key": "tech_arc_emitter_2",
+                                  "area": "physics",
+                                  "base_factor": 1,
+                                  "base_weight": 35,
+                                  "category": "Particules",
+                                  "cost": 24000,
+                                  "description": "Ces émetteurs améliorés sont équipés de lentilles de concentration d'une meilleure qualité, permettant une décharge d'énergie encore plus grande.\\n\\n",
+                                  "feature_unlocks": [
+                                    "<b>Component</b>: Focused Arc Emitter"
+                                  ],
+                                  "is_dangerous": false,
+                                  "is_rare": false,
+                                  "is_start_tech": false,
+                                  "name": "Émetteurs électriques concentrés",
+                                  "prerequisites": [
+                                    "tech_arc_emitter_1"
+                                  ],
+                                  "tier": 4,
+                                  "prerequisites_names": [
+                                    {
+                                      "name": "Émetteurs électriques",
+                                      "key": "tech_arc_emitter_1"
+                                    }
+                                  ],
+                                  "weight_modifiers": [
+                                    "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                                    "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                                  ],
+                                  "potential": [],
+                                  "children": [],
+                                  "is_event": false
+                                }
+                              ],
+                              "is_event": false
+                            }
+                          ],
+                          "is_event": false
+                        }
+                      ],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_plasma_1",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 75,
+                  "category": "Particules",
+                  "cost": 5000,
+                  "description": "Ces armes éjectent des boules énergétiques de plasma sur leurs cibles. Ces projectiles de plasma sont extrêmement efficaces pour endommager les blindages de vaisseaux.\\n\\n",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Medium Plasma Thrower",
+                    "<b>Component</b>: Large Plasma Thrower",
+                    "<b>Component</b>: Small Plasma Thrower"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Lanceurs de plasma",
+                  "prerequisites": [
+                    "tech_lasers_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Lasers bleus",
+                      "key": "tech_lasers_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                    "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert",
+                    "(×<b style='color:red'>0.5</b>) Does NOT have Technology: Red Lasers"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_plasma_2",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 65,
+                      "category": "Particules",
+                      "cost": 8000,
+                      "description": "Ces nouveaux accélérateurs lancent des projectiles énergétiques de plasma et disposent de champs de confinement améliorés. Cela permet une déperdition d'énergie moindre lorsque le projectile se déplace dans l'espace vers sa cible.\\n\\n",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Medium Plasma Accelerator",
+                        "<b>Component</b>: Small Plasma Accelerator",
+                        "<b>Component</b>: Large Plasma Accelerator"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Accélérateurs de plasma",
+                      "prerequisites": [
+                        "tech_plasma_1"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Lanceurs de plasma",
+                          "key": "tech_plasma_1"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                        "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_plasma_3",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 45,
+                          "category": "Particules",
+                          "cost": 16000,
+                          "description": "La dernière technologie en matière d'armement plasma, ces canons sont des versions entièrement militarisées et améliorées des lanceurs de plasma. Leurs projectiles de plasma sont encore plus mortels.\\n\\n",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Large Plasma Cannon",
+                            "<b>Component</b>: Small Plasma Cannon",
+                            "<b>Component</b>: Medium Plasma Cannon"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Canons à plasma",
+                          "prerequisites": [
+                            "tech_plasma_2"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Accélérateurs de plasma",
+                              "key": "tech_plasma_2"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>1.25</b>) Has Militarist Ethic",
+                            "(×<b style='color:lime'>1.5</b>) Has Fanatic Militarist Ethic",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                          ],
+                          "potential": [],
+                          "children": [],
+                          "is_event": false
+                        }
+                      ],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_repeatable_weapon_type_energy_fire_rate",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 12.5,
+                  "category": "Particules",
+                  "cost": 50000,
+                  "description": "De nouveaux développements en matière de refroidissement technique apparaissent régulièrement, améliorant la stabilité et l'efficacité de nos systèmes d'armes sans que ces derniers explosent sur les vaisseaux qui les transportent.\\n\\n",
+                  "feature_unlocks": [
+                    "Energy Weapon Attack Speed +5%"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Refroidisseur éclair",
+                  "prerequisites": [
+                    "tech_lasers_2"
+                  ],
+                  "tier": 5,
+                  "prerequisites_names": [
+                    {
+                      "name": "Lasers bleus",
+                      "key": "tech_lasers_2"
+                    }
+                  ],
+                  "weight_modifiers": [],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_fission_power",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Particules",
+          "cost": 0,
+          "description": "Un procédé permettant de produire de l'énergie pour les vaisseaux par une fission volontaire, qui produit cependant aussi des déchets nucléaires nocifs.",
+          "feature_unlocks": [
+            "<b>Component</b>: Fission Reactor"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Énergie de fission",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_fusion_power",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 190,
+              "category": "Particules",
+              "cost": 2500,
+              "description": "Les procédés de fusion nucléaire génèrent énormément d'énergie pour les vaisseaux, sans la plupart des risques associés à la fission.",
+              "feature_unlocks": [
+                "<b>Component</b>: Fusion Reactor"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Énergie de fusion",
+              "prerequisites": [
+                "tech_fission_power"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Énergie de fission",
+                  "key": "tech_fission_power"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>2.0</b>) Has Technology: Destroyers",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_cold_fusion_power",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 150,
+                  "category": "Particules",
+                  "cost": 5000,
+                  "description": "La capacité de maintenir une réaction de fusion à des températures relativement basses va permettre la naissance d'une nouvelle génération de réacteurs à fusion pour les vaisseaux.",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Cold Fusion Reactor"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Énergie de fusion froide",
+                  "prerequisites": [
+                    "tech_fusion_power"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Énergie de fusion",
+                      "key": "tech_fusion_power"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>2.0</b>) Has Technology: Cruisers",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_antimatter_power",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 120,
+                      "category": "Particules",
+                      "cost": 10000,
+                      "description": "En exploitant l'énergie produite par l'annihilation matière/antimatière, l'efficacité de la production énergétique pour les vaisseaux sera considérablement améliorée par rapport à la fusion.",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Antimatter Reactor"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Énergie d'antimatière",
+                      "prerequisites": [
+                        "tech_cold_fusion_power"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Énergie de fusion froide",
+                          "key": "tech_cold_fusion_power"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>2.0</b>) Has Technology: Battleships",
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_zero_point_power",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 80,
+                          "category": "Particules",
+                          "cost": 20000,
+                          "description": "Ces générateurs produisent de l'énergie à partir de rien, fournissant ainsi une alimentation quasi infinie pour les vaisseaux. Il n'existe pas de méthode plus efficace pour générer de l'énergie.",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Zero Point Reactor"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Énergie du point zéro",
+                          "prerequisites": [
+                            "tech_antimatter_power"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Énergie d'antimatière",
+                              "key": "tech_antimatter_power"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>2.0</b>) Has Technology: Battleships",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                          ],
+                          "potential": [],
+                          "children": [
+                            {
+                              "key": "tech_jump_drive_1",
+                              "area": "physics",
+                              "base_factor": 1,
+                              "base_weight": 3,
+                              "category": "Particules",
+                              "cost": 32000,
+                              "description": "Véritable prouesse technologique, le propulseur de saut agit sur le continuum espace-temps local avant de le rendre quantiquement similaire à celui de la destination cible. Ainsi, le vaisseau semble quasi instantanément « sauter » de système en système.\\n\\n",
+                              "feature_unlocks": [
+                                "<b>Component</b>: Jump Drive",
+                                "<b>Feature : </b>Jump Drive Travel"
+                              ],
+                              "is_dangerous": true,
+                              "is_rare": true,
+                              "is_start_tech": false,
+                              "name": "Propulseur de bond",
+                              "prerequisites": [
+                                "tech_zero_point_power"
+                              ],
+                              "tier": 5,
+                              "prerequisites_names": [
+                                {
+                                  "name": "Énergie du point zéro",
+                                  "key": "tech_zero_point_power"
+                                }
+                              ],
+                              "weight_modifiers": [
+                                "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Particles Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Spark of Genius<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Maniacal",
+                                "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                                "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Jump Drive",
+                                "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition"
+                              ],
+                              "potential": [],
+                              "children": [],
+                              "is_event": false
+                            },
+                            {
+                              "key": "tech_dark_matter_power_core",
+                              "area": "physics",
+                              "base_factor": 1,
+                              "base_weight": 1,
+                              "category": "Particules",
+                              "cost": 50000,
+                              "description": "Ces générateurs semblent, d'une façon ou d'une autre, tirer l'énergie produite directement de la matière noire, et fournissent aux vaisseaux une puissance bien supérieure à ce qu'il devrait être possible selon les lois de la physique.",
+                              "feature_unlocks": [
+                                "<b>Component</b>: Dark Matter Reactor"
+                              ],
+                              "is_dangerous": false,
+                              "is_rare": true,
+                              "is_start_tech": false,
+                              "name": "Énergie de la matière noire",
+                              "prerequisites": [
+                                "tech_zero_point_power"
+                              ],
+                              "tier": 5,
+                              "prerequisites_names": [
+                                {
+                                  "name": "Énergie du point zéro",
+                                  "key": "tech_zero_point_power"
+                                }
+                              ],
+                              "weight_modifiers": [
+                                "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is of country type: Fallen Empire<br/>    •   Is of country type: Awakened Empire"
+                              ],
+                              "potential": [],
+                              "children": [],
+                              "is_event": false
+                            }
+                          ],
+                          "is_event": false
+                        }
+                      ],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_reactor_boosters_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Particules",
+          "cost": 0,
+          "description": "$REACTOR_BOOSTER_1_DESC$",
+          "feature_unlocks": [
+            "<b>Component</b>: Reactor Booster"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Impulseurs",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_reactor_boosters_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 135,
+              "category": "Particules",
+              "cost": 3000,
+              "description": "$REACTOR_BOOSTER_2_DESC$",
+              "feature_unlocks": [
+                "<b>Component</b>: Improved Reactor Booster"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Impulseurs améliorés",
+              "prerequisites": [
+                "tech_reactor_boosters_1",
+                "tech_fusion_power"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Énergie de fusion",
+                  "key": "tech_fusion_power"
+                },
+                {
+                  "name": "Impulseurs",
+                  "key": "tech_reactor_boosters_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_reactor_boosters_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 75,
+                  "category": "Particules",
+                  "cost": 12000,
+                  "description": "$REACTOR_BOOSTER_3_DESC$",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Advanced Reactor Booster"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Impulseurs avancés",
+                  "prerequisites": [
+                    "tech_reactor_boosters_2",
+                    "tech_antimatter_power"
+                  ],
+                  "tier": 1,
+                  "prerequisites_names": [
+                    {
+                      "name": "Énergie d'antimatière",
+                      "key": "tech_antimatter_power"
+                    },
+                    {
+                      "name": "Impulseurs améliorés",
+                      "key": "tech_reactor_boosters_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                  ],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_hyper_drive_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Particules",
+          "cost": 0,
+          "description": "Comme les filaments d'une toile d'araignée, le plan extradimensionnel de l'hyperespace court entre les puits de gravité de la majorité des étoiles. Se déplacer plus vite que la lumière est théoriquement possible le long de ces hyperlignes.\\n\\n",
+          "feature_unlocks": [
+            "<b>Component</b>: Hyper Drive I"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Voyage hyperspatial",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_hyper_drive_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 75,
+              "category": "Particules",
+              "cost": 5000,
+              "description": "Nous avons identifié l'existence de points dans l'espace où un vaisseau nécessite moins d'énergie pour \"ouvrir une brèche\" dans une hyperligne. Cela va conduire à une nouvelle génération d'hyper propulseurs.\\n\\n",
+              "feature_unlocks": [
+                "<b>Component</b>: Hyper Drive II",
+                "<b>Starbase Building</b>: Transit Hub"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Points de rupture des hyperlignes",
+              "prerequisites": [
+                "tech_hyper_drive_1"
+              ],
+              "tier": 2,
+              "prerequisites_names": [
+                {
+                  "name": "Voyage hyperspatial",
+                  "key": "tech_hyper_drive_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_hyper_drive_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 50,
+                  "category": "Particules",
+                  "cost": 12000,
+                  "description": "Une nouvelle génération d'hyper propulseurs capable de se faufiler dans les sillages subspatiaux présents au sein de l'hyperespace. Cela permet une amélioration notable des performances de propulsion.\\n\\n",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Hyper Drive III"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Sillages de l'hyperespace",
+                  "prerequisites": [
+                    "tech_hyper_drive_2"
+                  ],
+                  "tier": 3,
+                  "prerequisites_names": [
+                    {
+                      "name": "Points de rupture des hyperlignes",
+                      "key": "tech_hyper_drive_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_gateway_activation",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 17.5,
+                      "category": "Particules",
+                      "cost": 24000,
+                      "description": "La capacité de réactiver les anciennes stations-portails que l'on peut trouver dans toute la galaxie promet de diminuer de façon très importante les temps de trajet.",
+                      "feature_unlocks": [
+                        "<b>Feature : </b>Gateway Travel"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": true,
+                      "is_start_tech": false,
+                      "name": "Activation de portails",
+                      "prerequisites": [
+                        "tech_hyper_drive_3"
+                      ],
+                      "tier": 4,
+                      "prerequisites_names": [
+                        {
+                          "name": "Sillages de l'hyperespace",
+                          "key": "tech_hyper_drive_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Particles Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Spark of Genius<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Maniacal",
+                        "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert",
+                        "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                        "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Gateway Activation",
+                        "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Une de ces conditions doit être remplie<br/>\t    •   Has encountered a Gateway<br/>\t    •   Has encountered a bypass_lgate<br/>    •   Any Country Relation<br/>\t    •   Is of country type: default<br/>\t    •   Has communication with our Empire<br/>\t    •   Has Technology: Gateway Activation",
+                        "(×<b style='color:lime'>4.0</b>) Une de ces conditions doit être remplie<br/>    •   Controls a system with a Gateway<br/>    •   Controls a system with a bypass_lgate"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_gateway_construction",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 10,
+                          "category": "Particules",
+                          "cost": 48000,
+                          "description": "La construction de nouvelles stations-portails permet de construire un réseau de déplacement rapide qui pourrait révolutionner le voyage interstellaire.",
+                          "feature_unlocks": [
+                            "<b>Feature : </b>Gateway Construction"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": true,
+                          "is_start_tech": false,
+                          "name": "Construction de portails",
+                          "prerequisites": [
+                            "tech_gateway_activation",
+                            "tech_mega_engineering"
+                          ],
+                          "tier": 5,
+                          "prerequisites_names": [
+                            {
+                              "name": "Activation de portails",
+                              "key": "tech_gateway_activation"
+                            },
+                            {
+                              "name": "Méga-ingénierie",
+                              "key": "tech_mega_engineering"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Particles Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Spark of Genius<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Maniacal",
+                            "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert",
+                            "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                            "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Gateway Construction",
+                            "(×<b style='color:lime'>4.0</b>) Controls a system with a Gateway"
+                          ],
+                          "potential": [],
+                          "children": [],
+                          "is_event": false
+                        }
+                      ],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_wormhole_stabilization",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 32.5,
+                  "category": "Particules",
+                  "cost": 8000,
+                  "description": "Un trou de ver apparu de manière naturelle est quelque peu inconstant, et les fluctuations de ses niveaux d'énergie rendent le plus souvent impossible un voyage en toute sécurité entre ses deux ouvertures. Il y a cependant des moyens de stabiliser sa matrice de manière temporaire.",
+                  "feature_unlocks": [
+                    "<b>Feature : </b>Wormhole Travel"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": true,
+                  "is_start_tech": false,
+                  "name": "Stabilisation des trous de ver",
+                  "prerequisites": [
+                    "tech_hyper_drive_2"
+                  ],
+                  "tier": 3,
+                  "prerequisites_names": [
+                    {
+                      "name": "Points de rupture des hyperlignes",
+                      "key": "tech_hyper_drive_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:red'>0.5</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Particles Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Spark of Genius<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Maniacal",
+                    "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+                    "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                    "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Wormhole Stabilization",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert",
+                    "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Has encountered a Natural Wormhole<br/>    •   Any Country Relation<br/>\t    •   Is of country type: default<br/>\t    •   Has communication with our Empire<br/>\t    •   Has Technology: Wormhole Stabilization",
+                    "(×<b style='color:lime'>4.0</b>) Controls a system with a Natural Wormhole"
+                  ],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            },
+            {
+              "key": "tech_ftl_inhibitor",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 340,
+              "category": "Particules",
+              "cost": 4000,
+              "description": "Les projecteurs de puits de gravité peuvent être utilisés pour créer des poches d'espace limitées, où l'entrée en hyperespace est impossible. L'énergie immense alors requise et la taille des projecteurs interdisent néanmoins leur usage sur n'importe quoi qui soit moins vaste qu'une base stellaire.",
+              "feature_unlocks": [
+                "<b>Component</b>: FTL Inhibitor",
+                "<b>Feature : </b>Planetary FTL Inhibitors"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Inhibition PRL",
+              "prerequisites": [
+                "tech_hyper_drive_1"
+              ],
+              "tier": 2,
+              "prerequisites_names": [
+                {
+                  "name": "Voyage hyperspatial",
+                  "key": "tech_hyper_drive_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Has Unyielding Traditions Tradition",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+              ],
+              "potential": [],
+              "children": [],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_power_plant_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Manipulation des champs",
+          "cost": 0,
+          "description": "Des condensateurs capables d'emmagasiner d'énormes quantités d'énergie sont une clé de voûte pour toute civilisation moderne.",
+          "feature_unlocks": [],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Condensateurs haute énergie",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_power_plant_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 100,
+              "category": "Manipulation des champs",
+              "cost": 2000,
+              "description": "Les champs modulés permettent une production et une rétention améliorée de l'énergie.",
+              "feature_unlocks": [
+                "£energy£ Energy Credits from £job_technician£ [GetTechnicianPlural] +20%",
+                "£energy£ Energy from Starbase Constructions +10%"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Modulation de champs",
+              "prerequisites": [
+                "tech_power_plant_1"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Condensateurs haute énergie",
+                  "key": "tech_power_plant_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Has Prosperity Traditions Tradition",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_power_plant_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 85,
+                  "category": "Manipulation des champs",
+                  "cost": 4000,
+                  "description": "Les principes d'intrication basiques appliqués à la production d'énergie permettent des gains substantiels dans les rendements énergétiques.",
+                  "feature_unlocks": [
+                    "£energy£ Energy Credits from £job_technician£ [GetTechnicianPlural] +20%",
+                    "£energy£ Energy from Starbase Constructions +10%"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "États énergétiques quantiques",
+                  "prerequisites": [
+                    "tech_power_plant_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Modulation de champs",
+                      "key": "tech_power_plant_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Has Prosperity Traditions Tradition",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_power_plant_4",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 65,
+                      "category": "Manipulation des champs",
+                      "cost": 8000,
+                      "description": "Superposition quantique de bobines énergétiques, simultanément drainées et chargées.",
+                      "feature_unlocks": [
+                        "£energy£ Energy Credits from £job_technician£ [GetTechnicianPlural] +20%",
+                        "£energy£ Energy from Starbase Constructions +10%"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Manipulation de champs quantiques",
+                      "prerequisites": [
+                        "tech_power_plant_3"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "États énergétiques quantiques",
+                          "key": "tech_power_plant_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Has Prosperity Traditions Tradition",
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    },
+                    {
+                      "key": "tech_repeatable_improved_tile_energy_output",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 12.5,
+                      "category": "Manipulation des champs",
+                      "cost": 50000,
+                      "description": "De petites améliorations en termes d'efficacité des transmissions contribuent à réduire considérablement la perte d'énergie globale.\\n\\n",
+                      "feature_unlocks": [
+                        "£energy£ Energy Credits from £job£ Jobs +5%"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Superconductivité appliquée",
+                      "prerequisites": [
+                        "tech_power_plant_3"
+                      ],
+                      "tier": 5,
+                      "prerequisites_names": [
+                        {
+                          "name": "États énergétiques quantiques",
+                          "key": "tech_power_plant_3"
+                        }
+                      ],
+                      "weight_modifiers": [],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            },
+            {
+              "key": "tech_power_hub_1",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 180,
+              "category": "Manipulation des champs",
+              "cost": 3000,
+              "description": "Les installations d'équilibrage de charge peuvent grandement améliorer la stabilité des grilles locales et réalimenter les condensateurs centralisés avec l'excédent d'énergie.",
+              "feature_unlocks": [
+                "<b>Edict</b>: Capacity Subsidies",
+                "<b>Building</b>: Energy Grid"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Gestion globale de l'énergie",
+              "prerequisites": [
+                "tech_power_plant_1"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Condensateurs haute énergie",
+                  "key": "tech_power_plant_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Has Prosperity Traditions Tradition",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_power_hub_2",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 70,
+                  "category": "Manipulation des champs",
+                  "cost": 6000,
+                  "description": "Une grille remodelée et unifiée réduit les pertes énergétiques sur la distance.",
+                  "feature_unlocks": [
+                    "<b>Building</b>: Energy Nexus"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Réseau électrique planétaire",
+                  "prerequisites": [
+                    "tech_power_hub_1",
+                    "tech_colonial_centralization"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Gestion globale de l'énergie",
+                      "key": "tech_power_hub_1"
+                    },
+                    {
+                      "name": "Centralisation coloniale",
+                      "key": "tech_colonial_centralization"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Has Technology: Exotic Gas Extraction<br/>    •   Has Technology: Exotic Gas Refining<br/>    •   Has the has_market_access country flag",
+                    "(×<b style='color:lime'>2.0</b>) Has Prosperity Traditions Tradition",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                  ],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_shields_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Manipulation des champs",
+          "cost": 0,
+          "description": "Les écrans déflecteurs d'énergie peuvent arrêter une quantité limitée de feu ennemi avant d'entrer en surcharge. Leur principal inconvénient est une consommation excessive d'énergie.\\n\\n",
+          "feature_unlocks": [
+            "<b>Component</b>: Medium Deflectors",
+            "<b>Component</b>: Large Deflectors",
+            "<b>Component</b>: Small Deflectors"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Déflecteurs",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_shields_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 112.5,
+              "category": "Manipulation des champs",
+              "cost": 3000,
+              "description": "Ces écrans déflecteurs améliorés sont capables d'absorber une puissance de feu bien plus conséquente avant d'entrer en surcharge.\\n\\n",
+              "feature_unlocks": [
+                "<b>Component</b>: Large Improved Deflectors",
+                "<b>Component</b>: Medium Improved Deflectors",
+                "<b>Component</b>: Small Improved Deflectors"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Déflecteurs améliorés",
+              "prerequisites": [
+                "tech_shields_1"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Déflecteurs",
+                  "key": "tech_shields_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_shields_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 87.5,
+                  "category": "Manipulation des champs",
+                  "cost": 6000,
+                  "description": "Ces nouveaux générateurs de boucliers représentent la dernière génération d'écrans énergétiques, pour remplacer l'ancienne technologie de déflexion. Ils offrent une protection significativement améliorée.\\n\\n",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Large Shields",
+                    "<b>Component</b>: Small Shields",
+                    "<b>Component</b>: Medium Shields"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Boucliers",
+                  "prerequisites": [
+                    "tech_shields_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Déflecteurs améliorés",
+                      "key": "tech_shields_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_shields_4",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 62.5,
+                      "category": "Manipulation des champs",
+                      "cost": 12000,
+                      "description": "Un générateur de boucliers amélioré qui produit un champ énergétique encore plus résistant. Seul un feu ennemi nourri et prolongé peut pénétrer cette barrière.\\n\\n",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Small Advanced Shields",
+                        "<b>Component</b>: Large Advanced Shields",
+                        "<b>Component</b>: Medium Advanced Shields"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Boucliers avancés",
+                      "prerequisites": [
+                        "tech_shields_3"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Boucliers",
+                          "key": "tech_shields_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_shields_5",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 43.75,
+                          "category": "Manipulation des champs",
+                          "cost": 24000,
+                          "description": "Ces boucliers énergétiques renforcés sont incroyablement résistants. La protection qu'ils octroient est sans pareille.\\n\\n",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Large Hyper Shields",
+                            "<b>Component</b>: Medium Hyper Shields",
+                            "<b>Component</b>: Small Hyper Shields"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Hyper boucliers",
+                          "prerequisites": [
+                            "tech_shields_4"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Boucliers avancés",
+                              "key": "tech_shields_4"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                          ],
+                          "potential": [],
+                          "children": [
+                            {
+                              "key": "tech_dark_matter_deflector",
+                              "area": "physics",
+                              "base_factor": 1,
+                              "base_weight": 1,
+                              "category": "Manipulation des champs",
+                              "cost": 50000,
+                              "description": "Ces déflecteurs utilisent la matière noire pour dévier les projectiles en approche d'une façon semblant défier entièrement les lois de la nature.",
+                              "feature_unlocks": [
+                                "<b>Component</b>: Small Dark Matter Deflectors",
+                                "<b>Component</b>: Large Dark Matter Deflectors",
+                                "<b>Component</b>: Medium Dark Matter Deflectors"
+                              ],
+                              "is_dangerous": false,
+                              "is_rare": true,
+                              "is_start_tech": false,
+                              "name": "Déflecteurs à matière noire",
+                              "prerequisites": [
+                                "tech_shields_5"
+                              ],
+                              "tier": 5,
+                              "prerequisites_names": [
+                                {
+                                  "name": "Hyper boucliers",
+                                  "key": "tech_shields_5"
+                                }
+                              ],
+                              "weight_modifiers": [
+                                "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is of country type: Fallen Empire<br/>    •   Is of country type: Awakened Empire"
+                              ],
+                              "potential": [],
+                              "children": [],
+                              "is_event": false
+                            }
+                          ],
+                          "is_event": false
+                        },
+                        {
+                          "key": "tech_repeatable_improved_shield_output",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 12.5,
+                          "category": "Manipulation des champs",
+                          "cost": 50000,
+                          "description": "Les mécanismes de base des vaisseaux sont complexes, mais peuvent être ajustés et améliorés de plusieurs manières.\\n\\n",
+                          "feature_unlocks": [
+                            "Shield Hit Points +5%"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Harmoniques de bouclier",
+                          "prerequisites": [
+                            "tech_shields_4"
+                          ],
+                          "tier": 5,
+                          "prerequisites_names": [
+                            {
+                              "name": "Boucliers avancés",
+                              "key": "tech_shields_4"
+                            }
+                          ],
+                          "weight_modifiers": [],
+                          "potential": [],
+                          "children": [],
+                          "is_event": false
+                        }
+                      ],
+                      "is_event": false
+                    },
+                    {
+                      "key": "tech_shield_rechargers_1",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 70,
+                      "category": "Manipulation des champs",
+                      "cost": 6000,
+                      "description": "Ces condensateurs emmagasinent les surplus d'énergie, qui peuvent ensuite être rapidement transférés pour renforcer les boucliers du vaisseau.",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Shield Capacitor"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Condensateurs de bouclier",
+                      "prerequisites": [
+                        "tech_shields_3"
+                      ],
+                      "tier": 2,
+                      "prerequisites_names": [
+                        {
+                          "name": "Boucliers",
+                          "key": "tech_shields_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    },
+                    {
+                      "key": "tech_planetary_shield_generator",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 32.5,
+                      "category": "Manipulation des champs",
+                      "cost": 8000,
+                      "description": "Générer un bouclier énergétique solide au sein d'une atmosphère planétaire est un plus grand défi que le faire dans le vide de l'espace, mais il fournit une défense puissante contre les bombardements orbitaux.",
+                      "feature_unlocks": [
+                        "<b>Building</b>: Planetary Shield Generator"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": true,
+                      "is_start_tech": false,
+                      "name": "Boucliers planétaires",
+                      "prerequisites": [
+                        "tech_shields_3"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Boucliers",
+                          "key": "tech_shields_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:red'>0.5</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Field Manipulation Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Spark of Genius",
+                        "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                        "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Planetary Shields",
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_pd_tracking_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Informatique",
+          "cost": 0,
+          "description": "La meilleure défense c'est l'attaque.",
+          "feature_unlocks": [
+            "<b>Component</b>: Sentinel Point-Defense"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Contre-mesures actives",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_pd_tracking_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 70,
+              "category": "Informatique",
+              "cost": 6000,
+              "description": "Un éventail d'armements défensifs se révèle bien plus efficace que des contre-mesures indépendantes.",
+              "feature_unlocks": [
+                "<b>Component</b>: Barrier Point-Defense"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Systèmes de soutien interconnectés",
+              "prerequisites": [
+                "tech_pd_tracking_1"
+              ],
+              "tier": 2,
+              "prerequisites_names": [
+                {
+                  "name": "Contre-mesures actives",
+                  "key": "tech_pd_tracking_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_pd_tracking_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 45,
+                  "category": "Informatique",
+                  "cost": 16000,
+                  "description": "La prédiction avancée améliore grandement la précision des systèmes de contre-mesures actives.",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Guardian Point-Defense"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Algorithmes prédictifs",
+                  "prerequisites": [
+                    "tech_pd_tracking_2"
+                  ],
+                  "tier": 4,
+                  "prerequisites_names": [
+                    {
+                      "name": "Systèmes de soutien interconnectés",
+                      "key": "tech_pd_tracking_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_basic_science_lab_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Informatique",
+          "cost": 0,
+          "description": "Tester les prédictions des phénomènes observables",
+          "feature_unlocks": [
+            "<b>Building</b>: Research Labs"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Méthode scientifique",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_administrative_ai",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 100,
+              "category": "Informatique",
+              "cost": 2000,
+              "description": "Un réseau organisationnel redirigeant la ferveur académique.",
+              "feature_unlocks": [
+                "Research Speed +5%"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "I.A. administrative",
+              "prerequisites": [
+                "tech_basic_science_lab_1"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Méthode scientifique",
+                  "key": "tech_basic_science_lab_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_combat_computers_1",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 90,
+                  "category": "Informatique",
+                  "cost": 3000,
+                  "description": "Des matrices actives réglées pour des tâches de combat spécifiques augmentent considérablement l'efficacité au combat.\" # The development of active combat personalities allows combat-AI to specialize heavily in specific tasks.",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Starbase Fire Control",
+                    "<b>Component</b>: Combat Computer"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Ordinateurs de combat spécialisés",
+                  "prerequisites": [
+                    "tech_administrative_ai"
+                  ],
+                  "tier": 1,
+                  "prerequisites_names": [
+                    {
+                      "name": "I.A. administrative",
+                      "key": "tech_administrative_ai"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>2.0</b>) Has Technology: Destroyers",
+                    "(×<b style='color:lime'>2.0</b>) Has Technology: Cruisers",
+                    "(×<b style='color:lime'>2.0</b>) Has Technology: Battleships",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_auxiliary_fire_control",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 90,
+                      "category": "Informatique",
+                      "cost": 3000,
+                      "description": "L'installation d'un système auxiliaire de contrôle de feu sur les vaisseaux leur permettra d'effectuer des calculs beaucoup plus poussés, ce qui se traduira par un gain de précision.",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Auxiliary Fire-control"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Contrôle de feu auxiliaire",
+                      "prerequisites": [
+                        "tech_combat_computers_1"
+                      ],
+                      "tier": 1,
+                      "prerequisites_names": [
+                        {
+                          "name": "Ordinateurs de combat spécialisés",
+                          "key": "tech_combat_computers_1"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    },
+                    {
+                      "key": "tech_combat_computers_2",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 65,
+                      "category": "Informatique",
+                      "cost": 8000,
+                      "description": "De nouvelles avancées dans les algorithmes prédictifs permettent une prise de décisions tactiques améliorée sur le champ de bataille.",
+                      "feature_unlocks": [
+                        "<b>Component</b>: Advanced Combat Computer",
+                        "<b>Component</b>: Starbase Fire Control"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Algorithmes de combat étendus",
+                      "prerequisites": [
+                        "tech_combat_computers_1",
+                        "tech_self_aware_logic"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Ordinateurs de combat spécialisés",
+                          "key": "tech_combat_computers_1"
+                        },
+                        {
+                          "name": "Logique auto-évolutrice",
+                          "key": "tech_self_aware_logic"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_combat_computers_3",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 20,
+                          "category": "Informatique",
+                          "cost": 20000,
+                          "description": "Réaliser des simulations de combat de grande intensité sur des IA conscientes donne de précieuses connaissances quant aux possibilités d'optimisation des techniques d'évaluation des risques.\" # The effectiveness of Ship-AIs have proved far greater with the sensation of a fear of death.",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Sapient Combat Computer"
+                          ],
+                          "is_dangerous": true,
+                          "is_rare": true,
+                          "is_start_tech": false,
+                          "name": "Simulations de combat conscientes",
+                          "prerequisites": [
+                            "tech_combat_computers_2",
+                            "tech_sapient_ai"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Algorithmes de combat étendus",
+                              "key": "tech_combat_computers_2"
+                            },
+                            {
+                              "name": "I.A. positronique",
+                              "key": "tech_sapient_ai"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:red'>0.2</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Computing Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Maniacal",
+                            "(×<b style='color:red'>0.0</b>) Has policy AI Outlawed",
+                            "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                            "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Sapient Combat Simulations",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert<br/>    •   Skill level is greater than 2"
+                          ],
+                          "potential": [
+                            "N'a PAS l'éthique Conscience de Gestalt"
+                          ],
+                          "children": [],
+                          "is_event": false,
+                          "is_gestalt": false
+                        },
+                        {
+                          "key": "tech_combat_computers_autonomous",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 20,
+                          "category": "Informatique",
+                          "cost": 20000,
+                          "description": "Donner à nos vaisseaux leur propre intelligence semi-autonome va permettre d'accroître grandement leur réponse lors des combats.",
+                          "feature_unlocks": [
+                            "<b>Component</b>: Autonomous Ship Intellect"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": true,
+                          "is_start_tech": false,
+                          "name": "Intelligence autonome des vaisseaux",
+                          "prerequisites": [
+                            "tech_combat_computers_2"
+                          ],
+                          "tier": 4,
+                          "prerequisites_names": [
+                            {
+                              "name": "Algorithmes de combat étendus",
+                              "key": "tech_combat_computers_2"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:red'>0.2</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Computing Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Maniacal",
+                            "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                            "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Autonomous Ship Intellects",
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert<br/>    •   Skill level is greater than 2"
+                          ],
+                          "potential": [
+                            "A l'éthique Conscience de Gestalt"
+                          ],
+                          "children": [],
+                          "is_event": false,
+                          "is_gestalt": true
+                        }
+                      ],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_cryostasis_1",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 90,
+                  "category": "Informatique",
+                  "cost": 3000,
+                  "description": "En donnant le contrôle du vaisseau de colonisation à une intelligence artificielle, l'équipage et les colons peuvent être placés en sommeil profond.",
+                  "feature_unlocks": [
+                    "Colony Development Speed +50%"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Vaisseaux contrôlés par IA",
+                  "prerequisites": [
+                    "tech_administrative_ai"
+                  ],
+                  "tier": 1,
+                  "prerequisites_names": [
+                    {
+                      "name": "I.A. administrative",
+                      "key": "tech_administrative_ai"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_cryostasis_2",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 70,
+                      "category": "Informatique",
+                      "cost": 6000,
+                      "description": "Les systèmes suffisamment avancés sont capables de s'optimiser s'ils savent pourquoi ils ont été créés.",
+                      "feature_unlocks": [
+                        "Colony Development Speed +50%"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Vaisseaux de colonisation conscients",
+                      "prerequisites": [
+                        "tech_cryostasis_1",
+                        "tech_self_aware_logic"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Logique auto-évolutrice",
+                          "key": "tech_self_aware_logic"
+                        },
+                        {
+                          "name": "Vaisseaux contrôlés par IA",
+                          "key": "tech_cryostasis_1"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_consumer_good_refinement_1",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 170,
+                  "category": "Informatique",
+                  "cost": 4000,
+                  "description": "Des I.A. administratives basiques peuvent être utilisées pour gérer la demande et les lignes de production afin de réduire le gaspillage.",
+                  "feature_unlocks": [
+                    "£job_artisan£ [GetArtisan] Output +10%"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Algorithmes d'analyse de marché",
+                  "prerequisites": [
+                    "tech_administrative_ai",
+                    "tech_luxuries_1"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Assemblage de nanocircuits",
+                      "key": "tech_luxuries_1"
+                    },
+                    {
+                      "name": "I.A. administrative",
+                      "key": "tech_administrative_ai"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [
+                    "Une de ces conditions doit être remplie\n    •   N'a PAS l'éthique Conscience de Gestalt\n    •   A le civisme Serviteur renégat."
+                  ],
+                  "children": [
+                    {
+                      "key": "tech_consumer_good_refinement_2",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 90,
+                      "category": "Informatique",
+                      "cost": 16000,
+                      "description": "En recourant à des I.A. avancées, il est possible de prévoir avec une grande fiabilité les demandes avant même qu'elles soient exprimées.",
+                      "feature_unlocks": [
+                        "£job_artisan£ [GetArtisan] Output +10%"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Prédictions consuméristes",
+                      "prerequisites": [
+                        "tech_consumer_good_refinement_1",
+                        "tech_self_aware_logic",
+                        "tech_luxuries_2"
+                      ],
+                      "tier": 4,
+                      "prerequisites_names": [
+                        {
+                          "name": "Kiosques de réplication",
+                          "key": "tech_luxuries_2"
+                        },
+                        {
+                          "name": "Algorithmes d'analyse de marché",
+                          "key": "tech_consumer_good_refinement_1"
+                        },
+                        {
+                          "name": "Logique auto-évolutrice",
+                          "key": "tech_self_aware_logic"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                      ],
+                      "potential": [
+                        "Une de ces conditions doit être remplie\n    •   N'a PAS l'éthique Conscience de Gestalt\n    •   A le civisme Serviteur renégat."
+                      ],
+                      "children": [],
+                      "is_event": false,
+                      "is_gestalt": false
+                    }
+                  ],
+                  "is_event": false,
+                  "is_gestalt": false
+                },
+                {
+                  "key": "tech_self_aware_logic",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 75,
+                  "category": "Informatique",
+                  "cost": 5000,
+                  "description": "La priorisation introspective.",
+                  "feature_unlocks": [
+                    "Research Alternatives +1"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Logique auto-évolutrice",
+                  "prerequisites": [
+                    "tech_administrative_ai"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "I.A. administrative",
+                      "key": "tech_administrative_ai"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_positronic_implants",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 45,
+                      "category": "Informatique",
+                      "cost": 16000,
+                      "description": "Accroît les possibilités par l'application d'une cybernétique limitée.",
+                      "feature_unlocks": [
+                        "<b>Feature : </b>Auto-Research Technologies",
+                        "Research Speed +5%"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Implants positroniques",
+                      "prerequisites": [
+                        "tech_self_aware_logic"
+                      ],
+                      "tier": 4,
+                      "prerequisites_names": [
+                        {
+                          "name": "Logique auto-évolutrice",
+                          "key": "tech_self_aware_logic"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                      ],
+                      "potential": [
+                        "A l'éthique Conscience de Gestalt"
+                      ],
+                      "children": [],
+                      "is_event": false,
+                      "is_gestalt": true
+                    },
+                    {
+                      "key": "tech_sapient_ai",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 45,
+                      "category": "Informatique",
+                      "cost": 16000,
+                      "description": "L'évolution de l'intelligence artificielle laisse entrevoir la possibilité d'accéder à une véritable conscience synthétique.",
+                      "feature_unlocks": [
+                        "<b>Feature : </b>Auto-Research Technologies",
+                        "Research Speed +5%"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "I.A. positronique",
+                      "prerequisites": [
+                        "tech_self_aware_logic"
+                      ],
+                      "tier": 4,
+                      "prerequisites_names": [
+                        {
+                          "name": "Logique auto-évolutrice",
+                          "key": "tech_self_aware_logic"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                      ],
+                      "potential": [
+                        "N'a PAS l'éthique Conscience de Gestalt"
+                      ],
+                      "children": [],
+                      "is_event": false,
+                      "is_gestalt": false
+                    },
+                    {
+                      "key": "tech_synchronized_defences",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 20,
+                      "category": "Informatique",
+                      "cost": 20000,
+                      "description": "Aligner les paradigmes d'exécution des armes défensives et offensives permet de gagner en efficacité.",
+                      "feature_unlocks": [
+                        "<b>Starbase Building</b>: Defense-Grid Supercomputer"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": true,
+                      "is_start_tech": false,
+                      "name": "Défenses synchronisées",
+                      "prerequisites": [
+                        "tech_self_aware_logic"
+                      ],
+                      "tier": 4,
+                      "prerequisites_names": [
+                        {
+                          "name": "Logique auto-évolutrice",
+                          "key": "tech_self_aware_logic"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:red'>0.5</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Computing Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator",
+                        "(×<b style='color:red'>0.75</b>) A l'éthique Pacifiste",
+                        "(×<b style='color:red'>0.65</b>) A l'éthique Fanatiquement pacifiste",
+                        "(×<b style='color:lime'>1.1</b>) Has Militarist Ethic",
+                        "(×<b style='color:lime'>1.2</b>) Has Fanatic Militarist Ethic",
+                        "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                        "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Synchronized Defenses"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            },
+            {
+              "key": "tech_basic_science_lab_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 90,
+              "category": "Informatique",
+              "cost": 3000,
+              "description": "À mesure que nous explorons la galaxie, nous rencontrons de plus en plus de matériaux nouveaux et de substances qui ne nous sont pas familières. Cataloguer ces découvertes pour les analyser nécessite donc de nouveaux complexes dédiés.",
+              "feature_unlocks": [
+                "<b>Building</b>: Research Complexes"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Labos sur les matériaux exotiques",
+              "prerequisites": [
+                "tech_basic_science_lab_1"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Méthode scientifique",
+                  "key": "tech_basic_science_lab_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Has Technology: Exotic Gas Extraction<br/>    •   Has Technology: Exotic Gas Refining<br/>    •   Has the has_market_access country flag",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_global_research_initiative",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 97.5,
+                  "category": "Informatique",
+                  "cost": 8000,
+                  "description": "Cette initiative offre des réserves de ressources interplanétaires et des subventions de recherche plus flexibles.",
+                  "feature_unlocks": [
+                    "<b>Building</b>: Planetary Supercomputer",
+                    "<b>Building</b>: Research Institute"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Initiative de recherche interplanétaire",
+                  "prerequisites": [
+                    "tech_basic_science_lab_2",
+                    "tech_colonial_centralization"
+                  ],
+                  "tier": 3,
+                  "prerequisites_names": [
+                    {
+                      "name": "Labos sur les matériaux exotiques",
+                      "key": "tech_basic_science_lab_2"
+                    },
+                    {
+                      "name": "Centralisation coloniale",
+                      "key": "tech_colonial_centralization"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:red'>0.25</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Computing Expert<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_basic_science_lab_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 130,
+                  "category": "Informatique",
+                  "cost": 8000,
+                  "description": "Afin d'étendre notre base de connaissances, nous devons envisager tous les niveaux d'existence. C'est un pan des sciences encore totalement vierge qui nous attend !",
+                  "feature_unlocks": [
+                    "<b>Building</b>: Advanced Research Complexes"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Études multidimensionnelles",
+                  "prerequisites": [
+                    "tech_basic_science_lab_2",
+                    "tech_colonial_centralization"
+                  ],
+                  "tier": 3,
+                  "prerequisites_names": [
+                    {
+                      "name": "Labos sur les matériaux exotiques",
+                      "key": "tech_basic_science_lab_2"
+                    },
+                    {
+                      "name": "Centralisation coloniale",
+                      "key": "tech_colonial_centralization"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_space_science_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 100,
+          "category": "Informatique",
+          "cost": 2000,
+          "description": "Une grande part de la recherche vitale ne peut être menée que dans des environnements à gravité zéro. C'est à cette fin que ces laboratoires spécialisés ont été conçus.",
+          "feature_unlocks": [
+            "Research Station Output +10%"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": false,
+          "name": "Labos à zéro g",
+          "prerequisites": [],
+          "tier": 1,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+          ],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_space_science_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 90,
+              "category": "Informatique",
+              "cost": 3000,
+              "description": "Les champs de confinement miniaturisés sont parfaits pour isoler et tenir sous cloche certaines substances ou spécimens afin de les analyser plus en détail.",
+              "feature_unlocks": [
+                "Research Station Output +10%"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Champs de confinement miniaturisés",
+              "prerequisites": [
+                "tech_space_science_1"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Labos à zéro g",
+                  "key": "tech_space_science_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_space_science_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 85,
+                  "category": "Informatique",
+                  "cost": 4000,
+                  "description": "Les sondes avancées peuvent analyser des échantillons en profondeur, à un niveau subatomique, livrant ainsi un nombre impressionnant de données.",
+                  "feature_unlocks": [
+                    "Research Station Output +10%"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Sondes quantiques",
+                  "prerequisites": [
+                    "tech_space_science_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Champs de confinement miniaturisés",
+                      "key": "tech_space_science_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_space_science_4",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 70,
+                      "category": "Informatique",
+                      "cost": 6000,
+                      "description": "Une plus grande automatisation des fonctions des stations permettra de réorienter une partie de leur personnel vers leurs tâches de recherche.",
+                      "feature_unlocks": [
+                        "Research Station Output +10%"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Protocoles d'autonomie des stations",
+                      "prerequisites": [
+                        "tech_space_science_3"
+                      ],
+                      "tier": 2,
+                      "prerequisites_names": [
+                        {
+                          "name": "Sondes quantiques",
+                          "key": "tech_space_science_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                      ],
+                      "potential": [],
+                      "children": [
+                        {
+                          "key": "tech_space_science_5",
+                          "area": "physics",
+                          "base_factor": 1,
+                          "base_weight": 65,
+                          "category": "Informatique",
+                          "cost": 8000,
+                          "description": "Étudier quelque chose dans la perspective limitée d'une seule réalité dimensionnelle ne permet pas de tout saisir. Chaque angle d'attaque doit être envisagé.",
+                          "feature_unlocks": [
+                            "Research Station Output +10%"
+                          ],
+                          "is_dangerous": false,
+                          "is_rare": false,
+                          "is_start_tech": false,
+                          "name": "Analyse multidimensionnelle",
+                          "prerequisites": [
+                            "tech_space_science_4"
+                          ],
+                          "tier": 3,
+                          "prerequisites_names": [
+                            {
+                              "name": "Protocoles d'autonomie des stations",
+                              "key": "tech_space_science_4"
+                            }
+                          ],
+                          "weight_modifiers": [
+                            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                          ],
+                          "potential": [],
+                          "children": [],
+                          "is_event": false
+                        }
+                      ],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_physics_1",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 100,
+          "category": "Informatique",
+          "cost": 2000,
+          "description": "L'exploration du rôle joué par les forces fondamentales à travers les particules subatomiques.",
+          "feature_unlocks": [
+            "£physics£ Physics Research from £job_researcher£ [GetResearcherPlural] +20%"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": false,
+          "name": "Théorie quantique",
+          "prerequisites": [],
+          "tier": 1,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:lime'>5.0</b>) Is AI",
+            "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 5",
+            "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 10",
+            "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 15",
+            "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 20",
+            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+          ],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_encryption_1",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 90,
+              "category": "Informatique",
+              "cost": 2500,
+              "description": "Les avancées réalisées dans la technologie informatique offrent de nouvelles façons de protéger les données de la curiosité extérieure.",
+              "feature_unlocks": [
+                "Encryption +2"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Pare-feu quantiques",
+              "prerequisites": [
+                "tech_physics_1",
+                "tech_colonial_bureaucracy"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Théorie quantique",
+                  "key": "tech_physics_1"
+                },
+                {
+                  "name": "Bureaucratie coloniale",
+                  "key": "tech_colonial_bureaucracy"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert",
+                "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is AI<br/>    •   Has the first_spynetwork country flag"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_encryption_2",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 70,
+                  "category": "Informatique",
+                  "cost": 5000,
+                  "description": "De nouvelles avancées dans le domaine des intrications instables permettent d'empêcher les intrusions non autorisées dans les bases de données.",
+                  "feature_unlocks": [
+                    "Encryption +2"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Stockage pour l'effondrement simultané",
+                  "prerequisites": [
+                    "tech_encryption_1",
+                    "tech_physics_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Pare-feu quantiques",
+                      "key": "tech_encryption_1"
+                    },
+                    {
+                      "name": "Physique quantique appliquée",
+                      "key": "tech_physics_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert",
+                    "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is AI<br/>    •   Has the first_spynetwork country flag"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_encryption_3",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 50,
+                      "category": "Informatique",
+                      "cost": 20000,
+                      "description": "Les derniers progrès enregistrés dans le domaine du décryptage exploitent des étrangetés physiques récemment découvertes, qui exigent d'entrer une clef spécifique avant même qu'elle ait été générée.",
+                      "feature_unlocks": [
+                        "Encryption +2"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Clefs à renversement temporel",
+                      "prerequisites": [
+                        "tech_encryption_2",
+                        "tech_physics_3"
+                      ],
+                      "tier": 4,
+                      "prerequisites_names": [
+                        {
+                          "name": "Stockage pour l'effondrement simultané",
+                          "key": "tech_encryption_2"
+                        },
+                        {
+                          "name": "Théorie de l'espace-temps",
+                          "key": "tech_physics_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert",
+                        "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is AI<br/>    •   Has the first_spynetwork country flag"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            },
+            {
+              "key": "tech_decryption_1",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 90,
+              "category": "Informatique",
+              "cost": 2500,
+              "description": "Les systèmes de cryptage primitifs n'ont aucune chance face aux outils de décryptage modernes.",
+              "feature_unlocks": [
+                "Codebreaking +2",
+                "<b>Edict</b>: Observation Instinct",
+                "<b>Edict</b>: Bureau of Espionage",
+                "<b>Edict</b>: Covert Analysis Algorithm"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Piratage quantique",
+              "prerequisites": [
+                "tech_physics_1",
+                "tech_colonial_bureaucracy"
+              ],
+              "tier": 1,
+              "prerequisites_names": [
+                {
+                  "name": "Théorie quantique",
+                  "key": "tech_physics_1"
+                },
+                {
+                  "name": "Bureaucratie coloniale",
+                  "key": "tech_colonial_bureaucracy"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert",
+                "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is AI<br/>    •   Has the first_spynetwork country flag"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_decryption_2",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 70,
+                  "category": "Informatique",
+                  "cost": 5000,
+                  "description": "Le maillon faible de tout système de sécurité, ce sont les individus qui y sont impliqués. En modelant leurs faiblesses dans les simulations informatiques, il est possible de déterminer de nouvelles approches pour contourner les systèmes de sécurité qu'ils créent, ou de les pousser malgré eux à les contourner pour notre compte.",
+                  "feature_unlocks": [
+                    "Codebreaking +2"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Ingénierie sociale simulée",
+                  "prerequisites": [
+                    "tech_decryption_1",
+                    "tech_physics_2"
+                  ],
+                  "tier": 2,
+                  "prerequisites_names": [
+                    {
+                      "name": "Piratage quantique",
+                      "key": "tech_decryption_1"
+                    },
+                    {
+                      "name": "Physique quantique appliquée",
+                      "key": "tech_physics_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert",
+                    "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is AI<br/>    •   Has the first_spynetwork country flag"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_decryption_3",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 50,
+                      "category": "Informatique",
+                      "cost": 20000,
+                      "description": "En accédant aux données des réalités adjacentes, nos agents ne courent plus le risque de déclencher la moindre alarme dans notre propre réalité.",
+                      "feature_unlocks": [
+                        "Codebreaking +2"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Réflexion quasi dimensionnelle",
+                      "prerequisites": [
+                        "tech_decryption_2",
+                        "tech_physics_3"
+                      ],
+                      "tier": 4,
+                      "prerequisites_names": [
+                        {
+                          "name": "Ingénierie sociale simulée",
+                          "key": "tech_decryption_2"
+                        },
+                        {
+                          "name": "Théorie de l'espace-temps",
+                          "key": "tech_physics_3"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert",
+                        "(×<b style='color:red'>0.1</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Is AI<br/>    •   Has the first_spynetwork country flag"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            },
+            {
+              "key": "tech_physics_2",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 70,
+              "category": "Informatique",
+              "cost": 6000,
+              "description": "Le comportement apparemment imprévisible de l'infiniment petit peut modifier notre façon d'appréhender l'infiniment grand.",
+              "feature_unlocks": [
+                "£physics£ Physics Research from £job_researcher£ [GetResearcherPlural] +20%"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Physique quantique appliquée",
+              "prerequisites": [
+                "tech_physics_1"
+              ],
+              "tier": 2,
+              "prerequisites_names": [
+                {
+                  "name": "Théorie quantique",
+                  "key": "tech_physics_1"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 25",
+                "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 30",
+                "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 35",
+                "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 40",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_physics_3",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 40,
+                  "category": "Informatique",
+                  "cost": 20000,
+                  "description": "Trois dimensions, indissociables de la quatrième.",
+                  "feature_unlocks": [
+                    "£physics£ Physics Research from £job_researcher£ [GetResearcherPlural] +20%"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Théorie de l'espace-temps",
+                  "prerequisites": [
+                    "tech_physics_2"
+                  ],
+                  "tier": 4,
+                  "prerequisites_names": [
+                    {
+                      "name": "Physique quantique appliquée",
+                      "key": "tech_physics_2"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 25",
+                    "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 30",
+                    "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 35",
+                    "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 40",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                },
+                {
+                  "key": "tech_repeatable_reduced_building_cost",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 12.5,
+                  "category": "Informatique",
+                  "cost": 50000,
+                  "description": "Des modèles de calcul de plus en plus puissants permettent d'adapter les projets de construction individuels aux conditions gravitationnelles planétaires et très locales.\\n\\n\" #by adapting each construction-project to local gravitational conditions we can save on materials used",
+                  "feature_unlocks": [
+                    "Building Cost -5%"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Analyse gravitationnelle",
+                  "prerequisites": [
+                    "tech_physics_2"
+                  ],
+                  "tier": 5,
+                  "prerequisites_names": [
+                    {
+                      "name": "Physique quantique appliquée",
+                      "key": "tech_physics_2"
+                    }
+                  ],
+                  "weight_modifiers": [],
+                  "potential": [],
+                  "children": [],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_sensors_2",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 85,
+          "category": "Informatique",
+          "cost": 4000,
+          "description": "Ces capteurs ont été réglés pour rechercher les changements gravitationnels dans l'espace, comme ceux que produisent la présence d'un vaisseau stellaire.\\n\\n",
+          "feature_unlocks": [
+            "<b>Starbase Building</b>: Listening Post",
+            "<b>Component</b>: Gravitic Sensors"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": false,
+          "name": "Capteurs gravitiques",
+          "prerequisites": [],
+          "tier": 2,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+          ],
+          "potential": [],
+          "children": [
+            {
+              "key": "tech_experimental_subspace_navigation",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 37.5,
+              "category": "Manipulation des champs",
+              "cost": 6000,
+              "description": "Les vaisseaux scientifiques isolés peuvent s'extraire des hyperlignes naturelles afin de tenter de naviguer vers des destinations connues mais autrement inaccessibles.",
+              "feature_unlocks": [
+                "<b>Feature : </b>Experimental Subspace Navigation"
+              ],
+              "is_dangerous": false,
+              "is_rare": true,
+              "is_start_tech": false,
+              "name": "Transgression spéculative des hyperlignes",
+              "prerequisites": [
+                "tech_sensors_2"
+              ],
+              "tier": 2,
+              "prerequisites_names": [
+                {
+                  "name": "Capteurs gravitiques",
+                  "key": "tech_sensors_2"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+                "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Speculative Hyperlane Breaching",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert"
+              ],
+              "potential": [],
+              "children": [],
+              "is_event": false
+            },
+            {
+              "key": "tech_sensors_3",
+              "area": "physics",
+              "base_factor": 1,
+              "base_weight": 65,
+              "category": "Informatique",
+              "cost": 8000,
+              "description": "Des capteurs qui détectent les fluctuations subspatiales laissées dans le sillage des vaisseaux stellaires. Leur sensibilité et leur portée est supérieure à celle des capteurs gravitiques.\\n\\n",
+              "feature_unlocks": [
+                "<b>Starbase Building</b>: Black Hole Observatory",
+                "<b>Component</b>: Subspace Sensors"
+              ],
+              "is_dangerous": false,
+              "is_rare": false,
+              "is_start_tech": false,
+              "name": "Capteurs subspatiaux",
+              "prerequisites": [
+                "tech_sensors_2"
+              ],
+              "tier": 3,
+              "prerequisites_names": [
+                {
+                  "name": "Capteurs gravitiques",
+                  "key": "tech_sensors_2"
+                }
+              ],
+              "weight_modifiers": [
+                "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+                "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+              ],
+              "potential": [],
+              "children": [
+                {
+                  "key": "tech_sensors_4",
+                  "area": "physics",
+                  "base_factor": 1,
+                  "base_weight": 45,
+                  "category": "Informatique",
+                  "cost": 16000,
+                  "description": "Des capteurs avancés qui reposent sur des rayons tachyons en rotation pour détecter les mouvements de vaisseaux à des distances extrêmes.\\n\\n",
+                  "feature_unlocks": [
+                    "<b>Component</b>: Tachyon Sensors"
+                  ],
+                  "is_dangerous": false,
+                  "is_rare": false,
+                  "is_start_tech": false,
+                  "name": "Capteurs à tachyon",
+                  "prerequisites": [
+                    "tech_sensors_3"
+                  ],
+                  "tier": 4,
+                  "prerequisites_names": [
+                    {
+                      "name": "Capteurs subspatiaux",
+                      "key": "tech_sensors_3"
+                    }
+                  ],
+                  "weight_modifiers": [
+                    "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+                    "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert"
+                  ],
+                  "potential": [],
+                  "children": [
+                    {
+                      "key": "tech_mine_dark_matter",
+                      "area": "physics",
+                      "base_factor": 1,
+                      "base_weight": 50,
+                      "category": "Manipulation des champs",
+                      "cost": 12000,
+                      "description": "Cette substance exotique a de nombreuses propriétés qui semblent défier les lois de la physique. On en trouve des concentrations exploitables près des trous noirs ou dans certaines nébuleuses.",
+                      "feature_unlocks": [
+                        "<b>Reveals Resource</b>: Dark Matter"
+                      ],
+                      "is_dangerous": false,
+                      "is_rare": false,
+                      "is_start_tech": false,
+                      "name": "Attraction de matière noire",
+                      "prerequisites": [
+                        "tech_sensors_4"
+                      ],
+                      "tier": 3,
+                      "prerequisites_names": [
+                        {
+                          "name": "Capteurs à tachyon",
+                          "key": "tech_sensors_4"
+                        }
+                      ],
+                      "weight_modifiers": [
+                        "(×<b style='color:lime'>1.5</b>) Rechercher un leader (Physics): <br/>    •   Is Field Manipulation Expert",
+                        "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Has the dark_matter_found country flag<br/>    •   Any System within borders<br/>\t    •   Any system planet<br/>\t\t    •   Has £sr_dark_matter£ Dark Matter greater than 0<br/>    •   Any Country Relation<br/>\t    •   Toutes ces conditions doivent être remplies<br/>\t\t    •   Is of country type: default<br/>\t\t    •   Has communication with our Empire<br/>\t\t    •   Has Technology: Dark Matter Drawing"
+                      ],
+                      "potential": [],
+                      "children": [],
+                      "is_event": false
+                    }
+                  ],
+                  "is_event": false
+                }
+              ],
+              "is_event": false
+            }
+          ],
+          "is_event": false
+        },
+        {
+          "key": "tech_bio_reactor",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 0,
+          "category": "Particules",
+          "cost": 0,
+          "description": "Complexe permettant la transformation avec une très grande efficience de la matière organique en énergie.",
+          "feature_unlocks": [
+            "<b>Building</b>: Bio-Reactor"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": true,
+          "name": "Bioréacteur",
+          "prerequisites": [],
+          "tier": 0,
+          "prerequisites_names": [],
+          "weight_modifiers": [],
+          "potential": [
+            "Une de ces conditions doit être remplie\n    •   A une autorité Intelligence mécanique\n    •   Une de ces conditions doit être remplie\n\t    •   Espèce fondatrice :\n\t\t    •   Is Mechanical\n\t    •   Has the synthetic_empire country flag\n    •   Espèce fondatrice :\n\t    •   Is Lithoid"
+          ],
+          "children": [],
+          "is_event": false,
+          "is_machine_empire": true
+        },
+        {
+          "key": "tech_mine_volatile_motes",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 170,
+          "category": "Particules",
+          "cost": 4000,
+          "description": "Les particules volatiles sont hautement instables et les travailler est dangereux. Afin de les récolter en toute sécurité, sans déclencher de réactions en chaîne, il convient donc d'utiliser des champs énergétiques pour les stabiliser.",
+          "feature_unlocks": [
+            "<b>Building</b>: Mote Harvesting Traps",
+            "<b>Reveals Resource</b>: Volatile Motes"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": false,
+          "name": "Stabilisation des particules",
+          "prerequisites": [],
+          "tier": 2,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert",
+            "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Any Owned Planet<br/>\t    •   Une de ces conditions doit être remplie<br/>\t\t    •   Has deposit Dust Caverns<br/>\t\t    •   Has deposit Dust Desert<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   Une de ces conditions doit être remplie<br/>\t\t    •   Has deposit £volatile_motes£ +1<br/>\t\t    •   Has deposit £volatile_motes£ +2<br/>\t\t    •   Has deposit £volatile_motes£ +3<br/>\t\t    •   Has deposit £volatile_motes£ +4<br/>\t\t    •   Has deposit £volatile_motes£ +5"
+          ],
+          "potential": [],
+          "children": [],
+          "is_event": false
+        },
+        {
+          "key": "tech_volatile_motes",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 170,
+          "category": "Particules",
+          "cost": 4000,
+          "description": "En dehors des évidents problèmes de sûreté, la création de particules volatiles de synthèse est un processus extrêmement délicat et compliqué, nécessitant un matériel ultraspécialisé.",
+          "feature_unlocks": [
+            "<b>Building</b>: Chemical Plants"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": false,
+          "name": "Centrales à particules volatiles",
+          "prerequisites": [],
+          "tier": 2,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:red'>0.5</b>) Une de ces conditions doit être remplie<br/>    •   Any Owned Planet<br/>\t    •   Une de ces conditions doit être remplie<br/>\t\t    •   Has deposit Dust Caverns<br/>\t\t    •   Has deposit Dust Desert<br/>\t\t    •   Has deposit Industrial Sector<br/>    •   Any Planet within borders<br/>\t    •   Une de ces conditions doit être remplie<br/>\t\t    •   Has deposit £volatile_motes£ +1<br/>\t\t    •   Has deposit £volatile_motes£ +2<br/>\t\t    •   Has deposit £volatile_motes£ +3<br/>\t\t    •   Has deposit £volatile_motes£ +4<br/>\t\t    •   Has deposit £volatile_motes£ +5",
+            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Particles Expert"
+          ],
+          "potential": [],
+          "children": [],
+          "is_event": false
+        },
+        {
+          "key": "tech_automated_exploration",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 95,
+          "category": "Informatique",
+          "cost": 2500,
+          "description": "Une I.A. avancée aidera les officiers scientifiques dans leur oeuvre d'exploration de nouveaux mondes étranges, pour découvrir des formes de vie nouvelles et de nouvelles civilisations, et pour se lancer jusque là où aucun Blorg n'a jamais été auparavant. Équipé de cette I.A., ce vaisseau scientifique sera capable d'explorer la galaxie.",
+          "feature_unlocks": [
+            "<b>Feature : </b>Automatic Surveying",
+            "Survey Speed +25%"
+          ],
+          "is_dangerous": false,
+          "is_rare": false,
+          "is_start_tech": false,
+          "name": "Protocoles exploratoires automatisés",
+          "prerequisites": [],
+          "tier": 1,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:lime'>1.25</b>) Rechercher un leader (Physics): <br/>    •   Is Computing Expert",
+            "(×<b style='color:lime'>1.25</b>) Has Discovery Traditions Tradition",
+            "(×<b style='color:red'>0.0</b>) Number of years since game start is lower than 5",
+            "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 10",
+            "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 15",
+            "(×<b style='color:lime'>2.0</b>) Number of years since game start is greater than 20",
+            "(×<b style='color:lime'>2.0</b>) Number of owned planets is greater than 5",
+            "(×<b style='color:lime'>2.0</b>) Number of owned planets is greater than 10",
+            "(×<b style='color:lime'>2.0</b>) Number of owned planets is greater than 15",
+            "(×<b style='color:lime'>2.0</b>) Number of owned planets is greater than 20"
+          ],
+          "potential": [],
+          "children": [],
+          "is_event": false
+        },
+        {
+          "key": "tech_archeology_lab_ancrel",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 85,
+          "category": "Informatique",
+          "cost": 4000,
+          "description": "Un laboratoire embarqué disposant de matériel archéologique perfectionné, dont une immense base de données fournie par l'ordre des Conservateurs, où toute nouvelle trouvaille peut aisément être comparée à celles plus anciennes.\\n\\n",
+          "feature_unlocks": [
+            "mod_country_ship_archeaological_site_clues_add +2"
+          ],
+          "is_dangerous": false,
+          "is_rare": true,
+          "is_start_tech": false,
+          "name": "Labo archéologique des Conservateurs",
+          "prerequisites": [],
+          "tier": 2,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:red'>0.5</b>) Has the Curator Insight modifier",
+            "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+            "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Curator Archaeology Lab",
+            "(×<b style='color:lime'>3.0</b>) Rechercher un leader (Physics): <br/>    •   Is Curator",
+            "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Has the Curator Insight modifier"
+          ],
+          "potential": [
+            "Nécessite le DLC Ancient Relics.!"
+          ],
+          "children": [],
+          "is_event": false
+        },
+        {
+          "key": "tech_archeology_lab",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 85,
+          "category": "Informatique",
+          "cost": 4000,
+          "description": "Un laboratoire embarqué disposant de matériel archéologique perfectionné, dont une immense base de données fournie par l'ordre des Conservateurs, où toute nouvelle trouvaille peut aisément être comparée à celles plus anciennes.\\n\\n",
+          "feature_unlocks": [
+            "Anomaly Discovery Chance +10%",
+            "Anomaly Research Speed +25%"
+          ],
+          "is_dangerous": false,
+          "is_rare": true,
+          "is_start_tech": false,
+          "name": "Labo archéologique des Conservateurs",
+          "prerequisites": [],
+          "tier": 2,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:red'>0.5</b>) Has the Curator Insight modifier",
+            "(×<b style='color:lime'>3.0</b>) Rechercher un leader (Physics): <br/>    •   Is Curator",
+            "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Has the Curator Insight modifier"
+          ],
+          "potential": [
+            "Does NOT have DLC Ancient Relics Story Pack"
+          ],
+          "children": [],
+          "is_event": false
+        },
+        {
+          "key": "tech_curator_lab",
+          "area": "physics",
+          "base_factor": 1,
+          "base_weight": 85,
+          "category": "Informatique",
+          "cost": 4000,
+          "description": "Ces laboratoires embarqués incorporent des technologies avancées transmises par l'ordre ancien des Conservateurs, qui permettent d'accroître encore la vitesse d'exploration.\\n\\n",
+          "feature_unlocks": [
+            "Survey Speed +33%"
+          ],
+          "is_dangerous": false,
+          "is_rare": true,
+          "is_start_tech": false,
+          "name": "Labo d'exploration des Conservateurs",
+          "prerequisites": [],
+          "tier": 2,
+          "prerequisites_names": [],
+          "weight_modifiers": [
+            "(×<b style='color:red'>0.5</b>) Has the Curator Insight modifier",
+            "(×<b style='color:lime'>3.0</b>) Rechercher un leader (Physics): <br/>    •   Is Curator",
+            "(×<b style='color:lime'>1.5</b>) A l'atout de l'ascension Ascendance technologique",
+            "(×<b style='color:lime'>2.0</b>) Fédération :<br/>    •   La Fédération bénéficie de l'atout Inspiration scientifique<br/>    •   Tout membre<br/>\t    •   Has Technology: Curator Exploration Lab",
+            "(×<b style='color:red'>0.0</b>) Aucune de ces conditions ne doit être remplie<br/>    •   Rechercher un leader (Physics): <br/>\t    •   Is Curator<br/>    •   Has the Curator Insight modifier"
+          ],
+          "potential": [],
+          "children": [],
+          "is_event": false
+        }
+      ],
+      "is_event": false
+    }
+  ],
+  "is_event": false
+}

@@ -1608,8 +1608,8 @@
           "cost": 5000,
           "description": "配有显微设备的复制机能够让我们复制出带有更多复杂细节的无人机。",
           "feature_unlocks": [
-            "<b>Building</b>: Upgraded Drone Storage",
-            "Pop Assembly Speed +10%"
+            "Mechanical Pop Assembly Speed +10%",
+            "<b>Building</b>: Upgraded Drone Storage"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1634,7 +1634,7 @@
               "cost": 12000,
               "description": "仿照有机物DNA而来，这些微型机械智能可以自动组成大多数新无人机需要的零件。",
               "feature_unlocks": [
-                "Pop Assembly Speed +10%"
+                "Mechanical Pop Assembly Speed +10%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -5143,6 +5143,7 @@
           "feature_unlocks": [
             "<b>Army</b>: Hunter-Killer Army",
             "<b>Army</b>: Assault Army\nThese armies can be embarked and used for invasion on other planets.",
+            "<b>Army</b>: Giant Undead Army",
             "<b>Army</b>: Undead Army"
           ],
           "is_dangerous": false,
