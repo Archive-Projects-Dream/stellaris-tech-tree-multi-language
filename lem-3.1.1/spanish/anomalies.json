@@ -1,0 +1,802 @@
+[
+  {
+    "key": "null_void_beam",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Partículas",
+    "cost": 2500,
+    "description": "Al aprovechar la naturaleza entrópica del Vacío nulo, este rayo puede, de hecho, destruir energía.",
+    "feature_unlocks": [
+      "<b>Component</b>: Large Null Void Beam",
+      "<b>Component</b>: Medium Null Void Beam",
+      "<b>Component</b>: Small Null Void Beam"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Rayo de Vacío nulo",
+    "prerequisites": [],
+    "tier": 2,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_akx_worm_1",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 60,
+    "category": "Manipulación de campos",
+    "cost": 4000,
+    "description": "El universo avanza irremediablemente hacia delante y hacia abajo. Esa tendencia no se puede revertir... Pero se puede subvertir, por un precio.",
+    "feature_unlocks": [],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Recursividad entrópica",
+    "prerequisites": [],
+    "tier": 3,
+    "prerequisites_names": [],
+    "weight_modifiers": [
+      "(×<b style='color:red'>0.0</b>) Always"
+    ],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_akx_worm_2",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 60,
+    "category": "Estadismo",
+    "cost": 4000,
+    "description": "Un conjunto de protocolos sociales basados en la intuición paradójica y en el amor. Cuando conocemos el sistema del bucle, aprendemos que podemos ejercer influencia al recibir instrucciones, así como al darlas.",
+    "feature_unlocks": [],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Doctrina: bucle extraño",
+    "prerequisites": [],
+    "tier": 3,
+    "prerequisites_names": [],
+    "weight_modifiers": [
+      "(×<b style='color:red'>0.0</b>) Always"
+    ],
+    "potential": [],
+    "children": [
+      {
+        "key": "tech_akx_worm_3",
+        "area": "physics",
+        "base_factor": 1,
+        "base_weight": 60,
+        "category": "Partículas",
+        "cost": 10000,
+        "description": "Cuando se enmaraña una paradoja temporal, se despierta una especie de conciencia que tiene sus propias necesidades y sus propios deseos. Esto es lo que ocurre con la conciencia que algunos denominan \"gusano a la espera\". Si nos alineásemos con ella, podríamos alcanzar un tipo de inmortalidad.",
+        "feature_unlocks": [
+          "<b>Building</b>: Omega Alignment"
+        ],
+        "is_dangerous": false,
+        "is_rare": true,
+        "is_start_tech": false,
+        "name": "Teoría omega",
+        "prerequisites": [
+          "tech_akx_worm_2",
+          "tech_akx_worm_1"
+        ],
+        "tier": 3,
+        "prerequisites_names": [
+          {
+            "name": "Recursividad entrópica",
+            "key": "tech_akx_worm_1"
+          },
+          {
+            "name": "Doctrina: bucle extraño",
+            "key": "tech_akx_worm_2"
+          }
+        ],
+        "weight_modifiers": [],
+        "potential": [],
+        "children": [],
+        "is_event": true
+      }
+    ],
+    "is_event": true
+  },
+  {
+    "key": "tech_akx_worm_3",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 60,
+    "category": "Partículas",
+    "cost": 10000,
+    "description": "Cuando se enmaraña una paradoja temporal, se despierta una especie de conciencia que tiene sus propias necesidades y sus propios deseos. Esto es lo que ocurre con la conciencia que algunos denominan \"gusano a la espera\". Si nos alineásemos con ella, podríamos alcanzar un tipo de inmortalidad.",
+    "feature_unlocks": [
+      "<b>Building</b>: Omega Alignment"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Teoría omega",
+    "prerequisites": [
+      "tech_akx_worm_2",
+      "tech_akx_worm_1"
+    ],
+    "tier": 3,
+    "prerequisites_names": [
+      {
+        "name": "Recursividad entrópica",
+        "key": "tech_akx_worm_1"
+      },
+      {
+        "name": "Doctrina: bucle extraño",
+        "key": "tech_akx_worm_2"
+      }
+    ],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_amoeba_strike_craft_1",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 6000,
+    "description": "Al criar amebas espaciales en cautividad, podemos programar sus flagelos simbióticos para que ejerzan de cazas en nuestra armada.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Amoeba Flagella"
+    ],
+    "is_dangerous": false,
+    "is_rare": false,
+    "is_start_tech": false,
+    "name": "Programa crianza de amebas",
+    "prerequisites": [],
+    "tier": 2,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_btc_1",
+    "area": "engineering",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Arte del vacío",
+    "cost": 48000,
+    "description": "Se dispara un rayo de energía taquiónica dirigida a la estrella, lo que provoca una supernova. La increíble energía que se libera con esta acción sirve para generar cantidades ingentes de materia oscura.\\n\\nCuando detona la estrella, todas las colonias, megaestructuras y estaciones del sistema quedan destruidas, incluso las nuestras. Todas las flotas del sistema desaparecerán en combate. El comedor de estrellas es la única excepción.§!",
+    "feature_unlocks": [
+      "<b>Component</b>: Star Cracker"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Fracturador espacial",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [
+      "Se requiere el contenido descargable Nemesis!",
+      "Tiene ventaja de ascenso Sé la crisis.",
+      "Has the can_build_star_eaters(Comedor de estrellas) country flag"
+    ],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_crystal_armor_1",
+    "area": "engineering",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Materiales",
+    "cost": 6000,
+    "description": "Al emplear materia cristalina en el blindaje podemos aumentar la durabilidad de los cascos protectores de nuestras naves.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Medium Crystal-Infused Plating",
+      "<b>Component</b>: Large Crystal-Infused Plating",
+      "<b>Component</b>: Small Crystal-Infused Plating"
+    ],
+    "is_dangerous": false,
+    "is_rare": false,
+    "is_start_tech": false,
+    "name": "Blindaje imbuido de cristales",
+    "prerequisites": [],
+    "tier": 2,
+    "prerequisites_names": [],
+    "weight_modifiers": [
+      "(+<b style='color:lime'>1.0</b>) Has the crystal_armor_1_weight(Blindaje imbuido de cristales) country flag"
+    ],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_crystal_armor_2",
+    "area": "engineering",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Materiales",
+    "cost": 16000,
+    "description": "Introducir materia cristalina en el proceso de forja mejora las cualidades ultraduras de los metales imbuidos de cristales.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Large Crystal-Forged Plating",
+      "<b>Component</b>: Small Crystal-Forged Plating",
+      "<b>Component</b>: Medium Crystal-Forged Plating"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Blindaje forjado con cristales",
+    "prerequisites": [],
+    "tier": 4,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_dragon_armor",
+    "area": "engineering",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Materiales",
+    "cost": 50000,
+    "description": "Las escamas del dragón del éter constan de diversas capas de nanoestructuras de minerales únicos. Unas técnicas de fabricación poco ortodoxas nos permiten emular estas estructuras autorreparables.",
+    "feature_unlocks": [
+      "<b>Component</b>: Large Dragonscale Armor",
+      "<b>Component</b>: Medium Dragonscale Armor",
+      "<b>Component</b>: Small Dragonscale Armor"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Escamas artificiales",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_dyson_sphere",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Manipulación de campos",
+    "cost": 48000,
+    "description": "Una Esfera Dyson! envuelve completamente una estrella y convierte toda su energía solar en £energy£ créditos energéticos.",
+    "feature_unlocks": [],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Esfera Dyson",
+    "prerequisites": [
+      "tech_mega_engineering"
+    ],
+    "tier": 5,
+    "prerequisites_names": [
+      {
+        "name": "Megaingeniería",
+        "key": "tech_mega_engineering"
+      }
+    ],
+    "weight_modifiers": [],
+    "potential": [
+      "Se requiere el contenido descargable Utopia!"
+    ],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_enigmatic_decoder",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Informática",
+    "cost": 50000,
+    "description": "Aunque en las pruebas normales ofrece resultados medios, la precisión de los algoritmos de predicción del decodificador enigmático parece aumentar cuanto más irregular es la ruta de vuelo del objetivo.",
+    "feature_unlocks": [
+      "<b>Component</b>: Enigmatic Decoder"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Decodificador enigmático",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_enigmatic_encoder",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Informática",
+    "cost": 50000,
+    "description": "El codificador enigmático encripta los datos de las rutas de vuelo según un diseño indeterminable antes de remitirlo al mando de la flota.",
+    "feature_unlocks": [
+      "<b>Component</b>: Enigmatic Encoder"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Codificador enigmático",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_extradimensional_weapon_1",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Partículas",
+    "cost": 48000,
+    "description": "Al aplicar los principios de manipulación de energía de la quinta dimensión en los planos dimensionales inferiores podemos crear poderosas armas energéticas.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Medium Matter Disintegrator",
+      "<b>Component</b>: Small Matter Disintegrator",
+      "<b>Component</b>: Large Matter Disintegrator"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Armamento extradimensional",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [
+      "(×<b style='color:red'>0.0</b>) No tiene el modificador Alianza: Fin del Ciclo",
+      "(×<b style='color:lime'>1.5</b>) Tiene ventaja de ascenso Ascenso tecnológico.",
+      "(×<b style='color:lime'>2.0</b>) Federación :<br/>    •   Federación ha escogido Inspiración científica<br/>    •   Cualquier miembro<br/>\t    •   Tiene Armamento extradimensional"
+    ],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_gargantuan_evolution",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 8000,
+    "description": "Los huevos de necroengendro han evolucionado para poder resistir las duras condiciones del espacio absorbiendo y conservando energía de su estrella más cercana.",
+    "feature_unlocks": [
+      "£energy£ Energy Credits from £job£ Jobs +5%"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Evolución colosal",
+    "prerequisites": [],
+    "tier": 1,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_genetic_resequencing",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 32000,
+    "description": "La estructura biológica básica de una especie ya no nos limitará cuando intentemos modificarla. El ADN no es más que otro material al que el escultor puede dar forma.",
+    "feature_unlocks": [
+      "<b>Feature : </b>Genetic Resequencing",
+      "<b>Feature : </b>Advanced Traits"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Reordenación genética",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_lgate_activation",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Partículas",
+    "cost": 12000,
+    "description": "Los Portales-L desafían nuestro conocimiento actual de las mecánicas subespaciales. Hay que remediar esto para poder viajar por ellos.",
+    "feature_unlocks": [],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Activación de Portal-L",
+    "prerequisites": [],
+    "tier": 3,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [
+      "Does NOT have the l_cluster_opened(El Clúster-L) global flag"
+    ],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_matter_decompressor",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Manipulación de campos",
+    "cost": 48000,
+    "description": "El Compresor de materia! proyecta la gravedad de un agujero negro y la convierte en un inmenso ejercicio de fuerza gravitatoria que recupera £minerals£ minerales de la singularidad.",
+    "feature_unlocks": [],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Compresor de materia",
+    "prerequisites": [
+      "tech_mega_engineering"
+    ],
+    "tier": 5,
+    "prerequisites_names": [
+      {
+        "name": "Megaingeniería",
+        "key": "tech_mega_engineering"
+      }
+    ],
+    "weight_modifiers": [],
+    "potential": [
+      "Se requiere el contenido descargable Megacorp!"
+    ],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_mining_drone_weapon_1",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Partículas",
+    "cost": 5000,
+    "description": "Usar lentes de gran concentración con una frecuencia de disparo oscilante ayuda a crear láseres lo bastante potentes como para extraer minerales de los asteroides o abatir a enemigos.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Medium Cutting Laser",
+      "<b>Component</b>: Small Cutting Laser"
+    ],
+    "is_dangerous": false,
+    "is_rare": false,
+    "is_start_tech": false,
+    "name": "Láseres de dron minero",
+    "prerequisites": [],
+    "tier": 2,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_nanite_repair_system",
+    "area": "engineering",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Arte del vacío",
+    "cost": 48000,
+    "description": "Entre los restos humeantes del Desguazador, hallamos un sistema de reparación automática del casco muy efectivo que comprende miles de millones de nanomáquinas microscópicas y que hemos reaprovechado. Seguimos sin saber si el Desguazador rapiñó este sistema de una nave abandonada o si fue construido con él.",
+    "feature_unlocks": [
+      "<b>Component</b>: Nanite Repair System"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Sistema de reparación nanorrobótico",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_neuroregeneration",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 20000,
+    "description": "Cuando se adapta al genoma de una especie, esta forma de ingeniería de tejidos neuronales tiene grandes propiedades neurorregeneradoras y aumenta de manera significativa el desarrollo de neuronas, axones y sinapsis en el receptor.",
+    "feature_unlocks": [
+      "Leader Level Cap +1",
+      "Species Leader Exp Gain +25%"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Ingeniería de tejidos neuronales",
+    "prerequisites": [],
+    "tier": 4,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_orbital_trash_dispersal",
+    "area": "engineering",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Propulsión",
+    "cost": 8000,
+    "description": "Este sistema de gestión de bombardeo orbital lanza contra el planeta millones de diminutos proyectiles a gran velocidad que sobrecargan la red defensiva con datos basura. Las naves equipadas con este componente causarán más daño durante el bombardeo orbital.",
+    "feature_unlocks": [
+      "<b>Component</b>: Orbital Trash Disperser"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Dispersión de basura orbital",
+    "prerequisites": [],
+    "tier": 1,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_prescient_data_modeling",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Estadismo",
+    "cost": 8000,
+    "description": "¿Se debe a los poderes premonitorios de Numa o es pura destreza financiera? En cualquier caso, este modelo de predicción del mercado de valores galáctico anticipa las fluctuaciones de la economía con una precisión divina.",
+    "feature_unlocks": [
+      "£energy£ Energy Credits from £job£ Jobs +5%"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Modelado de datos numístico",
+    "prerequisites": [],
+    "tier": 3,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_psionic_barrier",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Psiónicas",
+    "cost": 8000,
+    "description": "Estas barreras las generan un grupo de especialistas psiónicos con pura energía psíquica. Pueden detener los disparos enemigos, igual que nuestros sistemas deflectores, pero sin el prohibitivo consumo de energía.",
+    "feature_unlocks": [
+      "<b>Component</b>: Large Psionic Barrier",
+      "<b>Component</b>: Small Psionic Barrier",
+      "<b>Component</b>: Medium Psionic Barrier"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Barrera psiónica",
+    "prerequisites": [
+      "tech_psionic_theory"
+    ],
+    "tier": 3,
+    "prerequisites_names": [
+      {
+        "name": "Teoría de psiónicas",
+        "key": "tech_psionic_theory"
+      }
+    ],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_psionic_shield",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Psiónicas",
+    "cost": 48000,
+    "description": "Estos escudos, extremadamente potentes, son generados por un grupo de especialistas psiónicos con pura energía psíquica. Un sistema de emisores psíquicos aumenta su potencia.",
+    "feature_unlocks": [
+      "<b>Component</b>: Small Psionic Shield",
+      "<b>Component</b>: Medium Psionic Shield",
+      "<b>Component</b>: Large Psionic Shield"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Escudos psiónicos",
+    "prerequisites": [
+      "tech_psionic_theory"
+    ],
+    "tier": 5,
+    "prerequisites_names": [
+      {
+        "name": "Teoría de psiónicas",
+        "key": "tech_psionic_theory"
+      }
+    ],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_regenerative_hull_tissue",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 10000,
+    "description": "Una versión de bacterias de silicona alteradas genéticamente que podría manipularse para regenerar materiales no orgánicos.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Regenerative Hull Tissue"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Tejido regenerador de casco",
+    "prerequisites": [],
+    "tier": 3,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_ring_world",
+    "area": "engineering",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Arte del vacío",
+    "cost": 48000,
+    "description": "Un Mundo anillo! puede tener múltiples zonas pseudoplanetarias mediante la canibalización del resto de planetas en el sistema para conseguir materiales.",
+    "feature_unlocks": [],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Mundo anillo",
+    "prerequisites": [
+      "tech_mega_engineering"
+    ],
+    "tier": 5,
+    "prerequisites_names": [
+      {
+        "name": "Megaingeniería",
+        "key": "tech_mega_engineering"
+      }
+    ],
+    "weight_modifiers": [],
+    "potential": [
+      "Se requiere el contenido descargable Utopia!"
+    ],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_scourge_missile_1",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 48000,
+    "description": "Al analizar el armamento biológico empleado por el Enjambre podemos crear misiles con la misma capacidad de destrucción atroz.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Large Scourge Missile"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Misiles azote",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_space_cloud_weapon_1",
+    "area": "physics",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Partículas",
+    "cost": 6000,
+    "description": "Las nubes de vacío usan cargas eléctricas generadas por los densos gases que forman la mayor parte de su núcleo para liberar rayos de plasma ardiente. Usando la misma composición de gas con un conducto especializado podemos crear una potente arma de rayos.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Cloud Lightning"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Conductos de nube de rayos",
+    "prerequisites": [],
+    "tier": 2,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_space_whale_weapon_1",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 3000,
+    "description": "Al adaptar el método tiyanki de extracción de energía de la materia gaseosa, podemos construir armas que absorban energía de las naves enemigas.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Energy Siphon"
+    ],
+    "is_dangerous": false,
+    "is_rare": false,
+    "is_start_tech": false,
+    "name": "Ajuste de frecuencia",
+    "prerequisites": [],
+    "tier": 1,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  },
+  {
+    "key": "tech_swarm_strike_craft_1",
+    "area": "society",
+    "base_factor": 1,
+    "base_weight": 0,
+    "category": "Biología",
+    "cost": 48000,
+    "description": "Recoger especímenes de prethoryn derrotados nos permite clonarlos y programarlos genéticamente para nuestro ejército.\\n\\n",
+    "feature_unlocks": [
+      "<b>Component</b>: Swarm Strikers"
+    ],
+    "is_dangerous": false,
+    "is_rare": true,
+    "is_start_tech": false,
+    "name": "Criaderos de enjambres",
+    "prerequisites": [],
+    "tier": 5,
+    "prerequisites_names": [],
+    "weight_modifiers": [],
+    "potential": [],
+    "children": [],
+    "is_event": true
+  }
+]

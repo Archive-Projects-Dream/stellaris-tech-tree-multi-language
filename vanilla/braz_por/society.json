@@ -2392,6 +2392,7 @@
               "weight_modifiers": [
                 "(×<b style='color:red'>0.0</b>) Has Government Civic: Devouring Swarm",
                 "(×<b style='color:lime'>1.25</b>) Has Expansion Traditions Tradition",
+                "(×<b style='color:lime'>1.25</b>) Is Aquatic",
                 "(×<b style='color:lime'>1.25</b>) Pesquisar Líder (Sociedade): <br/>    •   Is New Worlds Expert"
               ],
               "potential": [],
@@ -2908,7 +2909,7 @@
               "cost": 2000,
               "description": "Antigas tribos em guerra, nações históricas em conflito, agora unificadas em um império. Não devemos, não iremos desabar.\\n\\n\" # We have progressed from warring tribes, from conflicting nations, to a unified Empire, a single will ready to grasp the stars.",
               "feature_unlocks": [
-                "Monthly Unity +2",
+                "Monthly £unity£ Unity +2",
                 "<b>Feature : </b>Additional Edicts (Campaigns)"
               ],
               "is_dangerous": false,

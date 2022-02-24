@@ -1608,8 +1608,8 @@
           "cost": 5000,
           "description": "Des outils microscopiques, capables d'assister nos unités de réplication en créant les circuits les plus complexes nécessaires pour les nouveaux drones.",
           "feature_unlocks": [
-            "<b>Building</b>: Upgraded Drone Storage",
-            "Pop Assembly Speed +10%"
+            "Mechanical Pop Assembly Speed +10%",
+            "<b>Building</b>: Upgraded Drone Storage"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1634,7 +1634,7 @@
               "cost": 12000,
               "description": "Modelés à partir d'ADN organique, ces intellects mécaniques microscopiques sont capables d'assembler en totale autonomie la plupart des composants nécessaires pour les nouveaux drones.",
               "feature_unlocks": [
-                "Pop Assembly Speed +10%"
+                "Mechanical Pop Assembly Speed +10%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -5143,6 +5143,7 @@
           "feature_unlocks": [
             "<b>Army</b>: Hunter-Killer Army",
             "<b>Army</b>: Assault Army\nThese armies can be embarked and used for invasion on other planets.",
+            "<b>Army</b>: Giant Undead Army",
             "<b>Army</b>: Undead Army"
           ],
           "is_dangerous": false,
