@@ -505,5 +505,17 @@ path.physics {
     background-color: #33230F;
 }
 
+.dropdown {
+    font-size: 20px;
+    border: 2px solid #327866;
+    font-family: 'Arimo', Verdana;
+    display: none;
+    position: absolute;
+    min-width: 128px;
+    max-width: 256px;
+}
 
+.dropdown a:hover {background-color: #636363}
+
+.show {display:block;}
 

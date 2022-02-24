@@ -443,3 +443,7 @@ function loadResearchFromLocalStorage() {
         alert("Unable to load data from local storage!");
     }
 }
+
+function setLanguages() {
+    document.getElementById("drop_down").classList.toggle("show");
+}
