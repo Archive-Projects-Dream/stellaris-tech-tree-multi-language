@@ -174,7 +174,7 @@ div.extra-data {
     overflow: hidden;
 }
 
-.tooltipster-content img {
+.tooltipster-content .prerequisites img {
     border-radius: 2px;
     background-color: black;
     border: 2px solid #000;
@@ -223,6 +223,7 @@ div.extra-data {
 .ui-tooltip img.resource {
     position: relative;
     top: 4px;
+    margin-top: -4px;
     width: 16px;
     height: 16px;
 }
@@ -348,7 +349,7 @@ div.fixed {
 
 .anomaly div.node-status {
     margin-right: -2px;
-    margin-top: -5px;]
+    margin-top: -5px;
 }
 
 div.fixed div {
@@ -505,6 +506,34 @@ path.physics {
     background-color: #33230F;
 }
 
+span.tier {
+    font-weight: bold;
+}
+
+span.tier-0 {
+    color: #9d9d9d;
+}
+
+span.tier-1 {
+    color: #ffffff;
+}
+
+span.tier-2 {
+    color: #1eff00;
+}
+
+span.tier-3 {
+    color: #45a9ff;
+}
+
+span.tier-4 {
+    color: #c380f1;
+}
+
+span.tier-5 {
+    color: #ff8000;
+}
+
 .dropdown {
     font-size: 20px;
     border: 2px solid #327866;
@@ -518,4 +547,3 @@ path.physics {
 .dropdown a:hover {background-color: #636363}
 
 .show {display:block;}
-

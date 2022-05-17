@@ -28,9 +28,9 @@
     <p class="node-name" title="{{:name}}">{{:name}}</p>
     <p class="node-title">
     {{if tier < 1}}
-      {{:category}} (Starting)
+      {{:category}}  - <span class="tier tier-0">Starting</span>
     {{else}}
-      {{:category}} (Tier {{:tier}})
+      {{:category}} - <span class="tier tier-{{:tier}}">Tier {{:tier}}</span>
     {{/if}}
     </p>
     <p class="node-desc">
@@ -72,17 +72,19 @@
     </p>
     <div class="node-status"></div>
     <div class="extra-data">
+    <div class="tooltip-header">Описание</div>
+    <div class="tooltip-content">{{:description}}</div>
     {{if weight_modifiers.length > 0}}
-        <div class="tooltip-header">Weight Modifiers</div>
+        <div class="tooltip-header">Модификаторы Веса</div>
         <div class="tooltip-content"><pre>{{:weight_modifiers.join('<br/>')}}</pre></div>
     {{/if}}
     {{if potential.length > 0}}
-        <div class="tooltip-header">Requirements</div>
+        <div class="tooltip-header">Требуеться</div>
         <div class="tooltip-content"><pre>{{:potential.join('<br/>')}}</pre></div>
     {{/if}}
     {{if prerequisites.length > 1}}
-        <div class="tooltip-header">Required Technologies</div>
-        <div class="tooltip-content">
+        <div class="tooltip-header">Требуемые Технологии</div>
+        <div class="tooltip-content prerequisites">
         {{for prerequisites}}
             <img class="left {{:}}" height="52" width="52" src="//:0" data-src="../../assets/img/{{:}}.png"">
         {{/for}}
@@ -94,11 +96,9 @@
         </div>
     {{/if}}
     {{if feature_unlocks.length > 0}}
-        <div class="tooltip-header">Research Effects</div>
+        <div class="tooltip-header">Эффекты от Технологии</div>
         <div class="tooltip-content">{{:feature_unlocks.join('<br/>')}}</div>
     {{/if}}
-    <div class="tooltip-header">Description</div>
-    <div class="tooltip-content">{{:description}}</div>
     </div>
   </script>
 </head>

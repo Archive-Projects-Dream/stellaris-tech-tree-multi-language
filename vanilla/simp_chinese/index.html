@@ -28,9 +28,9 @@
     <p class="node-name" title="{{:name}}">{{:name}}</p>
     <p class="node-title">
     {{if tier < 1}}
-      {{:category}} (Starting)
+      {{:category}}  - <span class="tier tier-0">Starting</span>
     {{else}}
-      {{:category}} (Tier {{:tier}})
+      {{:category}} - <span class="tier tier-{{:tier}}">Tier {{:tier}}</span>
     {{/if}}
     </p>
     <p class="node-desc">
@@ -72,6 +72,8 @@
     </p>
     <div class="node-status"></div>
     <div class="extra-data">
+    <div class="tooltip-header">Description</div>
+    <div class="tooltip-content">{{:description}}</div>
     {{if weight_modifiers.length > 0}}
         <div class="tooltip-header">Weight Modifiers</div>
         <div class="tooltip-content"><pre>{{:weight_modifiers.join('<br/>')}}</pre></div>
@@ -97,8 +99,6 @@
         <div class="tooltip-header">Research Effects</div>
         <div class="tooltip-content">{{:feature_unlocks.join('<br/>')}}</div>
     {{/if}}
-    <div class="tooltip-header">Description</div>
-    <div class="tooltip-content">{{:description}}</div>
     </div>
   </script>
 </head>
