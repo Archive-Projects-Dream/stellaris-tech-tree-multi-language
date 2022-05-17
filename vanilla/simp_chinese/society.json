@@ -4519,7 +4519,7 @@
                   "cost": 20000,
                   "description": "不断探索灵能领域，读取心灵波动先于获得实际感知，从而制造出预知接口作战计算机。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Precognitive Interface"
+                    "<b>组件</b>: Precognitive Interface"
                   ],
                   "is_dangerous": false,
                   "is_rare": true,
@@ -4558,7 +4558,7 @@
                       "cost": 40000,
                       "description": "灵能跳跃引擎利用船员放射的灵能使舰体穿越现实的空间结构，立即“跳跃”过超长的距离。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Psi Jump Drive",
+                        "<b>组件</b>: Psi Jump Drive",
                         "<b>Feature : </b>Jump Drive Travel"
                       ],
                       "is_dangerous": true,

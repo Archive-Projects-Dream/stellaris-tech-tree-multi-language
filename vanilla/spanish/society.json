@@ -4519,7 +4519,7 @@
                   "cost": 20000,
                   "description": "Los avances en el campo psiónico sugieren la posibilidad de crear equipos capaces de leer y analizar los impulsos de los operarios telepáticos antes de que se procesen de forma consciente.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Precognitive Interface"
+                    "<b>Сomponente</b>: Precognitive Interface"
                   ],
                   "is_dangerous": false,
                   "is_rare": true,
@@ -4558,7 +4558,7 @@
                       "cost": 40000,
                       "description": "El motor de salto psi aprovecha las energías psiónicas emitidas por la tripulación para impulsar la nave por el mismo tejido de la realidad, \"saltando\" al instante largas distancias.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Psi Jump Drive",
+                        "<b>Сomponente</b>: Psi Jump Drive",
                         "<b>Feature : </b>Jump Drive Travel"
                       ],
                       "is_dangerous": true,

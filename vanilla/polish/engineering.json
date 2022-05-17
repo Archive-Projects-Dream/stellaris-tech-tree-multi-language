@@ -58,8 +58,8 @@
               "cost": 2000,
               "description": "Nowe techniki szczelinowania umożliwią nam dotarcie do wcześniej niedostępnych zasobów geotermalnych pod skorupą planety.",
               "feature_unlocks": [
-                "£minerals£ Minerals from Starbase Constructions +10%",
-                "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                "£minerals£ Minerały z budowy baz gwiezdnych +10%",
+                "£minerals£ Minerały z £job_miner£ [GetMinerPlural] +20%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -89,8 +89,8 @@
                   "cost": 4000,
                   "description": "Te olbrzymie świdry umożliwiają dotarcie do bogatych złóż minerałów, które często znajdują się w pobliżu rdzenia planety.",
                   "feature_unlocks": [
-                    "£minerals£ Minerals from Starbase Constructions +10%",
-                    "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                    "£minerals£ Minerały z budowy baz gwiezdnych +10%",
+                    "£minerals£ Minerały z £job_miner£ [GetMinerPlural] +20%"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -120,8 +120,8 @@
                       "cost": 8000,
                       "description": "Zaawansowana spektrometria zostaje połączona z technikami szczelinowania hydraulicznego i ługowania w celu przyspieszenia eksploatacji złóż płytkich i średnio głębokich.",
                       "feature_unlocks": [
-                        "£minerals£ Minerals from Starbase Constructions +10%",
-                        "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                        "£minerals£ Minerały z budowy baz gwiezdnych +10%",
+                        "£minerals£ Minerały z £job_miner£ [GetMinerPlural] +20%"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -156,7 +156,7 @@
                   "cost": 3000,
                   "description": "Optymalne przetwarzanie wydobytych minerałów umożliwiło nam osiągnięcie nowych poziomów wydajności.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Mineral Purification Plants",
+                    "<b>Building</b>: Oczyszczalnie minerałów",
                     "<b>Edict</b>: Mining Subsidies"
                   ],
                   "is_dangerous": false,
@@ -223,7 +223,7 @@
                           "cost": 50000,
                           "description": "Zmiany sposobu ewaluacji złóż minerałów w odniesieniu do innych złóż pozwalają prowadzić wydajniejsze odwierty.\\n\\n",
                           "feature_unlocks": [
-                            "£minerals£ Minerals from £job£ Jobs +5%"
+                            "£minerals£ Minerały z £job£ Jobs +5%"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -262,8 +262,8 @@
               "cost": 2000,
               "description": "Użytkownik egzoszkieletu wspomaganego jest silniejszy i szybszy. Militarne zastosowania tego sprzętu są oczywiste, ale zwiększa on też wydajność pracy.\\n\\n",
               "feature_unlocks": [
-                "Army Damage +5%",
-                "£minerals£ Minerals from £job£ Jobs +5%"
+                "Uszkodzenia armii +5%",
+                "£minerals£ Minerały z £job£ Jobs +5%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -498,7 +498,7 @@
                           "description": "Niezwykle zaawansowane roboty, silniejsze, szybsze i trwalsze od większości istot organicznych. Ich ulepszone procesory neuronowe pozwalają im działać całkowicie niezależnie.\\n\\n",
                           "feature_unlocks": [
                             "Robot Output +10%",
-                            "<b>Feature : </b>Synthetic Workers"
+                            "<b>Feature : </b>Pracujące syntetyki"
                           ],
                           "is_dangerous": true,
                           "is_rare": true,
@@ -598,7 +598,7 @@
                   "description": "Standaryzacja szablonów montażowych pozwala zwiększyć specjalizację populacji dronów.",
                   "feature_unlocks": [
                     "<b>Feature : </b>Robomodding",
-                    "Machine Modification Points +1"
+                    "Punkty modyfikacji maszyn +1"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -630,7 +630,7 @@
                       "cost": 8000,
                       "description": "Unowocześnione motywatory są mniejsze i lżejsze od poprzedniej wersji, dzięki czemu roboty mogą przydzielić dodatkowe miejsce dla podsystemów.",
                       "feature_unlocks": [
-                        "Machine Modification Points +1"
+                        "Punkty modyfikacji maszyn +1"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -667,7 +667,7 @@
                           "cost": 16000,
                           "description": "Zastosowanie programowalnych nanobotów do wspomagania budowy nowych jednostek robotów umożliwi konstruowanie nowocześniejszych modeli, wyposażonych w jeszcze więcej podsystemów.",
                           "feature_unlocks": [
-                            "Machine Modification Points +1"
+                            "Punkty modyfikacji maszyn +1"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -710,7 +710,7 @@
                           "cost": 16000,
                           "description": "Zaawansowane szablony umożliwiają poważne przyspieszenie montowania nowych jednostek.",
                           "feature_unlocks": [
-                            "<b>Building</b>: Machine Assembly Complex"
+                            "<b>Building</b>: Kompleks montowni maszyn"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -872,7 +872,7 @@
                   "cost": 8000,
                   "description": "Nanoseparatory to rewolucyjny krok w dziedzinie tworzenia stopów. Upraszczają one proces odlewania i poprawiają ogólną jakość produkcji.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Alloy Nano-Plants"
+                    "<b>Building</b>: Nanofabryki stopów"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1673,9 +1673,9 @@
           "cost": 2000,
           "description": "Poszycie kadłuba wzmocnione nanokompozytami zapewnia dodatkową warstwę ochronną, która w walce może zdecydować o życiu lub śmierci.\\n\\n",
           "feature_unlocks": [
-            "<b>Component</b>: Large Nanocomposite Armor",
-            "<b>Component</b>: Small Nanocomposite Armor",
-            "<b>Component</b>: Medium Nanocomposite Armor"
+            "<b>Komponent</b>: Large Nanocomposite Armor",
+            "<b>Komponent</b>: Small Nanocomposite Armor",
+            "<b>Komponent</b>: Medium Nanocomposite Armor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1696,9 +1696,9 @@
               "cost": 2500,
               "description": "Połączenie różnych metali i ceramiki pozwoliło uzyskać mocny, a jednocześnie elastyczny pancerz.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Ceramo-Metal Armor",
-                "<b>Component</b>: Large Ceramo-Metal Armor",
-                "<b>Component</b>: Small Ceramo-Metal Armor"
+                "<b>Komponent</b>: Medium Ceramo-Metal Armor",
+                "<b>Komponent</b>: Large Ceramo-Metal Armor",
+                "<b>Komponent</b>: Small Ceramo-Metal Armor"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1808,9 +1808,9 @@
                   "cost": 5000,
                   "description": "Plastal to elastyczny materiał łączący wiele właściwości tworzywa sztucznego i metalu. Jest względnie tani w produkcji i może służyć do wzmacniania pancerzy statków.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Plasteel Armor",
-                    "<b>Component</b>: Medium Plasteel Armor",
-                    "<b>Component</b>: Large Plasteel Armor"
+                    "<b>Komponent</b>: Small Plasteel Armor",
+                    "<b>Komponent</b>: Medium Plasteel Armor",
+                    "<b>Komponent</b>: Large Plasteel Armor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1840,9 +1840,9 @@
                       "cost": 10000,
                       "description": "Ten mocny, a jednocześnie elastyczny materiał może wiele wytrzymać. Dobrze sprawdza się jako opancerzenie statków.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Large Durasteel Armor",
-                        "<b>Component</b>: Small Durasteel Armor",
-                        "<b>Component</b>: Medium Durasteel Armor"
+                        "<b>Komponent</b>: Large Durasteel Armor",
+                        "<b>Komponent</b>: Small Durasteel Armor",
+                        "<b>Komponent</b>: Medium Durasteel Armor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1872,9 +1872,9 @@
                           "cost": 20000,
                           "description": "Ten niewiarygodnie gęsty i mocny materiał może oprzeć się sile ognia, która spopieliłaby pancerz wykonany z innych stopów.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Small Neutronium Armor",
-                            "<b>Component</b>: Large Neutronium Armor",
-                            "<b>Component</b>: Medium Neutronium Armor"
+                            "<b>Komponent</b>: Small Neutronium Armor",
+                            "<b>Komponent</b>: Large Neutronium Armor",
+                            "<b>Komponent</b>: Medium Neutronium Armor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -1948,7 +1948,7 @@
           "cost": 0,
           "description": "Baterie dział strzelające pociskami odłamkowymi na krótki zasięg. Są szczególnie niebezpieczne dla maszyn szturmowych wroga, ale mogą chronić też przed nadlatującymi pociskami.",
           "feature_unlocks": [
-            "<b>Component</b>: Flak Battery"
+            "<b>Komponent</b>: Flak Battery"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1969,7 +1969,7 @@
               "cost": 6000,
               "description": "Ulepszone baterie przeciwlotnicze z nowymi, silniejszymi pociskami odłamkowymi.",
               "feature_unlocks": [
-                "<b>Component</b>: Flak Cannons"
+                "<b>Komponent</b>: Flak Cannons"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2001,7 +2001,7 @@
                   "cost": 16000,
                   "description": "Śledzące algorytmy prognozujące i jeszcze silniejsza amunicja sprawiają, że te baterie są zabójczo skuteczne przeciwko statkom szturmowym wroga.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Flak Artillery"
+                    "<b>Komponent</b>: Flak Artillery"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2041,7 +2041,7 @@
           "cost": 0,
           "description": "Proste i umiarkowanie wydajne chemiczne silniki manewrowe działają dzięki spalaniu propelentu.\\n\\n",
           "feature_unlocks": [
-            "<b>Component</b>: Chemical Thrusters"
+            "<b>Komponent</b>: Chemical Thrusters"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2062,7 +2062,7 @@
               "cost": 2500,
               "description": "Te potężne silniki zapewniają dodatkową prędkość bojową, ale zużywają wiele mocy.",
               "feature_unlocks": [
-                "<b>Component</b>: Afterburners"
+                "<b>Komponent</b>: Afterburners"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2094,7 +2094,7 @@
                   "cost": 10000,
                   "description": "Ta ulepszona wersja zwykłych dopalaczy jeszcze bardziej zwiększa prędkość bojową statku.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Advanced Afterburners"
+                    "<b>Komponent</b>: Advanced Afterburners"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2134,7 +2134,7 @@
               "cost": 4000,
               "description": "Te elektryczne silniki manewrowe wytwarzają ciąg bez potrzeby zużywania paliwa.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Ion Thrusters"
+                "<b>Komponent</b>: Ion Thrusters"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2165,7 +2165,7 @@
                   "cost": 8000,
                   "description": "Plazmowe silniki manewrowe to zaawansowany rodzaj napędu elektrycznego pozwalający statkom rozwijać większe prędkości podświetlne i zwiększający ich zwrotność.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Plasma Thrusters"
+                    "<b>Komponent</b>: Plasma Thrusters"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2196,7 +2196,7 @@
                       "cost": 16000,
                       "description": "Te niezwykle zaawansowane termojądrowe silniki manewrowe zapewniają statkom niezrównaną zwrotność i umożliwiają rozwijanie dużych prędkości podświetlnych.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Impulse Thrusters"
+                        "<b>Komponent</b>: Impulse Thrusters"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2227,7 +2227,7 @@
                           "cost": 50000,
                           "description": "W tych okrętowych silnikach manewrowych wykorzystano technologię ciemnej materii. Napęd ten zdaje się przeczyć licznym prawom fizyki.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Dark Matter Thrusters"
+                            "<b>Komponent</b>: Dark Matter Thrusters"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -2271,7 +2271,7 @@
           "cost": 0,
           "description": "Pociski kosmos-kosmos wyposażone w głowice jądrowe o dużej sile rażenia. Są oparte na technologii przedkosmicznej, ale na dalekim zasięgu ta broń samonaprowadzająca jest zaskakująco skuteczna.\\n\\n",
           "feature_unlocks": [
-            "<b>Component</b>: Nuclear Missiles",
+            "<b>Komponent</b>: Nuclear Missiles",
             "<b>Starbase Module</b>: Missile Battery"
           ],
           "is_dangerous": false,
@@ -2293,7 +2293,7 @@
               "cost": 2500,
               "description": "Te unowocześnione pociski kosmos-kosmos mają silniejsze głowice termojądrowe i lepszą charakterystykę lotu.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Fusion Missiles"
+                "<b>Komponent</b>: Fusion Missiles"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2330,7 +2330,7 @@
                   "cost": 4000,
                   "description": "Zaawansowane pociski uzbrojone w niezwykle potężne głowice z antymaterią. Nowy i ulepszony system naprowadzania zwiększa szanse trafienia celu.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Antimatter Missiles"
+                    "<b>Komponent</b>: Antimatter Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2362,7 +2362,7 @@
                       "cost": 8000,
                       "description": "Najnowsza wersja pocisków kosmos-kosmos uzbrojona w niezwykle potężną głowicę, wykorzystującą energię punktu zerowego.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Quantum Missiles"
+                        "<b>Komponent</b>: Quantum Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2394,7 +2394,7 @@
                           "cost": 20000,
                           "description": "Te niezwykle nowoczesne pociski posiadają pokładowe pilotujące SI, które znacząco poprawiają ich osiągi i zdolność śledzenia celów.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Marauder Missiles"
+                            "<b>Komponent</b>: Marauder Missiles"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2494,7 +2494,7 @@
                   "cost": 5000,
                   "description": "Te mniejsze pociski wystrzeliwuje się salwami, służą one do przebicia się przez wrogie systemy obrony bezpośredniej.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Swarmer Missiles"
+                    "<b>Komponent</b>: Swarmer Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2526,7 +2526,7 @@
                       "cost": 20000,
                       "description": "Nowe techniki miniaturyzacji pozwolą nam uzbrajać pociski rojowe w silniejsze głowice i poprawiać ich charakterystykę lotu.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Whirlwind Missiles"
+                        "<b>Komponent</b>: Whirlwind Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2566,7 +2566,7 @@
               "cost": 5000,
               "description": "Te torpedy to tak naprawdę bardzo duże, powolne pociski. Są uzbrojone w silniejsze głowice i modulatory osłon, które pozwalają im swobodnie przechodzić przez osłony energetyczne.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Space Torpedoes"
+                "<b>Komponent</b>: Space Torpedoes"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2598,7 +2598,7 @@
                   "cost": 10000,
                   "description": "Ulepszone torpedy kosmiczne zamknięte w pancernych skorupach, by zwiększyć ich odporność na ostrzał obrony bezpośredniej. W chwili wybuchu pancerze rozpadają na odłamki zadające dodatkowe uszkodzenia.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Armored Torpedoes"
+                    "<b>Komponent</b>: Armored Torpedoes"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2630,7 +2630,7 @@
                       "cost": 20000,
                       "description": "Zaawansowane torpedy z bardzo silnymi głowicami. Są bardziej opływowe i szybsze, a ulepszone modulatory osłon pozwalają im przechodzić przez osłony energetyczne.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Devastator Torpedoes"
+                        "<b>Komponent</b>: Devastator Torpedoes"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2674,9 +2674,9 @@
           "description": "Te elektromagnetyczne wyrzutnie pocisków wykorzystują magnesy do rozpędzania pocisków przeciwpancernych, które z dużą szybkością trafiają w cele.\\n\\n",
           "feature_unlocks": [
             "<b>Starbase Module</b>: Gun Battery",
-            "<b>Component</b>: Small Mass Driver",
-            "<b>Component</b>: Large Mass Driver",
-            "<b>Component</b>: Medium Mass Driver"
+            "<b>Komponent</b>: Small Mass Driver",
+            "<b>Komponent</b>: Large Mass Driver",
+            "<b>Komponent</b>: Medium Mass Driver"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2697,9 +2697,9 @@
               "cost": 2500,
               "description": "Działa zwojowe to silniejsze wersje pierwszych dział elektromagnetycznych wykorzystujące zwoje elektromagnetyczne do miotania pocisków w kierunku celów.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Coilgun",
-                "<b>Component</b>: Large Coilgun",
-                "<b>Component</b>: Small Coilgun"
+                "<b>Komponent</b>: Medium Coilgun",
+                "<b>Komponent</b>: Large Coilgun",
+                "<b>Komponent</b>: Small Coilgun"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2731,9 +2731,9 @@
                   "cost": 4000,
                   "description": "Działa kinetyczne to najnowsze akceleratory elektromagnetyczne wykorzystujące dwie równoległe szyny do wystrzeliwania pocisków z olbrzymimi prędkościami.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Railgun",
-                    "<b>Component</b>: Large Railgun",
-                    "<b>Component</b>: Medium Railgun"
+                    "<b>Komponent</b>: Small Railgun",
+                    "<b>Komponent</b>: Large Railgun",
+                    "<b>Komponent</b>: Medium Railgun"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2765,9 +2765,9 @@
                       "cost": 8000,
                       "description": "Nowa wersja sędziwego działa kinetycznego, mająca wytrzymalsze szyny i ulepszone źródło zasilania. Ta broń jest jeszcze potężniejsza i celniejsza niż jej poprzednik.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Medium Advanced Railgun",
-                        "<b>Component</b>: Large Advanced Railgun",
-                        "<b>Component</b>: Small Advanced Railgun"
+                        "<b>Komponent</b>: Medium Advanced Railgun",
+                        "<b>Komponent</b>: Large Advanced Railgun",
+                        "<b>Komponent</b>: Small Advanced Railgun"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2799,7 +2799,7 @@
                           "cost": 12000,
                           "description": "Artyleria bardzo dalekiego zasięgu mogąca miotać z dużą celnością potężne pociski na ekstremalne odległości.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Kinetic Battery"
+                            "<b>Komponent</b>: Kinetic Battery"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2831,7 +2831,7 @@
                               "cost": 20000,
                               "description": "Jeszcze silniejsze okrętowe działo artyleryjskie dalekiego zasięgu wyposażone w nową lufę i ulepszony komputer kierujący ogniem.\\n\\n",
                               "feature_unlocks": [
-                                "<b>Component</b>: Kinetic Artillery"
+                                "<b>Komponent</b>: Kinetic Artillery"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2873,7 +2873,7 @@
                           "cost": 20000,
                           "description": "Olbrzymie działo elektromagnetyczne, które można zamontować tylko wzdłuż kadłuba jednostki, strzelające olbrzymimi pociskami na wielkie odległości.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Mega Cannon"
+                            "<b>Komponent</b>: Mega Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2910,7 +2910,7 @@
                               "cost": 24000,
                               "description": "Jeszcze potężniejsze działo elektromagnetyczne, które może przebić nawet najwytrzymalsze osłony.\\n\\n",
                               "feature_unlocks": [
-                                "<b>Component</b>: Giga Cannon"
+                                "<b>Komponent</b>: Giga Cannon"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2952,9 +2952,9 @@
                           "cost": 16000,
                           "description": "Ta unowocześniona wersja starego działa zwojowego jest jeszcze bardziej niszczycielska niż najnowsze działa kinetyczne. Może miotać pociski ze zdumiewającą prędkością i siłą.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Gauss Cannon",
-                            "<b>Component</b>: Medium Gauss Cannon",
-                            "<b>Component</b>: Small Gauss Cannon"
+                            "<b>Komponent</b>: Large Gauss Cannon",
+                            "<b>Komponent</b>: Medium Gauss Cannon",
+                            "<b>Komponent</b>: Small Gauss Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3054,7 +3054,7 @@
                   "cost": 5000,
                   "description": "Wielkokalibrowa broń balistyczna strzelająca pełnopłaszczowymi pociskami burzącymi. Główną zaletą tych działek jest duża szybkostrzelność.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Autocannon"
+                    "<b>Komponent</b>: Autocannon"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3087,7 +3087,7 @@
                       "cost": 8000,
                       "description": "Te ulepszone automatyczne działka obrotowe są wyposażone w zaawansowane systemy śledzenia celów i kierowania ogniem, co pozwala osiągnąć jeszcze większą szybkostrzelność.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Ripper Autocannon"
+                        "<b>Komponent</b>: Ripper Autocannon"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3119,7 +3119,7 @@
                           "cost": 16000,
                           "description": "Zaawansowane automatyczne działka obrotowe wystrzeliwujące w kierunku celu chmurę pocisków burzących.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Stormfire Autocannon"
+                            "<b>Komponent</b>: Stormfire Autocannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3186,7 +3186,7 @@
               "cost": 3000,
               "description": "Te załogowe statki krótkiego zasięgu startują z pokładu okrętu matki i wykorzystują swą szybkość oraz małe rozmiary, żeby przedostać się przez obronę wroga.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Basic Strike Craft",
+                "<b>Komponent</b>: Basic Strike Craft",
                 "<b>Starbase Module</b>: Hangar Bay"
               ],
               "is_dangerous": false,
@@ -3217,7 +3217,7 @@
                   "cost": 6000,
                   "description": "Następna generacja statków szturmowych wyposażona w lepszą awionikę i potężniejsze uzbrojenie. Łatwiejsza w pilotażu.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Improved Strike Craft"
+                    "<b>Komponent</b>: Improved Strike Craft"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3247,7 +3247,7 @@
                       "cost": 12000,
                       "description": "Kolejna modyfikacja statków szturmowych. Te myśliwce i bombowce to spełnienie marzeń każdego pilota. Ich osiągi pozostawiają poprzednie modele daleko w tyle.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Advanced Strike Craft"
+                        "<b>Komponent</b>: Advanced Strike Craft"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -4035,8 +4035,8 @@
                           "feature_unlocks": [
                             "<b>Ship Size</b>: Titan",
                             "Fleet Command Limit +10",
-                            "<b>Component</b>: Ion Cannon",
-                            "<b>Component</b>: Perdition Beam",
+                            "<b>Komponent</b>: Ion Cannon",
+                            "<b>Komponent</b>: Perdition Beam",
                             "<b>Starbase Upgrade</b>: Ion Cannon"
                           ],
                           "is_dangerous": false,
@@ -4176,7 +4176,7 @@
                                   "cost": 48000,
                                   "description": "Smuga przyspieszonych neutronów \"maluje\" powierzchnię planety, poważnie uszkadzając większość materiałów i niszcząc tkanki biologiczne.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Neutron Sweep"
+                                    "<b>Komponent</b>: Neutron Sweep"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4216,7 +4216,7 @@
                                   "cost": 48000,
                                   "description": "Wokół globu tworzone jest pole osłonowe stanowiące trwałą i nieprzenikliwą (wyjąwszy pewne długości fal świetlnych) barierę.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Global Pacifier"
+                                    "<b>Komponent</b>: Global Pacifier"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4254,7 +4254,7 @@
                                   "cost": 48000,
                                   "description": "Tajemniczy katalizator wzmacniający pewne psioniczne długości fali, który może wywoływać halucynacje (objawienia religijne) w biologicznych mózgach i poważne zakłócenia (śmierć mózgową) w elektronicznych.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Divine Enforcer"
+                                    "<b>Komponent</b>: Divine Enforcer"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4293,7 +4293,7 @@
                                   "cost": 48000,
                                   "description": "Ukierunkowany strumień energii cieplnej przegrzewa atmosferę i pobudza jądro planety, powodując katastrofalne zjawiska tektoniczne. Następnie wywoływany jest ostateczny i względnie mały wstrząs, który rozbija glob na kawałki.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: World Cracker"
+                                    "<b>Komponent</b>: World Cracker"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4331,7 +4331,7 @@
                                   "cost": 48000,
                                   "description": "Dyfuzor nanobotów",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Nanobot Diffuser"
+                                    "<b>Komponent</b>: Nanobot Diffuser"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4670,8 +4670,8 @@
                           "cost": 20000,
                           "description": "Ustanowienie nowych standardów projektowania i budowy wielkich pancerników znacznie zwiększy szybkość ich montażu.",
                           "feature_unlocks": [
-                            "Battleship Build Cost -5%",
-                            "Battleship Build Speed +25%"
+                            "Koszt budowy pancernika -5%",
+                            "Szybkość budowy pancerników +25%"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,

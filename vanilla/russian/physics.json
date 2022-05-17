@@ -35,9 +35,9 @@
           "cost": 0,
           "description": "Лазерное оружие поражает цели фокусированными пучками света, причиняя урон за счет нагрева до очень высокой температуры.",
           "feature_unlocks": [
-            "<b>Component</b>: Small Red Laser",
-            "<b>Component</b>: Medium Red Laser",
-            "<b>Component</b>: Large Red Laser"
+            "<b>Компонент</b>: Small Red Laser",
+            "<b>Компонент</b>: Medium Red Laser",
+            "<b>Компонент</b>: Large Red Laser"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -58,9 +58,9 @@
               "cost": 2500,
               "description": "Синие лазеры мощнее, чем красные — они генерируют электромагнитное излучение, которое воспринимается большинством органических форм жизни как синий или фиолетовый свет благодаря длине волны.",
               "feature_unlocks": [
-                "<b>Component</b>: Large Blue Laser",
-                "<b>Component</b>: Medium Blue Laser",
-                "<b>Component</b>: Small Blue Laser"
+                "<b>Компонент</b>: Large Blue Laser",
+                "<b>Компонент</b>: Medium Blue Laser",
+                "<b>Компонент</b>: Small Blue Laser"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -92,9 +92,9 @@
                   "cost": 4000,
                   "description": "Ультрафиолетовый лазер — более современный и мощный вариант синего. Точное, обладающее высокой разрушительной силой, это оружие наносит большой урон.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Large UV Laser",
-                    "<b>Component</b>: Small UV Laser",
-                    "<b>Component</b>: Medium UV Laser"
+                    "<b>Компонент</b>: Large UV Laser",
+                    "<b>Компонент</b>: Small UV Laser",
+                    "<b>Компонент</b>: Medium UV Laser"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -126,9 +126,9 @@
                       "cost": 8000,
                       "description": "Эти лазеры излучают более короткие волны, чем ультрафиолетовые, но их разрушительная сила еще выше.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Large X-Ray Laser",
-                        "<b>Component</b>: Small X-Ray Laser",
-                        "<b>Component</b>: Medium X-Ray Laser"
+                        "<b>Компонент</b>: Large X-Ray Laser",
+                        "<b>Компонент</b>: Small X-Ray Laser",
+                        "<b>Компонент</b>: Medium X-Ray Laser"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -160,9 +160,9 @@
                           "cost": 16000,
                           "description": "Гамма-лазеры генерируют электромагнитное излучение с очень высокой частотой. Это — самый разрушительный вид лазерного оружия.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Gamma Laser",
-                            "<b>Component</b>: Medium Gamma Laser",
-                            "<b>Component</b>: Small Gamma Laser"
+                            "<b>Компонент</b>: Large Gamma Laser",
+                            "<b>Компонент</b>: Medium Gamma Laser",
+                            "<b>Компонент</b>: Small Gamma Laser"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -196,7 +196,7 @@
                           "cost": 20000,
                           "description": "Это тяжелое энергетическое оружие наносит серьезный урон, используя сфокусированные пучки частиц. Большие габариты излучателя позволяют устанавливать его лишь на линкорах и «Титанах».",
                           "feature_unlocks": [
-                            "<b>Component</b>: Particle Lance"
+                            "<b>Компонент</b>: Particle Lance"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -233,7 +233,7 @@
                               "cost": 24000,
                               "description": "Усиленный вариант лучевого копья. Это оружие генерирует мощные пучки тахионной энергии. Подобно своему предшественнику, оно годится только для установки на линкорах и «Титанах».",
                               "feature_unlocks": [
-                                "<b>Component</b>: Tachyon Lance"
+                                "<b>Компонент</b>: Tachyon Lance"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -275,7 +275,7 @@
                           "cost": 12000,
                           "description": "Эти энергетические снаряды состоят из плотных скоплений протонов и способны вызвать сильнейшие повреждения обшивки вражеского корабля.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Proton Launchers"
+                            "<b>Компонент</b>: Proton Launchers"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -308,7 +308,7 @@
                               "cost": 20000,
                               "description": "Улучшенные энергетические снаряды, использующие нейтроны вместо протонов. Подобно предшественникам, они свободно проходят сквозь энергетические щиты.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Neutron Launchers"
+                                "<b>Компонент</b>: Neutron Launchers"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -381,8 +381,8 @@
                   "cost": 5000,
                   "description": "Дезинтеграторы выпускают энергетические стрелы, которые ослабляют и разрывают связи между молекулами, составляющими атомы цели. Они способны проникать сквозь броню и щиты, чтобы наносить урон непосредственно корпусу и экипажу вражеского корабля.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Medium Disruptor",
-                    "<b>Component</b>: Small Disruptor"
+                    "<b>Компонент</b>: Medium Disruptor",
+                    "<b>Компонент</b>: Small Disruptor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -415,8 +415,8 @@
                       "cost": 8000,
                       "description": "Эти улучшенные дезинтеграторы поражают цели более мощными ионными стрелами.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Small Ion Disruptor",
-                        "<b>Component</b>: Medium Ion Disruptor"
+                        "<b>Компонент</b>: Small Ion Disruptor",
+                        "<b>Компонент</b>: Medium Ion Disruptor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -448,8 +448,8 @@
                           "cost": 16000,
                           "description": "Особо мощные дезинтеграторы, чьи сгустки энергии наносят огромный урон всякому, кому «повезет» оказаться на их пути.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Small Phased Disruptor",
-                            "<b>Component</b>: Medium Phased Disruptor"
+                            "<b>Компонент</b>: Small Phased Disruptor",
+                            "<b>Компонент</b>: Medium Phased Disruptor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -481,7 +481,7 @@
                               "cost": 20000,
                               "description": "Мощное оружие, поражающее цели энергетическим разрядом, способным частично игнорировать броню и щиты.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Arc Emitter"
+                                "<b>Компонент</b>: Arc Emitter"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -518,7 +518,7 @@
                                   "cost": 24000,
                                   "description": "Эти улучшенные излучатели оснащены более точными фокусирующими линзами, что позволяет им наносить больший урон.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Focused Arc Emitter"
+                                    "<b>Компонент</b>: Focused Arc Emitter"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": false,
@@ -564,9 +564,9 @@
                   "cost": 5000,
                   "description": "Оружие, поражающее цели сгустками высокоэнергетической плазмы. Эти плазменные заряды особенно эффективны против корабельной брони.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Medium Plasma Thrower",
-                    "<b>Component</b>: Large Plasma Thrower",
-                    "<b>Component</b>: Small Plasma Thrower"
+                    "<b>Компонент</b>: Medium Plasma Thrower",
+                    "<b>Компонент</b>: Large Plasma Thrower",
+                    "<b>Компонент</b>: Small Plasma Thrower"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -599,9 +599,9 @@
                       "cost": 8000,
                       "description": "Эти новые ускорители стреляют сгустками высокоэнергетической плазмы, заключенной в улучшенные сдерживающие поля. Благодаря этому заряд медленнее теряет энергию, пока летит к цели.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Medium Plasma Accelerator",
-                        "<b>Component</b>: Small Plasma Accelerator",
-                        "<b>Component</b>: Large Plasma Accelerator"
+                        "<b>Компонент</b>: Medium Plasma Accelerator",
+                        "<b>Компонент</b>: Small Plasma Accelerator",
+                        "<b>Компонент</b>: Large Plasma Accelerator"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -633,9 +633,9 @@
                           "cost": 16000,
                           "description": "Новейшая разработка в области плазменного оружия. Эта пушка — военизированный вариант старого и в чем-то недоработанного плазмомета. Ее сгустки плазмы еще опаснее.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Plasma Cannon",
-                            "<b>Component</b>: Small Plasma Cannon",
-                            "<b>Component</b>: Medium Plasma Cannon"
+                            "<b>Компонент</b>: Large Plasma Cannon",
+                            "<b>Компонент</b>: Small Plasma Cannon",
+                            "<b>Компонент</b>: Medium Plasma Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -711,7 +711,7 @@
           "cost": 0,
           "description": "Ядерный реактор вырабатывает энергию для кораблей за счет реакции вынужденного деления, но также производит опасные радиоактивные отходы.",
           "feature_unlocks": [
-            "<b>Component</b>: Fission Reactor"
+            "<b>Компонент</b>: Fission Reactor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -732,7 +732,7 @@
               "cost": 2500,
               "description": "Термоядерный реактор создает огромное количество энергии для кораблей и при этом значительно безопаснее, чем ядерный реактор.",
               "feature_unlocks": [
-                "<b>Component</b>: Fusion Reactor"
+                "<b>Компонент</b>: Fusion Reactor"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -763,7 +763,7 @@
                   "cost": 5000,
                   "description": "Научившись поддерживать термоядерную реакцию при сравнительно низкой температуре, мы создали новое поколение термоядерных реакторов для наших кораблей.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Cold Fusion Reactor"
+                    "<b>Компонент</b>: Cold Fusion Reactor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -794,7 +794,7 @@
                       "cost": 10000,
                       "description": "Улавливая энергию, возникающую при столкновении материи и антиматерии, мы создали для наших кораблей источник энергии, во много раз превосходящий термоядерные реакторы по эффективности.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Antimatter Reactor"
+                        "<b>Компонент</b>: Antimatter Reactor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -825,7 +825,7 @@
                           "cost": 20000,
                           "description": "Эти генераторы извлекают энергию вакуума и являются почти бесконечным источником энергии для кораблей. Нет более эффективного способа генерировать энергию.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Zero Point Reactor"
+                            "<b>Компонент</b>: Zero Point Reactor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -856,7 +856,7 @@
                               "cost": 32000,
                               "description": "Прыжковый двигатель — технологическое чудо. Он расщепляет пространственно-временной континуум и перестраивает его на квантовом уровне до получения идентичности с точкой назначения. В итоге корабль почти мгновенно «прыгает» из одной системы в другую.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Jump Drive",
+                                "<b>Компонент</b>: Jump Drive",
                                 "<b>Feature : </b>Jump Drive Travel"
                               ],
                               "is_dangerous": true,
@@ -892,7 +892,7 @@
                               "cost": 50000,
                               "description": "Похоже, эти корабельные генераторы каким-то образом извлекают энергию напрямую из темной материи, обеспечивая большую мощность, чем это должно быть возможно, если верить законам физики.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Dark Matter Reactor"
+                                "<b>Компонент</b>: Dark Matter Reactor"
                               ],
                               "is_dangerous": false,
                               "is_rare": true,
@@ -939,7 +939,7 @@
           "cost": 0,
           "description": "$REACTOR_BOOSTER_1_DESC$",
           "feature_unlocks": [
-            "<b>Component</b>: Reactor Booster"
+            "<b>Компонент</b>: Reactor Booster"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -960,7 +960,7 @@
               "cost": 3000,
               "description": "$REACTOR_BOOSTER_2_DESC$",
               "feature_unlocks": [
-                "<b>Component</b>: Improved Reactor Booster"
+                "<b>Компонент</b>: Improved Reactor Booster"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -995,7 +995,7 @@
                   "cost": 12000,
                   "description": "$REACTOR_BOOSTER_3_DESC$",
                   "feature_unlocks": [
-                    "<b>Component</b>: Advanced Reactor Booster"
+                    "<b>Компонент</b>: Advanced Reactor Booster"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1038,7 +1038,7 @@
           "cost": 0,
           "description": "Подобно нитям паутины экстрамерное подпространство соединяет гравитационные колодцы большинства звезд. Перемещение по этим гиперкоридорам со сверхсветовой скоростью является теоретически возможным.",
           "feature_unlocks": [
-            "<b>Component</b>: Hyper Drive I"
+            "<b>Компонент</b>: Hyper Drive I"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1059,7 +1059,7 @@
               "cost": 5000,
               "description": "Мы узнали о существовании точек пространства, где корабль затратит меньше энергии на создание «бреши» в гиперкоридор. Это открытие позволит нам создать гипердвигатели нового поколения.",
               "feature_unlocks": [
-                "<b>Component</b>: Hyper Drive II",
+                "<b>Компонент</b>: Hyper Drive II",
                 "<b>Starbase Building</b>: Transit Hub"
               ],
               "is_dangerous": false,
@@ -1091,7 +1091,7 @@
                   "cost": 12000,
                   "description": "Новое поколение гипердвигателей использует подпространственные потоки, пронизывающие гиперпространство. Это резко увеличивает эффективность двигателей.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Hyper Drive III"
+                    "<b>Компонент</b>: Hyper Drive III"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1247,7 +1247,7 @@
               "cost": 4000,
               "description": "Проекторы гравитационного колодца можно использовать для создания локализованных карманов пространства там, где безопасный вход в гиперпространство невозможен. Огромные требования к мощности и размер проекторов не позволяют их использовать на объектах меньше космической базы.",
               "feature_unlocks": [
-                "<b>Component</b>: FTL Inhibitor",
+                "<b>Компонент</b>: FTL Inhibitor",
                 "<b>Feature : </b>Planetary FTL Inhibitors"
               ],
               "is_dangerous": false,
@@ -1437,8 +1437,8 @@
               "cost": 3000,
               "description": "Оборудование, обеспечивающее сбалансированность нагрузки, может значительно повысить стабильность работы локальных энергосистем, а также способно отдавать избыточную энергию назад в централизованные конденсаторы.",
               "feature_unlocks": [
-                "<b>Edict</b>: Capacity Subsidies",
-                "<b>Building</b>: Energy Grid"
+                "<b>Указ</b>: Capacity Subsidies",
+                "<b>Соружение</b>: Energy Grid"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1469,7 +1469,7 @@
                   "cost": 6000,
                   "description": "Модернизированная и унифицированная энергосистема снижает потери энергии на расстоянии.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Energy Nexus"
+                    "<b>Соружение</b>: Energy Nexus"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1514,9 +1514,9 @@
           "cost": 0,
           "description": "Отражатели энергии поглощают некоторую часть вражеских залпов, а потом отключаются из-за перегрузки. Их главный недостаток — они потребляют огромное количество энергии.",
           "feature_unlocks": [
-            "<b>Component</b>: Medium Deflectors",
-            "<b>Component</b>: Large Deflectors",
-            "<b>Component</b>: Small Deflectors"
+            "<b>Компонент</b>: Medium Deflectors",
+            "<b>Компонент</b>: Large Deflectors",
+            "<b>Компонент</b>: Small Deflectors"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1537,9 +1537,9 @@
               "cost": 3000,
               "description": "Эти улучшенные отражатели способны принять на себя больше ударов до возникновения перегрузки.",
               "feature_unlocks": [
-                "<b>Component</b>: Large Improved Deflectors",
-                "<b>Component</b>: Medium Improved Deflectors",
-                "<b>Component</b>: Small Improved Deflectors"
+                "<b>Компонент</b>: Large Improved Deflectors",
+                "<b>Компонент</b>: Medium Improved Deflectors",
+                "<b>Компонент</b>: Small Improved Deflectors"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1569,9 +1569,9 @@
                   "cost": 6000,
                   "description": "Эти новые генераторы щитов — следующее поколение силовых барьеров, призванное заменить устаревшие отражатели. Они обеспечивают более надежную защиту.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Large Shields",
-                    "<b>Component</b>: Small Shields",
-                    "<b>Component</b>: Medium Shields"
+                    "<b>Компонент</b>: Large Shields",
+                    "<b>Компонент</b>: Small Shields",
+                    "<b>Компонент</b>: Medium Shields"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1601,9 +1601,9 @@
                       "cost": 12000,
                       "description": "Улучшенный генератор щитов, создающий более мощное поле. Этот барьер можно пробить только постоянным шквальным огнем.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Small Advanced Shields",
-                        "<b>Component</b>: Large Advanced Shields",
-                        "<b>Component</b>: Medium Advanced Shields"
+                        "<b>Компонент</b>: Small Advanced Shields",
+                        "<b>Компонент</b>: Large Advanced Shields",
+                        "<b>Компонент</b>: Medium Advanced Shields"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1633,9 +1633,9 @@
                           "cost": 24000,
                           "description": "Невероятно прочные энергетические щиты. Им нет равных по степени защиты.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Hyper Shields",
-                            "<b>Component</b>: Medium Hyper Shields",
-                            "<b>Component</b>: Small Hyper Shields"
+                            "<b>Компонент</b>: Large Hyper Shields",
+                            "<b>Компонент</b>: Medium Hyper Shields",
+                            "<b>Компонент</b>: Small Hyper Shields"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -1665,9 +1665,9 @@
                               "cost": 50000,
                               "description": "Эти отражатели используют темную материю, чтобы отбрасывать снаряды способом, который, кажется, полностью нарушает законы природы.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Small Dark Matter Deflectors",
-                                "<b>Component</b>: Large Dark Matter Deflectors",
-                                "<b>Component</b>: Medium Dark Matter Deflectors"
+                                "<b>Компонент</b>: Small Dark Matter Deflectors",
+                                "<b>Компонент</b>: Large Dark Matter Deflectors",
+                                "<b>Компонент</b>: Medium Dark Matter Deflectors"
                               ],
                               "is_dangerous": false,
                               "is_rare": true,
@@ -1735,7 +1735,7 @@
                       "cost": 6000,
                       "description": "Эти накопители конденсируют излишки энергии, чтобы быстро перенаправить на усиление щитов корабля.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Shield Capacitor"
+                        "<b>Компонент</b>: Shield Capacitor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1767,7 +1767,7 @@
                       "cost": 8000,
                       "description": "Создать мощный энергетический щит в атмосфере планеты значительно сложнее, чем в космическом вакууме, но он надежно защищает от орбитальных бомбардировок.",
                       "feature_unlocks": [
-                        "<b>Building</b>: Planetary Shield Generator"
+                        "<b>Соружение</b>: Planetary Shield Generator"
                       ],
                       "is_dangerous": false,
                       "is_rare": true,
@@ -1811,7 +1811,7 @@
           "cost": 0,
           "description": "Лучшая защита — нападение.",
           "feature_unlocks": [
-            "<b>Component</b>: Sentinel Point-Defense"
+            "<b>Компонент</b>: Sentinel Point-Defense"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1832,7 +1832,7 @@
               "cost": 6000,
               "description": "Комплексы оборонительных средств действуют гораздо эффективнее, чем каждое из них по отдельности.",
               "feature_unlocks": [
-                "<b>Component</b>: Barrier Point-Defense"
+                "<b>Компонент</b>: Barrier Point-Defense"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1862,7 +1862,7 @@
                   "cost": 16000,
                   "description": "Улучшенные методы прогнозирования повышают точность систем активного противодействия.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Guardian Point-Defense"
+                    "<b>Компонент</b>: Guardian Point-Defense"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1900,7 +1900,7 @@
           "cost": 0,
           "description": "Экспериментальная проверка наблюдаемых феноменов.",
           "feature_unlocks": [
-            "<b>Building</b>: Research Labs"
+            "<b>Соружение</b>: Research Labs"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1951,8 +1951,8 @@
                   "cost": 3000,
                   "description": "Активные матрицы, ориентированные на выполнение конкретных военных задач, значительно повышают боевую эффективность.\" # The development of active combat personalities allows combat-AI to specialize heavily in specific tasks.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Starbase Fire Control",
-                    "<b>Component</b>: Combat Computer"
+                    "<b>Компонент</b>: Starbase Fire Control",
+                    "<b>Компонент</b>: Combat Computer"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1985,7 +1985,7 @@
                       "cost": 3000,
                       "description": "Устанавливая вспомогательную систему управления огнем, наши корабли могут позволить себе выполнять более сложные расчеты, что повышает точность.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Auxiliary Fire-control"
+                        "<b>Компонент</b>: Auxiliary Fire-control"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2017,8 +2017,8 @@
                       "cost": 8000,
                       "description": "Дальнейшее развитие прогнозирующих алгоритмов облегчает принятие тактических решений на поле боя.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Advanced Combat Computer",
-                        "<b>Component</b>: Starbase Fire Control"
+                        "<b>Компонент</b>: Advanced Combat Computer",
+                        "<b>Компонент</b>: Starbase Fire Control"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2053,7 +2053,7 @@
                           "cost": 20000,
                           "description": "Использование разумных ИИ в интенсивных боевых симуляциях позволяет оптимизировать методы оценки риска.\" # The effectiveness of Ship-AIs have proved far greater with the sensation of a fear of death.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Sapient Combat Computer"
+                            "<b>Компонент</b>: Sapient Combat Computer"
                           ],
                           "is_dangerous": true,
                           "is_rare": true,
@@ -2097,7 +2097,7 @@
                           "cost": 20000,
                           "description": "Наделение наших кораблей собственным полуавтономным интеллектом резко повысит их эффективность в бою.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Autonomous Ship Intellect"
+                            "<b>Компонент</b>: Autonomous Ship Intellect"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -2443,7 +2443,7 @@
               "cost": 3000,
               "description": "По мере исследования галактики мы продолжаем находить новые материалы и вещества, ранее нам не известные. Для составления каталогов и анализа подобных находок потребуются новые научные комплексы.",
               "feature_unlocks": [
-                "<b>Building</b>: Research Complexes"
+                "<b>Соружение</b>: Research Complexes"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2474,8 +2474,8 @@
                   "cost": 8000,
                   "description": "Запрос на межпланетные пулы ресурсов и более свободные гранты на исследования.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Planetary Supercomputer",
-                    "<b>Building</b>: Research Institute"
+                    "<b>Соружение</b>: Planetary Supercomputer",
+                    "<b>Соружение</b>: Research Institute"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2513,7 +2513,7 @@
                   "cost": 8000,
                   "description": "Чтобы расширить нашу базу знаний, мы должны учитывать все уровни существования. Наука откроет нам совершенно новую реальность!",
                   "feature_unlocks": [
-                    "<b>Building</b>: Advanced Research Complexes"
+                    "<b>Соружение</b>: Advanced Research Complexes"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2858,9 +2858,9 @@
               "description": "Примитивные шифровальные системы не выстоят против современных инструментов расшифровки.",
               "feature_unlocks": [
                 "Codebreaking +2",
-                "<b>Edict</b>: Observation Instinct",
-                "<b>Edict</b>: Bureau of Espionage",
-                "<b>Edict</b>: Covert Analysis Algorithm"
+                "<b>Указ</b>: Observation Instinct",
+                "<b>Указ</b>: Bureau of Espionage",
+                "<b>Указ</b>: Covert Analysis Algorithm"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -3083,7 +3083,7 @@
           "description": "Эти сенсоры улавливают малейшие изменения гравитационных полей, создаваемые, например, космическим кораблем.",
           "feature_unlocks": [
             "<b>Starbase Building</b>: Listening Post",
-            "<b>Component</b>: Gravitic Sensors"
+            "<b>Компонент</b>: Gravitic Sensors"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -3142,7 +3142,7 @@
               "description": "Эти сенсоры обнаруживают колебания подпространства, создаваемые кораблями. Их точность и дальность действия значительно выше, чем у гравитационных.",
               "feature_unlocks": [
                 "<b>Starbase Building</b>: Black Hole Observatory",
-                "<b>Component</b>: Subspace Sensors"
+                "<b>Компонент</b>: Subspace Sensors"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -3173,7 +3173,7 @@
                   "cost": 16000,
                   "description": "Современные сенсоры, чьи вращающиеся пучки тахионов регистрируют перемещение кораблей даже на очень большом расстоянии.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Tachyon Sensors"
+                    "<b>Компонент</b>: Tachyon Sensors"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3246,7 +3246,7 @@
           "cost": 0,
           "description": "Прибор, в котором органическая материя преобразуется в энергию с высокой эффективностью.",
           "feature_unlocks": [
-            "<b>Building</b>: Bio-Reactor"
+            "<b>Соружение</b>: Bio-Reactor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -3272,7 +3272,7 @@
           "cost": 4000,
           "description": "Летучие пылинки — это нестабильные частицы, с которыми опасно работать. Чтобы безопасно собирать их, не спровоцировав при этом цепную реакцию в виде взрывов, нужно использовать энергетические поля для стабилизации пылинок.",
           "feature_unlocks": [
-            "<b>Building</b>: Mote Harvesting Traps",
+            "<b>Соружение</b>: Mote Harvesting Traps",
             "<b>Reveals Resource</b>: Volatile Motes"
           ],
           "is_dangerous": false,
@@ -3299,7 +3299,7 @@
           "cost": 4000,
           "description": "Помимо очевидных проблем с безопасностью, создание искусственных летучих пылинок — это весьма деликатный и сложный процесс, требующий узкоспециализированного оборудования.",
           "feature_unlocks": [
-            "<b>Building</b>: Chemical Plants"
+            "<b>Соружение</b>: Chemical Plants"
           ],
           "is_dangerous": false,
           "is_rare": false,

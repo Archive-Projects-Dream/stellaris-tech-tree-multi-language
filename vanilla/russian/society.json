@@ -89,8 +89,8 @@
                   "cost": 2500,
                   "description": "Усовершенствованные приемы обработки пищи способствуют улучшению методов ее сохранения и сокращению потерь.",
                   "feature_unlocks": [
-                    "<b>Edict</b>: Farming Subsidies",
-                    "<b>Building</b>: Food Processing Facilities"
+                    "<b>Указ</b>: Farming Subsidies",
+                    "<b>Соружение</b>: Food Processing Facilities"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -122,7 +122,7 @@
                       "cost": 8000,
                       "description": "Новые методы криоконсервации и повторного секвенирования белков значительно повысят эффективность обработки пищи.",
                       "feature_unlocks": [
-                        "<b>Building</b>: Food Processing Centers"
+                        "<b>Соружение</b>: Food Processing Centers"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -160,10 +160,10 @@
                   "cost": 4000,
                   "description": "Использование современных генных технологий в отношении зерновых культур помогает повысить урожайность, улучшает вкус и увеличивает содержание питательных веществ.",
                   "feature_unlocks": [
-                    "<b>Edict</b>: Nutritional Plenitude",
+                    "<b>Указ</b>: Nutritional Plenitude",
                     "£food£ Food from £job_farmer£ [GetFarmerPlural] +20%",
                     "£food£ Food from Starbase Constructions +10%",
-                    "<b>Edict</b>: Expanded Breeding Program"
+                    "<b>Указ</b>: Expanded Breeding Program"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -313,7 +313,7 @@
               "cost": 2000,
               "description": "Гидропонное земледелие в контролируемой среде позволяет получать урожай в тех климатических зонах, где обычное земледелие невозможно.",
               "feature_unlocks": [
-                "<b>Building</b>: Hydroponics Farms",
+                "<b>Соружение</b>: Hydroponics Farms",
                 "<b>Starbase Building</b>: Hydroponics Bay"
               ],
               "is_dangerous": false,
@@ -564,7 +564,7 @@
                   "cost": 20000,
                   "description": "Дальнейший прогресс в разработке подкожных имплантов обеспечит нам возможность отслеживания перемещений и действий носителей имплантов.",
                   "feature_unlocks": [
-                    "<b>Edict</b>: Tracking Implants"
+                    "<b>Указ</b>: Tracking Implants"
                   ],
                   "is_dangerous": false,
                   "is_rare": true,
@@ -646,7 +646,7 @@
                   "cost": 12000,
                   "description": "Изменяя секрецию желез, мы можем изменять терпимость рас к различным экологическим условиям в соответствии с нашими потребностями.",
                   "feature_unlocks": [
-                    "<b>Building</b>: House of Apotheosis",
+                    "<b>Соружение</b>: House of Apotheosis",
                     "<b>Feature : </b>Habitability Modification"
                   ],
                   "is_dangerous": false,
@@ -1090,7 +1090,7 @@
           "cost": 0,
           "description": "Настанет день, когда великие, хладнокровные, безжалостные умы обратят свои завистливые взоры на наши миры и начнут строить планы. Мы должны быть готовы.",
           "feature_unlocks": [
-            "<b>Building</b>: Stronghold"
+            "<b>Соружение</b>: Stronghold"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1144,7 +1144,7 @@
                   "cost": 4000,
                   "description": "Стратегическая ценность хорошей обороны так же актуальна сегодня, как и для наших предшественников в далеком прошлом. Технологии не делают укрепления пережитком прошлого — они просто изменяют требования к ним.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Fortress",
+                    "<b>Соружение</b>: Fortress",
                     "Defense Army Health +25%"
                   ],
                   "is_dangerous": false,
@@ -1185,7 +1185,7 @@
           "description": "Постепенная адаптация к боям в глубоком космосе позволяет нам эффективно координировать более сложные маневры.",
           "feature_unlocks": [
             "Fleet Command Limit +20",
-            "<b>Edict</b>: Fleet Supremacy"
+            "<b>Указ</b>: Fleet Supremacy"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1379,7 +1379,7 @@
           "description": "Создание специального штаба для военных операций всех уровней обеспечивает формирование эффективной флотилии и закладывает более прочное основание для будущей военной подготовки.",
           "feature_unlocks": [
             "Max Occupation Garrisons +2",
-            "<b>Building</b>: Military Academy"
+            "<b>Соружение</b>: Military Academy"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2043,7 +2043,7 @@
               "cost": 2500,
               "description": "Колонизация иных миров положила начало возникновению совершенно новой области биомедицинских исследований.",
               "feature_unlocks": [
-                "<b>Building</b>: Gene Clinics"
+                "<b>Соружение</b>: Gene Clinics"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2081,7 +2081,7 @@
                   "cost": 6000,
                   "description": "С ростом нашего государства растет и наше понимание собственной биологии. Передовые методы лечения на клеточном уровне позволили значительно улучшить здоровье населения.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Cyto-Revitalization Centers"
+                    "<b>Соружение</b>: Cyto-Revitalization Centers"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2373,7 +2373,7 @@
               "description": "Простого решения проблемы изменения формы планетарной коры на макроуровне не существует — нужны лишь лопаты покрупнее и орбитальные буры.",
               "feature_unlocks": [
                 "<b>Feature : </b>Terraforming",
-                "<b>Edict</b>: Terraforming Gases"
+                "<b>Указ</b>: Terraforming Gases"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2719,7 +2719,7 @@
           "cost": 0,
           "description": "Волю улья можно усилить посредством развития макроскопических синаптических узлов.",
           "feature_unlocks": [
-            "<b>Building</b>: Synaptic Nodes"
+            "<b>Соружение</b>: Synaptic Nodes"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2744,8 +2744,8 @@
               "cost": 5000,
               "description": "Создавая кластеры сетей макроскопических синаптических узлов, можно достичь максимальной передачи меганейронов на доступную площадь поверхности.",
               "feature_unlocks": [
-                "<b>Building</b>: Synaptic Clusters",
-                "<b>Edict</b>: Synaptic Reinforcement"
+                "<b>Соружение</b>: Synaptic Clusters",
+                "<b>Указ</b>: Synaptic Reinforcement"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2775,7 +2775,7 @@
                   "cost": 10000,
                   "description": "Воля улья будет и дальше усиливаться и координироваться за счет расширения и развития огромного нервного центра меганейронов.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Confluence of Thought"
+                    "<b>Соружение</b>: Confluence of Thought"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2819,7 +2819,7 @@
           "cost": 0,
           "description": "Новаторское использование голографических технологий позволяет создавать искусственные среды, которые кажутся такими же подлинными, как и реальный мир. Это следующий этап в развитии иммерсивных развлечений.",
           "feature_unlocks": [
-            "<b>Building</b>: Holo-Theatres"
+            "<b>Соружение</b>: Holo-Theatres"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2842,7 +2842,7 @@
               "cost": 3000,
               "description": "Эти огромные развлекательные комплексы — место, где сбываются мечты. Торговые центры, рестораны, парки развлечений, аттракционы виртуальной реальности и многое другое. Вы мечтаете — мы воплощаем!",
               "feature_unlocks": [
-                "<b>Building</b>: Hyper-Entertainment Forums"
+                "<b>Соружение</b>: Hyper-Entertainment Forums"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2882,13 +2882,13 @@
           "cost": 0,
           "description": "Как только колония прочно становится на ноги, а первопроходцы превращаются в граждан, необходимость в сильном местном правительстве ради стабильности вытесняет потребность колонии в приспособляемости.",
           "feature_unlocks": [
-            "<b>Building</b>: Precinct Houses",
-            "<b>Building</b>: Sentinel Posts",
-            "<b>Building</b>: Planetary Administration",
-            "<b>Building</b>: Administrative Offices",
-            "<b>Building</b>: Uplink Node",
-            "<b>Building</b>: Hive Core",
-            "<b>Building</b>: Administrative Array"
+            "<b>Соружение</b>: Precinct Houses",
+            "<b>Соружение</b>: Sentinel Posts",
+            "<b>Соружение</b>: Planetary Administration",
+            "<b>Соружение</b>: Administrative Offices",
+            "<b>Соружение</b>: Uplink Node",
+            "<b>Соружение</b>: Hive Core",
+            "<b>Соружение</b>: Administrative Array"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2940,10 +2940,10 @@
                   "cost": 5000,
                   "description": "Эти твердые основы для местного управления созданы для каждого случая в отдельности, чтобы удовлетворить нужды каждой колонии.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Hive Nexus",
-                    "<b>Building</b>: Hall of Judgment",
-                    "<b>Building</b>: Planetary Processor",
-                    "<b>Building</b>: Planetary Capital"
+                    "<b>Соружение</b>: Hive Nexus",
+                    "<b>Соружение</b>: Hall of Judgment",
+                    "<b>Соружение</b>: Planetary Processor",
+                    "<b>Соружение</b>: Planetary Capital"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3056,9 +3056,9 @@
                       "description": "Улучшенное понимание того, как взаимодействовать с пришельцами и манипулировать ими, — это необходимый шаг к образованию более постоянных межзвездных альянсов.",
                       "feature_unlocks": [
                         "Diplomatic Weight +10%",
-                        "<b>Building</b>: Embassy Complex",
-                        "<b>Building</b>: Corporate Embassy",
-                        "<b>Building</b>: Disinformation Center"
+                        "<b>Соружение</b>: Embassy Complex",
+                        "<b>Соружение</b>: Corporate Embassy",
+                        "<b>Соружение</b>: Disinformation Center"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3095,7 +3095,7 @@
                           "description": "Сложности межзвездной дипломатии требуют формирования связей с иностранными державами ради достижения наших целей.",
                           "feature_unlocks": [
                             "Diplomatic Weight +10%",
-                            "<b>Building</b>: Grand Embassy Complex"
+                            "<b>Соружение</b>: Grand Embassy Complex"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3266,10 +3266,10 @@
                       "cost": 8000,
                       "description": "Планеты велики, поэтому места промышленного производства часто расположены на огромном расстоянии друг от друга. Согласованная стратегия, способная обеспечить общую работу в одном направлении, — насущная необходимость.",
                       "feature_unlocks": [
-                        "<b>Edict</b>: Industrial Subsidies",
-                        "<b>Building</b>: Resource Processing Center",
-                        "<b>Building</b>: Ministry of Production",
-                        "<b>Edict</b>: Forge Subsidies"
+                        "<b>Указ</b>: Industrial Subsidies",
+                        "<b>Соружение</b>: Resource Processing Center",
+                        "<b>Соружение</b>: Ministry of Production",
+                        "<b>Указ</b>: Forge Subsidies"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3307,9 +3307,9 @@
                       "cost": 8000,
                       "description": "Непрерывный асинхронный анализ разрозненных наборов данных позволяет точно смоделировать прежде непредсказуемые колебания социальных потоков.",
                       "feature_unlocks": [
-                        "<b>Building</b>: Alpha Hub",
-                        "<b>Building</b>: Auto-Curating Vault",
-                        "<b>Building</b>: Vault of Acquisitions"
+                        "<b>Соружение</b>: Alpha Hub",
+                        "<b>Соружение</b>: Auto-Curating Vault",
+                        "<b>Соружение</b>: Vault of Acquisitions"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3349,8 +3349,8 @@
                       "description": "Административные потребности звездной империи столь же многочисленны, как и сложны. Мы не ударим в грязь лицом.",
                       "feature_unlocks": [
                         "Civic Slots +1",
-                        "<b>Building</b>: System Capital-Complex",
-                        "<b>Building</b>: Primary Nexus"
+                        "<b>Соружение</b>: System Capital-Complex",
+                        "<b>Соружение</b>: Primary Nexus"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3423,7 +3423,7 @@
                       "cost": 16000,
                       "description": "Участвуя в свободной торговле товарами и услугами, мы создаем условия для более специализированной экономики, где каждый может преуспеть в своей узкой области и торговать с учетом собственных нужд.",
                       "feature_unlocks": [
-                        "<b>Building</b>: Galactic Stock Exchange"
+                        "<b>Соружение</b>: Galactic Stock Exchange"
                       ],
                       "is_dangerous": false,
                       "is_rare": true,
@@ -3504,10 +3504,10 @@
                       "cost": 4000,
                       "description": "Развитие местных органов власти позволяет более тщательно наблюдать за деятельностью колоний без излишне обременительной процедуры принятия решений на центральном уровне.",
                       "feature_unlocks": [
-                        "<b>Building</b>: Administrative Park",
+                        "<b>Соружение</b>: Administrative Park",
                         "Administrative Capacity +10",
                         "Base Intel Level +10",
-                        "<b>Building</b>: Network Junction"
+                        "<b>Соружение</b>: Network Junction"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3543,8 +3543,8 @@
                           "feature_unlocks": [
                             "Administrative Capacity +10",
                             "Base Intel Level +10",
-                            "<b>Building</b>: Administrative Complex",
-                            "<b>Building</b>: System Conflux"
+                            "<b>Соружение</b>: Administrative Complex",
+                            "<b>Соружение</b>: System Conflux"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3770,7 +3770,7 @@
           "cost": 0,
           "description": "Благодаря новым планетарным рынкам возникают новые возможности для торговли. Бизнес будет процветать.",
           "feature_unlocks": [
-            "<b>Building</b>: Commercial Zones"
+            "<b>Соружение</b>: Commercial Zones"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -3827,7 +3827,7 @@
                   "description": "Отправившись в космос и осмелившись выйти за пределы нашей родной системы, мы также вступили в новую эпоху экономики. Новые рынки возникают с поразительной скоростью, и экономисты-теоретики изо всех сил стараются не отставать.",
                   "feature_unlocks": [
                     "<b>Starbase Building</b>: Hyperlane Registrar",
-                    "<b>Building</b>: Commerce Megaplexes"
+                    "<b>Соружение</b>: Commerce Megaplexes"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3872,14 +3872,14 @@
           "cost": 0,
           "description": "Чтобы добиться значительных успехов в будущем, необходимо понимание общего прошлого.",
           "feature_unlocks": [
-            "<b>Edict</b>: Sacrifice: Bounty",
-            "<b>Edict</b>: Sacrifice: Togetherness",
-            "<b>Building</b>: Simulation Site",
-            "<b>Building</b>: Temple",
-            "<b>Building</b>: Corporate Culture Site",
-            "<b>Building</b>: Sacrificial Temple",
-            "<b>Edict</b>: Sacrifice: Harmony",
-            "<b>Building</b>: Autochthon Monument"
+            "<b>Указ</b>: Sacrifice: Bounty",
+            "<b>Указ</b>: Sacrifice: Togetherness",
+            "<b>Соружение</b>: Simulation Site",
+            "<b>Соружение</b>: Temple",
+            "<b>Соружение</b>: Corporate Culture Site",
+            "<b>Соружение</b>: Sacrificial Temple",
+            "<b>Указ</b>: Sacrifice: Harmony",
+            "<b>Соружение</b>: Autochthon Monument"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -3904,9 +3904,9 @@
               "cost": 3000,
               "description": "Материальные символы наших грандиозных достижений внушают глубокое уважение к прошлым победам и стимулируют устремления в будущее.",
               "feature_unlocks": [
-                "<b>Building</b>: Simulation Center",
-                "<b>Building</b>: Heritage Site",
-                "<b>Building</b>: Business Management Nexus"
+                "<b>Соружение</b>: Simulation Center",
+                "<b>Соружение</b>: Heritage Site",
+                "<b>Соружение</b>: Business Management Nexus"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -3939,9 +3939,9 @@
                   "cost": 8000,
                   "description": "Не все исследования сверхсветовых каналов связи приводят к положительному эффекту, но некоторые результаты могут быть полезными для сближения наших граждан.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Hypercomms Forum",
-                    "<b>Building</b>: Synergy Forum",
-                    "<b>Building</b>: Simulation Complex"
+                    "<b>Соружение</b>: Hypercomms Forum",
+                    "<b>Соружение</b>: Synergy Forum",
+                    "<b>Соружение</b>: Simulation Complex"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3983,8 +3983,8 @@
               "cost": 5000,
               "description": "Увидеть значит поверить, а вера формирует реальность.",
               "feature_unlocks": [
-                "<b>Building</b>: Grim Holotemple",
-                "<b>Building</b>: Holotemple"
+                "<b>Соружение</b>: Grim Holotemple",
+                "<b>Соружение</b>: Holotemple"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -4017,8 +4017,8 @@
                   "cost": 10000,
                   "description": "Благодаря нашим познаниям в области физики поля, теперь каждый сможет увидеть и ощутить наши святыни.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Temple of Grand Sacrifice",
-                    "<b>Building</b>: Sacred Nexus"
+                    "<b>Соружение</b>: Temple of Grand Sacrifice",
+                    "<b>Соружение</b>: Sacred Nexus"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -4055,7 +4055,7 @@
                       "cost": 20000,
                       "description": "Когда мы покинули нашу планету-колыбель, нам открылось новое понимание веры и ее места в более широком контексте.",
                       "feature_unlocks": [
-                        "<b>Building</b>: Citadel of Faith"
+                        "<b>Соружение</b>: Citadel of Faith"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -4104,7 +4104,7 @@
           "cost": 3000,
           "description": "Познание — это не что иное, как обработка информации, поступающей через органы чувств. Его можно изменить.",
           "feature_unlocks": [
-            "<b>Building</b>: Slave Processing Facility",
+            "<b>Соружение</b>: Slave Processing Facility",
             "<b>Army</b>: Slave Army"
           ],
           "is_dangerous": false,
@@ -4519,7 +4519,7 @@
                   "cost": 20000,
                   "description": "Открытия в области псионики предполагают возможность создания боевых компьютеров, способных считывать и обрабатывать импульсы телепатических операторов до того, как они обрабатываются сознанием.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Precognitive Interface"
+                    "<b>Компонент</b>: Precognitive Interface"
                   ],
                   "is_dangerous": false,
                   "is_rare": true,
@@ -4558,7 +4558,7 @@
                       "cost": 40000,
                       "description": "Пси-двигатель использует пси-энергию, излучаемую экипажем, для перемещения корабля через саму ткань реальности, что позволяет совершать мгновенные «прыжки» на огромные расстояния.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Psi Jump Drive",
+                        "<b>Компонент</b>: Psi Jump Drive",
                         "<b>Feature : </b>Jump Drive Travel"
                       ],
                       "is_dangerous": true,
@@ -4601,7 +4601,7 @@
                   "cost": 20000,
                   "description": "Телепаты могут выискивать неподобающие мысли в умах граждан, но они могут научиться и корректировать обнаруженные отклонения.",
                   "feature_unlocks": [
-                    "<b>Edict</b>: Thought Enforcement"
+                    "<b>Указ</b>: Thought Enforcement"
                   ],
                   "is_dangerous": false,
                   "is_rare": true,
@@ -4691,7 +4691,7 @@
           "cost": 2500,
           "description": "Изучение фауны иных миров позволяет нам понять поведение инопланетных созданий, а также идентифицировать и одомашнить мирных существ.",
           "feature_unlocks": [
-            "<b>Building</b>: Alien Zoo"
+            "<b>Соружение</b>: Alien Zoo"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -4722,7 +4722,7 @@
           "cost": 8000,
           "description": "Это корпоративное агентство рекламирует множество межзвездных туристических достопримечательностей, а также предлагает трудоустройство и бонусы при подписании контракта для потенциальных эмигрантов, заинтересованных в переселении в пространство корпорации.",
           "feature_unlocks": [
-            "<b>Building</b>: Xeno-Outreach Agency"
+            "<b>Соружение</b>: Xeno-Outreach Agency"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -4750,7 +4750,7 @@
           "cost": 8000,
           "description": "Роскошный курортный комплекс для высокопоставленных сотрудников корпораций. Здесь они могут познакомиться с культурой данной планеты в условиях высокой безопасности.",
           "feature_unlocks": [
-            "<b>Building</b>: Executive Retreat"
+            "<b>Соружение</b>: Executive Retreat"
           ],
           "is_dangerous": false,
           "is_rare": false,

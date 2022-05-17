@@ -35,9 +35,9 @@
           "cost": 0,
           "description": "Базовая промышленная инфраструктура, необходимая цивилизации для выхода в космос.",
           "feature_unlocks": [
-            "<b>Building</b>: Resource Silos",
-            "<b>Building</b>: Alloy Foundries",
-            "<b>Building</b>: Civilian Industries"
+            "<b>Соружение</b>: Бункеры для ресурсов",
+            "<b>Соружение</b>: Сплаволитейные заводы",
+            "<b>Соружение</b>: Гражданские предприятия"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -58,8 +58,8 @@
               "cost": 2000,
               "description": "Новые технологии гидроразрыва пласта позволили нам получить доступ к прежде недоступным карманам геотермальных ресурсов, расположенным глубоко в недрах планеты.",
               "feature_unlocks": [
-                "£minerals£ Minerals from Starbase Constructions +10%",
-                "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                "£minerals£ Минералы от Строительства Космических баз +10%",
+                "£minerals£ Минералы от £job_miner£ [GetMinerPlural] +20%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -89,8 +89,8 @@
                   "cost": 4000,
                   "description": "Эти огромные буры открывают доступ к богатым залежам минералов, расположенным близко к ядру планеты.",
                   "feature_unlocks": [
-                    "£minerals£ Minerals from Starbase Constructions +10%",
-                    "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                    "£minerals£ Минералы от Строительства Космических баз +10%",
+                    "£minerals£ Минералы от £job_miner£ [GetMinerPlural] +20%"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -120,8 +120,8 @@
                       "cost": 8000,
                       "description": "Улучшенная спектрометрия сочетается с технологиями гидроразрыва пласта и химической промывкой для быстрой эксплуатации залежей на малой и средней глубине.",
                       "feature_unlocks": [
-                        "£minerals£ Minerals from Starbase Constructions +10%",
-                        "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                        "£minerals£ Минералы от Строительства Космических баз +10%",
+                        "£minerals£ Минералы от £job_miner£ [GetMinerPlural] +20%"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -156,8 +156,8 @@
                   "cost": 3000,
                   "description": "Оптимальная переработка добываемых ресурсов позволила нам выйти на новый уровень эффективности.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Mineral Purification Plants",
-                    "<b>Edict</b>: Mining Subsidies"
+                    "<b>Соружение</b>: Фабрики по очистке полезных ископаемых",
+                    "<b>Указ</b>: Шахтерские субсидии"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -187,7 +187,7 @@
                       "cost": 6000,
                       "description": "Двухэтапная обработка псевдоочищенных минералов обеспечивает более эффективное хранение и транспортировку.",
                       "feature_unlocks": [
-                        "<b>Building</b>: Mineral Purification Hubs"
+                        "<b>Соружение</b>: Mineral Purification Hubs"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -223,7 +223,7 @@
                           "cost": 50000,
                           "description": "Переоценка значимости месторождений полезных ископаемых относительно друг друга — это ключ к строительству шахт повышенной эффективности.",
                           "feature_unlocks": [
-                            "£minerals£ Minerals from £job£ Jobs +5%"
+                            "£minerals£ Минералы от £job£ Jobs +5%"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -262,8 +262,8 @@
               "cost": 2000,
               "description": "Активный экзоскелет увеличивает скорость и силу своего владельца. Его польза для военных очевидна, но он также может повысить производительность труда.",
               "feature_unlocks": [
-                "Army Damage +5%",
-                "£minerals£ Minerals from £job£ Jobs +5%"
+                "Урон армии +5%",
+                "£minerals£ Минералы от £job£ Jobs +5%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -294,7 +294,7 @@
                   "description": "Эти рабочие-роботы идеально подходят для выполнения рутинных заданий. Они усердно трудятся и понимают простейшие голосовые команды, но подняться по лестнице им уже не под силу.",
                   "feature_unlocks": [
                     "<b>Feature : </b>Robot Workers",
-                    "<b>Building</b>: Robot Assembly Plants"
+                    "<b>Соружение</b>: Robot Assembly Plants"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -498,7 +498,7 @@
                           "description": "Новейшие модели роботов сильнее, быстрее и прочнее, чем большинство органических существ. Их улучшенные нейронные процессоры позволяют им работать в автономном режиме.",
                           "feature_unlocks": [
                             "Robot Output +10%",
-                            "<b>Feature : </b>Synthetic Workers"
+                            "<b>Feature : </b>Рабочие-синтетики"
                           ],
                           "is_dangerous": true,
                           "is_rare": true,
@@ -598,7 +598,7 @@
                   "description": "Стандартизация сборочных шаблонов позволяет улучшить специализацию дронов.",
                   "feature_unlocks": [
                     "<b>Feature : </b>Robomodding",
-                    "Machine Modification Points +1"
+                    "Очки модификации машин +1"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -630,7 +630,7 @@
                       "cost": 8000,
                       "description": "Эти усовершенствованные приводы меньше и легче предыдущих версий и позволяют оснастить автономные единицы большим количеством подсистем.",
                       "feature_unlocks": [
-                        "Machine Modification Points +1"
+                        "Очки модификации машин +1"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -667,7 +667,7 @@
                           "cost": 16000,
                           "description": "Использование программируемых нанороботов при сборке новых автономных единиц позволит производить более сложные модели, оборудованные еще большим спектром подсистем.",
                           "feature_unlocks": [
-                            "Machine Modification Points +1"
+                            "Очки модификации машин +1"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -710,7 +710,7 @@
                           "cost": 16000,
                           "description": "Усовершенствованные алгоритмы сборки позволяют многократно ускорить производство новых моделей.",
                           "feature_unlocks": [
-                            "<b>Building</b>: Machine Assembly Complex"
+                            "<b>Соружение</b>: Машиностроительный комплекс"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -764,7 +764,7 @@
               "cost": 3000,
               "description": "Благодаря предварительно запрограммированным наноцепям многие товары массового спроса можно быстро собирать в изготовителях.",
               "feature_unlocks": [
-                "<b>Building</b>: Civilian Fabricators"
+                "<b>Соружение</b>: Civilian Fabricators"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -797,7 +797,7 @@
                   "cost": 8000,
                   "description": "Эти терминалы могут воссоздать любой предварительно утвержденный объект, если его модель сохранена в их банках памяти.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Civilian Repli-Complexes"
+                    "<b>Соружение</b>: Гражданские репликационные комплексы"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -841,7 +841,7 @@
               "cost": 3000,
               "description": "Цельные голографические литейные формы могут мгновенно изменять внешний вид, что ускоряет производство сплавов.",
               "feature_unlocks": [
-                "<b>Building</b>: Alloy Mega-Forges"
+                "<b>Соружение</b>: Сплаволитейные мегакузницы"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -872,7 +872,7 @@
                   "cost": 8000,
                   "description": "Наносепараторы — новый революционный шаг в создании сплавов, упрощающий процесс литья, одновременно улучшая общее качество продукции.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Alloy Nano-Plants"
+                    "<b>Соружение</b>: Сплаволитейные нанопредприятия"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -912,7 +912,7 @@
               "cost": 4000,
               "description": "Экзотические газы можно производить искусственным путем, но это сложный процесс, требующий улучшенного перерабатывающего оборудования.",
               "feature_unlocks": [
-                "<b>Building</b>: Exotic Gas Refineries"
+                "<b>Соружение</b>: Exotic Gas Refineries"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -945,8 +945,8 @@
               "cost": 4000,
               "description": "Процесс кристаллизации многогранный и сложный, однако производить синтетические кристаллы на специализированных промышленных заводах вполне возможно.",
               "feature_unlocks": [
-                "<b>Building</b>: Synthetic Crystal Plants",
-                "<b>Building</b>: Kha'lanka Crystal Plant"
+                "<b>Соружение</b>: Synthetic Crystal Plants",
+                "<b>Соружение</b>: Kha'lanka Crystal Plant"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1170,7 +1170,7 @@
               "cost": 2500,
               "description": "Изначально бетарианские минералы возникли в одном месте, но миллион лет назад разлетелись по всей галактике. Минералы чаще всего встречаются в виде скоплений небольших камней и легко воспламеняются.",
               "feature_unlocks": [
-                "<b>Building</b>: Betharian Power Plant"
+                "<b>Соружение</b>: Betharian Power Plant"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1204,7 +1204,7 @@
               "description": "Карманы с экзотическим газом попадаются редко и часто недоступны при использовании стандартных методов. До таких залежей можно добраться только при помощи специальной технологии добычи.",
               "feature_unlocks": [
                 "<b>Reveals Resource</b>: Exotic Gases",
-                "<b>Building</b>: Gas Extraction Wells"
+                "<b>Соружение</b>: Gas Extraction Wells"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1238,7 +1238,7 @@
               "description": "Добыча этих кристаллов так, чтобы не повредить или даже уничтожить их, — это весьма деликатный процесс. Для этого требуется современное оборудование, обеспечивающее ювелирную точность.",
               "feature_unlocks": [
                 "<b>Reveals Resource</b>: Rare Crystals",
-                "<b>Building</b>: Crystal Mines"
+                "<b>Соружение</b>: Crystal Mines"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1271,7 +1271,7 @@
               "cost": 32000,
               "description": "Добыча и переработка редких живых металлов невероятно сложна, но успешное использование изменяемых сплавов дает неоспоримые преимущества.",
               "feature_unlocks": [
-                "<b>Edict</b>: Living Metal Mega-Construction",
+                "<b>Указ</b>: Living Metal Mega-Construction",
                 "<b>Reveals Resource</b>: Living Metal"
               ],
               "is_dangerous": false,
@@ -1310,7 +1310,7 @@
           "is_dangerous": false,
           "is_rare": false,
           "is_start_tech": false,
-          "name": "Наномеханика\" # Could also be Nanomatter",
+          "name": "Наномеханика",
           "prerequisites": [],
           "tier": 1,
           "prerequisites_names": [],
@@ -1345,7 +1345,7 @@
               "tier": 1,
               "prerequisites_names": [
                 {
-                  "name": "Наномеханика\" # Could also be Nanomatter",
+                  "name": "Наномеханика",
                   "key": "tech_engineering_1"
                 }
               ],
@@ -1396,7 +1396,7 @@
                       "base_weight": 12.5,
                       "category": "Промышленность",
                       "cost": 50000,
-                      "description": "Применение теории игр и головоломок имеет может привести к значительной оптимизации процессов модульной сборки и конструирования.\" # through the use of advanced puzzle-logic we can make sure each building is assembled in the optimal order and pattern",
+                      "description": "Применение теории игр и головоломок имеет может привести к значительной оптимизации процессов модульной сборки и конструирования.",
                       "feature_unlocks": [
                         "Planetary Build Speed +10%"
                       ],
@@ -1439,14 +1439,14 @@
               "is_dangerous": false,
               "is_rare": false,
               "is_start_tech": false,
-              "name": "Сверхтвердые материалы\" # As above, could be Supersolid Matter",
+              "name": "Сверхтвердые материалы",
               "prerequisites": [
                 "tech_engineering_1"
               ],
               "tier": 2,
               "prerequisites_names": [
                 {
-                  "name": "Наномеханика\" # Could also be Nanomatter",
+                  "name": "Наномеханика",
                   "key": "tech_engineering_1"
                 }
               ],
@@ -1480,7 +1480,7 @@
                   "tier": 4,
                   "prerequisites_names": [
                     {
-                      "name": "Сверхтвердые материалы\" # As above, could be Supersolid Matter",
+                      "name": "Сверхтвердые материалы",
                       "key": "tech_engineering_2"
                     }
                   ],
@@ -1533,9 +1533,9 @@
               "cost": 8000,
               "description": "Благодаря последним достижениям в сфере архитектуры, ландшафтного дизайна и голографических технологий мы будем строить дома будущего.",
               "feature_unlocks": [
-                "<b>Building</b>: Utopian Communal Housing",
-                "<b>Building</b>: Paradise Dome",
-                "<b>Building</b>: Organic Paradise"
+                "<b>Соружение</b>: Utopian Communal Housing",
+                "<b>Соружение</b>: Paradise Dome",
+                "<b>Соружение</b>: Organic Paradise"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1571,7 +1571,7 @@
               "cost": 8000,
               "description": "При помощи технологии управления гравитацией здания на поверхности планеты можно сделать еще выше, чем прежде, без риска того, что они обрушатся. Дотянемся до неба!",
               "feature_unlocks": [
-                "<b>Building</b>: Expanded Warren",
+                "<b>Соружение</b>: Expanded Warren",
                 "City District Housing: +1"
               ],
               "is_dangerous": false,
@@ -1609,7 +1609,7 @@
           "description": "Эти микроскопические инструменты могут помочь нашим единицам, занимающимся репликацией, в создании более сложных схем, необходимых для новых дронов.",
           "feature_unlocks": [
             "Mechanical Pop Assembly Speed +10%",
-            "<b>Building</b>: Upgraded Drone Storage"
+            "<b>Соружение</b>: Upgraded Drone Storage"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1673,9 +1673,9 @@
           "cost": 2000,
           "description": "Усиленная обшивка из нанокомпозитного материала обеспечивает корабль дополнительным защитным слоем, который может спасти его от гибели в бою.",
           "feature_unlocks": [
-            "<b>Component</b>: Large Nanocomposite Armor",
-            "<b>Component</b>: Small Nanocomposite Armor",
-            "<b>Component</b>: Medium Nanocomposite Armor"
+            "<b>Компонент</b>: Large Nanocomposite Armor",
+            "<b>Компонент</b>: Small Nanocomposite Armor",
+            "<b>Компонент</b>: Medium Nanocomposite Armor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1696,9 +1696,9 @@
               "cost": 2500,
               "description": "Сочетание нескольких видов металла с керамикой позволило создать прочную и в то же время податливую броню.",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Ceramo-Metal Armor",
-                "<b>Component</b>: Large Ceramo-Metal Armor",
-                "<b>Component</b>: Small Ceramo-Metal Armor"
+                "<b>Компонент</b>: Medium Ceramo-Metal Armor",
+                "<b>Компонент</b>: Large Ceramo-Metal Armor",
+                "<b>Компонент</b>: Small Ceramo-Metal Armor"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1808,9 +1808,9 @@
                   "cost": 5000,
                   "description": "Пластисталь — эластичный материал, сочетающий в себе многие свойства пластика и металла. Он сравнительно недорог в производстве и используется для повышения прочности обшивки кораблей.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Plasteel Armor",
-                    "<b>Component</b>: Medium Plasteel Armor",
-                    "<b>Component</b>: Large Plasteel Armor"
+                    "<b>Компонент</b>: Small Plasteel Armor",
+                    "<b>Компонент</b>: Medium Plasteel Armor",
+                    "<b>Компонент</b>: Large Plasteel Armor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1840,9 +1840,9 @@
                       "cost": 10000,
                       "description": "Этот прочный, но гибкий материал способен выдержать самые серьезные испытания. Он отлично подходит для корабельной обшивки.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Large Durasteel Armor",
-                        "<b>Component</b>: Small Durasteel Armor",
-                        "<b>Component</b>: Medium Durasteel Armor"
+                        "<b>Компонент</b>: Large Durasteel Armor",
+                        "<b>Компонент</b>: Small Durasteel Armor",
+                        "<b>Компонент</b>: Medium Durasteel Armor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1872,9 +1872,9 @@
                           "cost": 20000,
                           "description": "Этот невероятно плотный, прочный материал выдерживает вражеский огонь такой силы, при которой все остальные виды брони плавятся и горят.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Small Neutronium Armor",
-                            "<b>Component</b>: Large Neutronium Armor",
-                            "<b>Component</b>: Medium Neutronium Armor"
+                            "<b>Компонент</b>: Small Neutronium Armor",
+                            "<b>Компонент</b>: Large Neutronium Armor",
+                            "<b>Компонент</b>: Medium Neutronium Armor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -1948,7 +1948,7 @@
           "cost": 0,
           "description": "Пушечная батарея, бьющая по площади шрапнелью на короткой дистанции. Она особенно эффективна против вражеских штурмовиков, а также способна защитить от ракет.",
           "feature_unlocks": [
-            "<b>Component</b>: Flak Battery"
+            "<b>Компонент</b>: Flak Battery"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1969,7 +1969,7 @@
               "cost": 6000,
               "description": "Улучшенная зенитная батарея с новыми, более мощными шрапнельными снарядами.",
               "feature_unlocks": [
-                "<b>Component</b>: Flak Cannons"
+                "<b>Компонент</b>: Flak Cannons"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2001,7 +2001,7 @@
                   "cost": 16000,
                   "description": "Алгоритмы прогнозирующего наведения и еще более мощные боеприпасы делают эти батареи невероятно смертоносными для вражеских штурмовиков.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Flak Artillery"
+                    "<b>Компонент</b>: Flak Artillery"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2041,7 +2041,7 @@
           "cost": 0,
           "description": "Простые, но сравнительно эффективные химические двигатели, создающие тягу при сжигании топлива.",
           "feature_unlocks": [
-            "<b>Component</b>: Chemical Thrusters"
+            "<b>Компонент</b>: Chemical Thrusters"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2062,7 +2062,7 @@
               "cost": 2500,
               "description": "Эти мощные компоненты двигателей обеспечивают дополнительную боевую скорость, но потребляют много энергии.",
               "feature_unlocks": [
-                "<b>Component</b>: Afterburners"
+                "<b>Компонент</b>: Afterburners"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2094,7 +2094,7 @@
                   "cost": 10000,
                   "description": "Эта улучшенная версия стандартных форсажных камер еще больше увеличивает боевую скорость корабля.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Advanced Afterburners"
+                    "<b>Компонент</b>: Advanced Afterburners"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2134,7 +2134,7 @@
               "cost": 4000,
               "description": "Эти электрические двигатели обходятся без топлива и создают тягу, используя пучки ионов.",
               "feature_unlocks": [
-                "<b>Component</b>: Ion Thrusters"
+                "<b>Компонент</b>: Ion Thrusters"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2165,7 +2165,7 @@
                   "cost": 8000,
                   "description": "Плазменные двигатели создают более мощную электрическую тягу, повышая субсветовую скорость и маневренность кораблей.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Plasma Thrusters"
+                    "<b>Компонент</b>: Plasma Thrusters"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2196,7 +2196,7 @@
                       "cost": 16000,
                       "description": "Эти мощные двигатели на термоядерных источниках энергии наделяют корабль непревзойденными характеристиками маневренности и субсветовой скорости.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Impulse Thrusters"
+                        "<b>Компонент</b>: Impulse Thrusters"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2227,7 +2227,7 @@
                           "cost": 50000,
                           "description": "Эти корабельные двигатели используют технологию на основе темной материи, чтобы производить энергию посредством процессов, словно бросающих вызов различным законам физики.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Dark Matter Thrusters"
+                            "<b>Компонент</b>: Dark Matter Thrusters"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -2271,7 +2271,7 @@
           "cost": 0,
           "description": "Ракеты класса «космос-космос» с мощными ядерными боеголовками. В основе этого примитивного оружия, действующего по принципу «выстрелил и забыл», лежит старая технология из докосмической эры, но оно на удивление эффективно на большом расстоянии.",
           "feature_unlocks": [
-            "<b>Component</b>: Nuclear Missiles",
+            "<b>Компонент</b>: Nuclear Missiles",
             "<b>Starbase Module</b>: Missile Battery"
           ],
           "is_dangerous": false,
@@ -2293,7 +2293,7 @@
               "cost": 2500,
               "description": "Эти усовершенствованные ракеты класса «космос-космос» оснащены более мощными термоядерными боеголовками и обладают улучшенными летными качествами.",
               "feature_unlocks": [
-                "<b>Component</b>: Fusion Missiles"
+                "<b>Компонент</b>: Fusion Missiles"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2330,7 +2330,7 @@
                   "cost": 4000,
                   "description": "Улучшенные ракеты, оснащенные очень мощными боеголовками из антиматерии. Современная система наведения позволяет вернее захватывать цели.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Antimatter Missiles"
+                    "<b>Компонент</b>: Antimatter Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2362,7 +2362,7 @@
                       "cost": 8000,
                       "description": "Новейшая версия ракет класса «космос-космос». Этот современный вариант оснащен невероятно мощной боеголовкой, которая черпает энергию из нулевой точки вакуума.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Quantum Missiles"
+                        "<b>Компонент</b>: Quantum Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2394,7 +2394,7 @@
                           "cost": 20000,
                           "description": "Каждая из эти сверхсовременных ракет оснащена простейшим ИИ-пилотом, что заметно повышает эффективность и целенаведение.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Marauder Missiles"
+                            "<b>Компонент</b>: Marauder Missiles"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2494,7 +2494,7 @@
                   "cost": 5000,
                   "description": "Эти маленькие ракеты выпускают залпами. Они специально разработаны для борьбы с вражескими системами ПВО.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Swarmer Missiles"
+                    "<b>Компонент</b>: Swarmer Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2526,7 +2526,7 @@
                       "cost": 20000,
                       "description": "Новые разработки в области миниатюризации позволили нам оснастить ракетный рой более мощными боеголовками и улучшить их летные качества.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Whirlwind Missiles"
+                        "<b>Компонент</b>: Whirlwind Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2566,7 +2566,7 @@
               "cost": 5000,
               "description": "Эти торпеды являются, по сути, очень крупными, медленными ракетами. Они оснащены более мощными боеголовками и модуляторами щитов, которые позволяют им свободно проходить сквозь силовые поля.",
               "feature_unlocks": [
-                "<b>Component</b>: Space Torpedoes"
+                "<b>Компонент</b>: Space Torpedoes"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2598,7 +2598,7 @@
                   "cost": 10000,
                   "description": "Эти улучшенные космические торпеды заключены в броню, которая позволяет им выдержать огонь вражеской ПВО. При взрыве торпеды ее броня разлетается на осколки, наносящие дополнительный урон.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Armored Torpedoes"
+                    "<b>Компонент</b>: Armored Torpedoes"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2630,7 +2630,7 @@
                       "cost": 20000,
                       "description": "Улучшенные торпеды с очень мощными боеголовками. Они обладают более эргономичной формой, мощными двигателями и усиленными модуляторами щитов для прохождения сквозь силовые поля.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Devastator Torpedoes"
+                        "<b>Компонент</b>: Devastator Torpedoes"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2674,9 +2674,9 @@
           "description": "Эти электромагнитные пусковые установки поражают цель, разгоняя бронебойные снаряды с помощью магнитов.",
           "feature_unlocks": [
             "<b>Starbase Module</b>: Gun Battery",
-            "<b>Component</b>: Small Mass Driver",
-            "<b>Component</b>: Large Mass Driver",
-            "<b>Component</b>: Medium Mass Driver"
+            "<b>Компонент</b>: Small Mass Driver",
+            "<b>Компонент</b>: Large Mass Driver",
+            "<b>Компонент</b>: Medium Mass Driver"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2697,9 +2697,9 @@
               "cost": 2500,
               "description": "Спиратрон — более мощный вариант ускорителя масс. Он использует электромагнитные катушки для быстрого разгона снарядов.",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Coilgun",
-                "<b>Component</b>: Large Coilgun",
-                "<b>Component</b>: Small Coilgun"
+                "<b>Компонент</b>: Medium Coilgun",
+                "<b>Компонент</b>: Large Coilgun",
+                "<b>Компонент</b>: Small Coilgun"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2731,9 +2731,9 @@
                   "cost": 4000,
                   "description": "Новейшая разработка в области электромагнитного ускорения масс. Два параллельных ускорителя рельсотрона разгоняют снаряды до невероятно высокой скорости.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Railgun",
-                    "<b>Component</b>: Large Railgun",
-                    "<b>Component</b>: Medium Railgun"
+                    "<b>Компонент</b>: Small Railgun",
+                    "<b>Компонент</b>: Large Railgun",
+                    "<b>Компонент</b>: Medium Railgun"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2765,9 +2765,9 @@
                       "cost": 8000,
                       "description": "Новая версия знаменитого рельсотрона с более прочными ускорителями и усиленным источником питания. Это оружие еще мощнее и точнее, чем его предшественники.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Medium Advanced Railgun",
-                        "<b>Component</b>: Large Advanced Railgun",
-                        "<b>Component</b>: Small Advanced Railgun"
+                        "<b>Компонент</b>: Medium Advanced Railgun",
+                        "<b>Компонент</b>: Large Advanced Railgun",
+                        "<b>Компонент</b>: Small Advanced Railgun"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2799,7 +2799,7 @@
                           "cost": 12000,
                           "description": "Дальнобойная артиллерийская установка, способная с высокой точностью поражать цели на поразительно большом расстоянии.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Kinetic Battery"
+                            "<b>Компонент</b>: Kinetic Battery"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2831,7 +2831,7 @@
                               "cost": 20000,
                               "description": "Более мощная версия дальнобойной корабельной артиллерии с новым дулом и улучшенным компьютером для управления стрельбой.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Kinetic Artillery"
+                                "<b>Компонент</b>: Kinetic Artillery"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2873,7 +2873,7 @@
                           "cost": 20000,
                           "description": "Этот огромный ускоритель масс, который можно разместить в осевой установке, стреляет чудовищно мощными снарядами на значительные расстояния.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Mega Cannon"
+                            "<b>Компонент</b>: Mega Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2910,7 +2910,7 @@
                               "cost": 24000,
                               "description": "Этот еще более мощный ускоритель масс способен пробить даже самый крепкий щит.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Giga Cannon"
+                                "<b>Компонент</b>: Giga Cannon"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2952,9 +2952,9 @@
                           "cost": 16000,
                           "description": "Эта усовершенствованная версия устаревшего спиратрона превосходит по силе даже последние версии рельсотронов. Она запускает снаряды с невероятной скоростью и точностью.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Gauss Cannon",
-                            "<b>Component</b>: Medium Gauss Cannon",
-                            "<b>Component</b>: Small Gauss Cannon"
+                            "<b>Компонент</b>: Large Gauss Cannon",
+                            "<b>Компонент</b>: Medium Gauss Cannon",
+                            "<b>Компонент</b>: Small Gauss Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3054,7 +3054,7 @@
                   "cost": 5000,
                   "description": "Крупнокалиберное баллистическое оружие, использующее оболочные взрывчатые вещества. Главное достоинство этой пушки — ее высокий темп стрельбы.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Autocannon"
+                    "<b>Компонент</b>: Autocannon"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3087,7 +3087,7 @@
                       "cost": 8000,
                       "description": "Эта улучшенная поворотная автопушка оснащена доработанной системой наведения и управления стрельбой. Она позволяет поддерживать еще более высокий темп стрельбы.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Ripper Autocannon"
+                        "<b>Компонент</b>: Ripper Autocannon"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3119,7 +3119,7 @@
                           "cost": 16000,
                           "description": "Новейшая поворотная автопушка, выпускающая в цель облако фугасных снарядов.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Stormfire Autocannon"
+                            "<b>Компонент</b>: Stormfire Autocannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3186,7 +3186,7 @@
               "cost": 3000,
               "description": "Эти пилотируемые штурмовики взлетают с материнского корабля. Полагаясь на свою высокую скорость и небольшие размеры, они способны выжить достаточно долго, чтобы пробить вражескую оборону.",
               "feature_unlocks": [
-                "<b>Component</b>: Basic Strike Craft",
+                "<b>Компонент</b>: Basic Strike Craft",
                 "<b>Starbase Module</b>: Hangar Bay"
               ],
               "is_dangerous": false,
@@ -3217,7 +3217,7 @@
                   "cost": 6000,
                   "description": "Следующее поколение штурмовиков отличается обновленной бортовой электроникой, улучшенным управлением и усиленным оружием.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Improved Strike Craft"
+                    "<b>Компонент</b>: Improved Strike Craft"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3247,7 +3247,7 @@
                       "cost": 12000,
                       "description": "Дальнейшая эволюция штурмовых космических аппаратов, эти новейшие корабли — мечта любого пилота. Они ведут себя в бою намного лучше, чем предыдущие модели.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Advanced Strike Craft"
+                        "<b>Компонент</b>: Advanced Strike Craft"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -4035,8 +4035,8 @@
                           "feature_unlocks": [
                             "<b>Ship Size</b>: Titan",
                             "Fleet Command Limit +10",
-                            "<b>Component</b>: Ion Cannon",
-                            "<b>Component</b>: Perdition Beam",
+                            "<b>Компонент</b>: Ion Cannon",
+                            "<b>Компонент</b>: Perdition Beam",
                             "<b>Starbase Upgrade</b>: Ion Cannon"
                           ],
                           "is_dangerous": false,
@@ -4176,7 +4176,7 @@
                                   "cost": 48000,
                                   "description": "Ускоренный шлейф нейтронного излучения проходит по поверхности планеты, сильно ухудшая качество большинства материалов и напрямую разрушая биологические ткани.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Neutron Sweep"
+                                    "<b>Компонент</b>: Neutron Sweep"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4216,7 +4216,7 @@
                                   "cost": 48000,
                                   "description": "Вокруг планеты создается экранирующее поле, которое образует постоянный и непроницаемый (если не считать лучей света с определенной длиной волны) барьер.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Global Pacifier"
+                                    "<b>Компонент</b>: Global Pacifier"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4254,7 +4254,7 @@
                                   "cost": 48000,
                                   "description": "Тайный катализатор, усиливающий псионические волны определенной длины, способные вызывать галлюцинации (религиозные переживания) в биологическом мозгу и серьезные нарушения (смерть мозга) в электронном.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Divine Enforcer"
+                                    "<b>Компонент</b>: Divine Enforcer"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4293,7 +4293,7 @@
                                   "cost": 48000,
                                   "description": "Направленная подача тепловой энергии перегревает атмосферу и возбуждает ядро планеты, вызывая катастрофические тектонические изменения. В конце создается сравнительно короткая ударная волна, раскалывающая планету.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: World Cracker"
+                                    "<b>Компонент</b>: World Cracker"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4331,7 +4331,7 @@
                                   "cost": 48000,
                                   "description": "Распылитель наноботов",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Nanobot Diffuser"
+                                    "<b>Компонент</b>: Nanobot Diffuser"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4670,7 +4670,7 @@
                           "cost": 20000,
                           "description": "Введение новых стандартов проектирования и строительства массивных линкоров значительно повышает скорость их сборки.",
                           "feature_unlocks": [
-                            "Battleship Build Cost -5%",
+                            "Стоимость строительства линкора -5%",
                             "Battleship Build Speed +25%"
                           ],
                           "is_dangerous": false,
@@ -5016,7 +5016,7 @@
           "cost": 6000,
           "description": "Массовое производство этих особенно эффективных нанитов требует очень продвинутого оборудования.",
           "feature_unlocks": [
-            "<b>Building</b>: Nanite Transmuter"
+            "<b>Соружение</b>: Nanite Transmuter"
           ],
           "is_dangerous": false,
           "is_rare": true,

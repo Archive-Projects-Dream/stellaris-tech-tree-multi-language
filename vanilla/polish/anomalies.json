@@ -8,9 +8,9 @@
     "cost": 2500,
     "description": "Dzięki wykorzystaniu entropowego charakteru pustki zerowej ten promień może niszczyć energię.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Null Void Beam",
-      "<b>Component</b>: Medium Null Void Beam",
-      "<b>Component</b>: Small Null Void Beam"
+      "<b>Komponent</b>: Large Null Void Beam",
+      "<b>Komponent</b>: Medium Null Void Beam",
+      "<b>Komponent</b>: Small Null Void Beam"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -150,7 +150,7 @@
     "cost": 6000,
     "description": "Rozmnażając kosmiczne ameby w niewoli, możemy zaprogramować ich symbiotyczne wici, żeby działały jako organiczne statki szturmowe naszej floty.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Amoeba Flagella"
+      "<b>Komponent</b>: Amoeba Flagella"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -173,7 +173,7 @@
     "cost": 48000,
     "description": "Wiązka ukierunkowanej energii tachionowej trafia w gwiazdę, zmieniając ją w supernową. Niesamowita ilość energii wyzwolona przez to zjawisko jest następnie wykorzystywana do generowania ogromnych ilości ciemnej materii.\\n\\nGdy gwiazda wybucha, wszystkie kolonie, superkonstrukcje i stacje w układzie ulegają zniszczeniu - włącznie z naszymi. Wszystkie floty w układzie zostają uznane za zaginione. Jedynym wyjątkiem jest pożeracz gwiazd.§!",
     "feature_unlocks": [
-      "<b>Component</b>: Star Cracker"
+      "<b>Komponent</b>: Star Cracker"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -200,9 +200,9 @@
     "cost": 6000,
     "description": "Nasycenie pancerza materią krystaliczną zaowocuje dalszym zwiększenie wytrzymałości kadłubów naszych jednostek.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Crystal-Infused Plating",
-      "<b>Component</b>: Large Crystal-Infused Plating",
-      "<b>Component</b>: Small Crystal-Infused Plating"
+      "<b>Komponent</b>: Medium Crystal-Infused Plating",
+      "<b>Komponent</b>: Large Crystal-Infused Plating",
+      "<b>Komponent</b>: Small Crystal-Infused Plating"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -227,9 +227,9 @@
     "cost": 16000,
     "description": "Wprowadzenie materii krystalicznej do procesów odlewniczych jeszcze bardziej zwiększy ultratwardość metali nasyconych kryształami.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Large Crystal-Forged Plating",
-      "<b>Component</b>: Small Crystal-Forged Plating",
-      "<b>Component</b>: Medium Crystal-Forged Plating"
+      "<b>Komponent</b>: Large Crystal-Forged Plating",
+      "<b>Komponent</b>: Small Crystal-Forged Plating",
+      "<b>Komponent</b>: Medium Crystal-Forged Plating"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -252,9 +252,9 @@
     "cost": 50000,
     "description": "Łuski eterycznego smoka są wykonane z wielu warstw nanostruktur z unikalnych minerałów. Niespotykane techniki produkcji umożliwiają nam wierne odwzorowanie tej samoczynnie naprawiającej się struktury.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Dragonscale Armor",
-      "<b>Component</b>: Medium Dragonscale Armor",
-      "<b>Component</b>: Small Dragonscale Armor"
+      "<b>Komponent</b>: Large Dragonscale Armor",
+      "<b>Komponent</b>: Medium Dragonscale Armor",
+      "<b>Komponent</b>: Small Dragonscale Armor"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -307,7 +307,7 @@
     "cost": 50000,
     "description": "Tajemniczy szyfrator dawał przeciętne wyniki w zwykłych próbach, ale dokładność jego algorytmów prognostycznych zwiększa się, gdy trasa lotu celu staje się bardziej chaotyczna.",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Decoder"
+      "<b>Komponent</b>: Enigmatic Decoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -330,7 +330,7 @@
     "cost": 50000,
     "description": "Tajemniczy szyfrator koduje dane o trasie lotu według nieznanego wzoru, zanim odeśle je z powrotem do dowództwa floty.",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Encoder"
+      "<b>Komponent</b>: Enigmatic Encoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -353,9 +353,9 @@
     "cost": 48000,
     "description": "Zastosowanie zasad pięciowymiarowej manipulacji energią na płaszczyznach o mniejszej liczbie wymiarów umożliwia tworzenie potężnej broni energetycznej.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Matter Disintegrator",
-      "<b>Component</b>: Small Matter Disintegrator",
-      "<b>Component</b>: Large Matter Disintegrator"
+      "<b>Komponent</b>: Medium Matter Disintegrator",
+      "<b>Komponent</b>: Small Matter Disintegrator",
+      "<b>Komponent</b>: Large Matter Disintegrator"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -482,8 +482,8 @@
     "cost": 5000,
     "description": "Zastosowanie silnych soczewek w połączeniu z oscylującą częstotliwością ostrzału ułatwia budowę na tyle mocnych laserów, by mogły posłużyć do prac górniczych na asteroidach - albo do zestrzeliwania wrogich jednostek.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Cutting Laser",
-      "<b>Component</b>: Small Cutting Laser"
+      "<b>Komponent</b>: Medium Cutting Laser",
+      "<b>Komponent</b>: Small Cutting Laser"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -506,7 +506,7 @@
     "cost": 48000,
     "description": "Wśród dymiących szczątków Złomiarza znaleziono bardzo wydajny system automatycznej naprawy kadłuba, składający się z miliardów mikroskopijnych nanomaszyn. Przystosowano go do naszych potrzeb, ale nie wiadomo, czy Złomiarz znalazł go w jednym z pokonanych okrętów, czy też był on częścią jego fabrycznego wyposażenia.",
     "feature_unlocks": [
-      "<b>Component</b>: Nanite Repair System"
+      "<b>Komponent</b>: Nanite Repair System"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -553,7 +553,7 @@
     "cost": 8000,
     "description": "Ten system zarządzania bombardowaniem orbitalnym zasypuje planetę milionami małych, szybkich pocisków. Dzięki temu planetarne sieci obronne ulegają przeciążeniu pod wpływem mnóstwa zbędnych danych. Okręty wyposażone w ten system wyrządzają więcej szkód podczas bombardowania orbitalnego.",
     "feature_unlocks": [
-      "<b>Component</b>: Orbital Trash Disperser"
+      "<b>Komponent</b>: Orbital Trash Disperser"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -599,9 +599,9 @@
     "cost": 8000,
     "description": "Kadra specjalistów od psioniki wytwarza te bariery z czystej energii psionicznej. Będą one mogły zatrzymywać ostrzał wroga, tak jak deflektory energetyczne, ale bez uciążliwego zużycia energii.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Psionic Barrier",
-      "<b>Component</b>: Small Psionic Barrier",
-      "<b>Component</b>: Medium Psionic Barrier"
+      "<b>Komponent</b>: Large Psionic Barrier",
+      "<b>Komponent</b>: Small Psionic Barrier",
+      "<b>Komponent</b>: Medium Psionic Barrier"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -631,9 +631,9 @@
     "cost": 48000,
     "description": "Te niezwykle silnie osłony są wytwarzane z energii psionicznej przez wyspecjalizowanych psioników. Ich moc jest dodatkowo wzmacniana przez duże emitery psioniczne.",
     "feature_unlocks": [
-      "<b>Component</b>: Small Psionic Shield",
-      "<b>Component</b>: Medium Psionic Shield",
-      "<b>Component</b>: Large Psionic Shield"
+      "<b>Komponent</b>: Small Psionic Shield",
+      "<b>Komponent</b>: Medium Psionic Shield",
+      "<b>Komponent</b>: Large Psionic Shield"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -663,7 +663,7 @@
     "cost": 10000,
     "description": "Zmodyfikowana genetycznie wersja bakterii krzemowych, którą da się zmusić do regenerowania materiałów nieorganicznych\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Regenerative Hull Tissue"
+      "<b>Komponent</b>: Regenerative Hull Tissue"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -716,7 +716,7 @@
     "cost": 48000,
     "description": "Analizując broń biologiczną wykorzystywaną przez rój, możemy stworzyć samobieżne pociski siejące równie potworne zniszczenia.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Large Scourge Missile"
+      "<b>Komponent</b>: Large Scourge Missile"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -739,7 +739,7 @@
     "cost": 6000,
     "description": "Chmury próżniowe wykorzystują ładunki elektryczne wytwarzane przez gęste gazy stanowiące większość ich rdzenia do wystrzeliwania strumieni gorącej plazmy. Zastosowanie gazu o tym samym składzie i specjalnych przewodów umożliwia budowę potężnej broni elektrycznej.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Cloud Lightning"
+      "<b>Komponent</b>: Cloud Lightning"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -762,7 +762,7 @@
     "cost": 3000,
     "description": "Adaptacja metody ukierunkowania energii materii gazowej używanej przez tijanki pozwoli stworzyć broń wysysającą życie ze statków wroga.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Energy Siphon"
+      "<b>Komponent</b>: Energy Siphon"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -785,7 +785,7 @@
     "cost": 48000,
     "description": "Zbieranie okazów zabitych pretorynów pozwala nam klonować i genetycznie programować nasz własny rój bojowy.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Swarm Strikers"
+      "<b>Komponent</b>: Swarm Strikers"
     ],
     "is_dangerous": false,
     "is_rare": true,

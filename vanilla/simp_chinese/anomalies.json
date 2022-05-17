@@ -8,9 +8,9 @@
     "cost": 2500,
     "description": "利用太虚的熵特性，这种光束可以真正地摧毁能量。",
     "feature_unlocks": [
-      "<b>Component</b>: Large Null Void Beam",
-      "<b>Component</b>: Medium Null Void Beam",
-      "<b>Component</b>: Small Null Void Beam"
+      "<b>组件</b>: Large Null Void Beam",
+      "<b>组件</b>: Medium Null Void Beam",
+      "<b>组件</b>: Small Null Void Beam"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -150,7 +150,7 @@
     "cost": 6000,
     "description": "通过饲养太空变形虫，我们可以修改基因让它们的鞭毛成为我们军队的攻击机。",
     "feature_unlocks": [
-      "<b>Component</b>: Amoeba Flagella"
+      "<b>组件</b>: Amoeba Flagella"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -173,7 +173,7 @@
     "cost": 48000,
     "description": "一束定向的快子能量被注入到这颗恒星，引发了一次超新星爆炸。这次事件释放的巨额能量被用来产生足量的暗物质。\\n\\n当恒星被引爆时，恒星系内包括我方在内的所有殖民地，巨型结构和空间站都会被摧毁。只有焚天神兵能够幸免遇难。§!",
     "feature_unlocks": [
-      "<b>Component</b>: Star Cracker"
+      "<b>组件</b>: Star Cracker"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -200,9 +200,9 @@
     "cost": 6000,
     "description": "灌注水晶的镀层可使船体更加耐用。",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Crystal-Infused Plating",
-      "<b>Component</b>: Large Crystal-Infused Plating",
-      "<b>Component</b>: Small Crystal-Infused Plating"
+      "<b>组件</b>: Medium Crystal-Infused Plating",
+      "<b>组件</b>: Large Crystal-Infused Plating",
+      "<b>组件</b>: Small Crystal-Infused Plating"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -227,9 +227,9 @@
     "cost": 16000,
     "description": "锻造时加入水晶材料，则合金硬度更上一层楼。",
     "feature_unlocks": [
-      "<b>Component</b>: Large Crystal-Forged Plating",
-      "<b>Component</b>: Small Crystal-Forged Plating",
-      "<b>Component</b>: Medium Crystal-Forged Plating"
+      "<b>组件</b>: Large Crystal-Forged Plating",
+      "<b>组件</b>: Small Crystal-Forged Plating",
+      "<b>组件</b>: Medium Crystal-Forged Plating"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -252,9 +252,9 @@
     "cost": 50000,
     "description": "以太龙麟由多层独特矿物质纳米结构构成，具自我修复能力。采用非常规制造手段能够让我们精确仿制出这些能够自我修复的结构。",
     "feature_unlocks": [
-      "<b>Component</b>: Large Dragonscale Armor",
-      "<b>Component</b>: Medium Dragonscale Armor",
-      "<b>Component</b>: Small Dragonscale Armor"
+      "<b>组件</b>: Large Dragonscale Armor",
+      "<b>组件</b>: Medium Dragonscale Armor",
+      "<b>组件</b>: Small Dragonscale Armor"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -307,7 +307,7 @@
     "cost": 50000,
     "description": "虽然神秘解码器在标准测试中表现平平，但目标的战斗路径越不规则，该编码器预测算法的准确度似乎就越高。",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Decoder"
+      "<b>组件</b>: Enigmatic Decoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -330,7 +330,7 @@
     "cost": 50000,
     "description": "神秘编码器在将战斗路径数据返回舰队指挥中心前，会根据某种未知的法则对数据进行加密。",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Encoder"
+      "<b>组件</b>: Enigmatic Encoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -353,9 +353,9 @@
     "cost": 48000,
     "description": "在低次元中使用第五维的能量操纵原理，可以造就强大的能量武器。",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Matter Disintegrator",
-      "<b>Component</b>: Small Matter Disintegrator",
-      "<b>Component</b>: Large Matter Disintegrator"
+      "<b>组件</b>: Medium Matter Disintegrator",
+      "<b>组件</b>: Small Matter Disintegrator",
+      "<b>组件</b>: Large Matter Disintegrator"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -482,8 +482,8 @@
     "cost": 5000,
     "description": "使用高度聚焦透镜结合振荡发射频率来创造出足够开采小行星或击落敌人的激光。",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Cutting Laser",
-      "<b>Component</b>: Small Cutting Laser"
+      "<b>组件</b>: Medium Cutting Laser",
+      "<b>组件</b>: Small Cutting Laser"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -506,7 +506,7 @@
     "cost": 48000,
     "description": "在拾荒者机器人的残骸里发现了一种高效的船壳自动维修系统，由数十亿个微型纳米机器人组成，并已改造成可为我们所用。至于拾荒者是从远古残骸中夺取了这个系统，还是原本就自带该系统则不得而知。",
     "feature_unlocks": [
-      "<b>Component</b>: Nanite Repair System"
+      "<b>组件</b>: Nanite Repair System"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -553,7 +553,7 @@
     "cost": 8000,
     "description": "这种轨道轰炸管理系统将会向目标星球同时发射上百万高速小型投射物，籍此试图用垃圾信息过载该星球的防卫系统。装有该装置的船只在进行轨道轰炸时，将会造成更多伤害。",
     "feature_unlocks": [
-      "<b>Component</b>: Orbital Trash Disperser"
+      "<b>组件</b>: Orbital Trash Disperser"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -599,9 +599,9 @@
     "cost": 8000,
     "description": "这种屏障是由一群灵能专家用纯粹的灵能生成的。它可以阻挡一些敌方火力，就像我们的偏导护盾系统一样，不过无需耗费大量的能量。",
     "feature_unlocks": [
-      "<b>Component</b>: Large Psionic Barrier",
-      "<b>Component</b>: Small Psionic Barrier",
-      "<b>Component</b>: Medium Psionic Barrier"
+      "<b>组件</b>: Large Psionic Barrier",
+      "<b>组件</b>: Small Psionic Barrier",
+      "<b>组件</b>: Medium Psionic Barrier"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -631,9 +631,9 @@
     "cost": 48000,
     "description": "这种强大无比的护盾是由一群精英灵能专家使用纯粹的灵能之力生成的。护盾经由大型灵能发射阵列强化后，能量进一步提升。",
     "feature_unlocks": [
-      "<b>Component</b>: Small Psionic Shield",
-      "<b>Component</b>: Medium Psionic Shield",
-      "<b>Component</b>: Large Psionic Shield"
+      "<b>组件</b>: Small Psionic Shield",
+      "<b>组件</b>: Medium Psionic Shield",
+      "<b>组件</b>: Large Psionic Shield"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -663,7 +663,7 @@
     "cost": 10000,
     "description": "转基因的硅基细菌可被操控进行非有机材料的再生。",
     "feature_unlocks": [
-      "<b>Component</b>: Regenerative Hull Tissue"
+      "<b>组件</b>: Regenerative Hull Tissue"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -716,7 +716,7 @@
     "cost": 48000,
     "description": "通过分析虫群使用的生物武器，我们可以造出同样可怕的自航炮弹用以传播杀伤。",
     "feature_unlocks": [
-      "<b>Component</b>: Large Scourge Missile"
+      "<b>组件</b>: Large Scourge Missile"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -739,7 +739,7 @@
     "cost": 6000,
     "description": "虚空之云可以通过构成其核心的大部分的密集气体所产生的电荷来释放出燃烧的等离子体电弧。按照此原理，利用相同成分的气体配合上导管即可以制造出威力强大的闪电武器。",
     "feature_unlocks": [
-      "<b>Component</b>: Cloud Lightning"
+      "<b>组件</b>: Cloud Lightning"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -762,7 +762,7 @@
     "cost": 3000,
     "description": "改进缇扬奇提取气态物质的能量的方法，就有可能造出可以从敌方舰船中汲取能量的武器。",
     "feature_unlocks": [
-      "<b>Component</b>: Energy Siphon"
+      "<b>组件</b>: Energy Siphon"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -785,7 +785,7 @@
     "cost": 48000,
     "description": "从击败的索林原虫处收集样本能使我们克隆其基因并进行重编程，从而造出我们自己的战斗武器。",
     "feature_unlocks": [
-      "<b>Component</b>: Swarm Strikers"
+      "<b>组件</b>: Swarm Strikers"
     ],
     "is_dangerous": false,
     "is_rare": true,

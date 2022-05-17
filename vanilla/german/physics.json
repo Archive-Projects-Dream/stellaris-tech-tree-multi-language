@@ -35,9 +35,9 @@
           "cost": 0,
           "description": "Laser beschießen Ziele mit gebündelten Lichtstrahlen, die durch die Erzeugung enormer Hitze Schäden verursachen.",
           "feature_unlocks": [
-            "<b>Component</b>: Small Red Laser",
-            "<b>Component</b>: Medium Red Laser",
-            "<b>Component</b>: Large Red Laser"
+            "<b>Komponente</b>: Small Red Laser",
+            "<b>Komponente</b>: Medium Red Laser",
+            "<b>Komponente</b>: Large Red Laser"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -58,9 +58,9 @@
               "cost": 2500,
               "description": "Blaue Laser sind leistungsstärker als rote Laser. Ihre elektromagnetische Strahlung liegt in einer Wellenlänge, die sie für die meisten organischen Wesen blau oder violett erscheinen lässt.",
               "feature_unlocks": [
-                "<b>Component</b>: Large Blue Laser",
-                "<b>Component</b>: Medium Blue Laser",
-                "<b>Component</b>: Small Blue Laser"
+                "<b>Komponente</b>: Large Blue Laser",
+                "<b>Komponente</b>: Medium Blue Laser",
+                "<b>Komponente</b>: Small Blue Laser"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -92,9 +92,9 @@
                   "cost": 4000,
                   "description": "Ultraviolette Laser sind eine verbesserte und leistungsstärkere Version ihrer blauen Vorgänger. Diese zerstörerischen Waffen sind zielsicher und können große Schäden verursachen.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Large UV Laser",
-                    "<b>Component</b>: Small UV Laser",
-                    "<b>Component</b>: Medium UV Laser"
+                    "<b>Komponente</b>: Large UV Laser",
+                    "<b>Komponente</b>: Small UV Laser",
+                    "<b>Komponente</b>: Medium UV Laser"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -126,9 +126,9 @@
                       "cost": 8000,
                       "description": "Diese Laser haben eine kürzere Wellenlänge als UV-Laserwaffen, sind aber noch zerstörerischer.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Large X-Ray Laser",
-                        "<b>Component</b>: Small X-Ray Laser",
-                        "<b>Component</b>: Medium X-Ray Laser"
+                        "<b>Komponente</b>: Large X-Ray Laser",
+                        "<b>Komponente</b>: Small X-Ray Laser",
+                        "<b>Komponente</b>: Medium X-Ray Laser"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -160,9 +160,9 @@
                           "cost": 16000,
                           "description": "Die elektromagnetische Strahlung von Gamma-Lasern ist extrem hochfrequent. Ihr zerstörerisches Potenzial ist im Bereich der Laserwaffen unerreicht.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Gamma Laser",
-                            "<b>Component</b>: Medium Gamma Laser",
-                            "<b>Component</b>: Small Gamma Laser"
+                            "<b>Komponente</b>: Large Gamma Laser",
+                            "<b>Komponente</b>: Medium Gamma Laser",
+                            "<b>Komponente</b>: Small Gamma Laser"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -196,7 +196,7 @@
                           "cost": 20000,
                           "description": "Diese schweren Energiewaffen feuern gebündelte Partikelstrahlen ab, die schwere Schäden verursachen. Aufgrund der Größe der Emittermatrizen können sie nur in Schlachtschiffen und Titanen installiert werden.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Particle Lance"
+                            "<b>Komponente</b>: Particle Lance"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -233,7 +233,7 @@
                               "cost": 24000,
                               "description": "Eine leistungsstärkere Version der Partikel-Lanze. Diese Waffe verschießt einen Tachyon-Strahl von immenser Stärke. Wie das Vorgängermodell kann auch sie nur in Schlachtschiffen und Titanen installiert werden.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Tachyon Lance"
+                                "<b>Komponente</b>: Tachyon Lance"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -275,7 +275,7 @@
                           "cost": 12000,
                           "description": "Diese Energieprojektile bestehen aus dicht konzentrierten Protonen richten immensen Schaden am Rumpf feindlicher Schiffe an.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Proton Launchers"
+                            "<b>Komponente</b>: Proton Launchers"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -308,7 +308,7 @@
                               "cost": 20000,
                               "description": "Verbesserte Energieprojektile, deren zerstörerische Wirkung von Neutronen anstatt Protonen herrührt.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Neutron Launchers"
+                                "<b>Komponente</b>: Neutron Launchers"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -381,8 +381,8 @@
                   "cost": 5000,
                   "description": "Disruptoren feuern Hochenergiebolzen, die sich schwächend und zerstörend auf die molekularen Verbindungen auswirken, welche die Einzelatome des Ziels zusammenhalten. Sie sind in der Lage, Schilde und Panzerung zu durchdringen und so die Hülle direkt zu beschädigen.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Medium Disruptor",
-                    "<b>Component</b>: Small Disruptor"
+                    "<b>Komponente</b>: Medium Disruptor",
+                    "<b>Komponente</b>: Small Disruptor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -415,8 +415,8 @@
                       "cost": 8000,
                       "description": "Diese verbesserten Disruptoren feuern Hochenergiebolzen ab, deren Ionenpartikel für Ziele noch zerstörerischer sind.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Small Ion Disruptor",
-                        "<b>Component</b>: Medium Ion Disruptor"
+                        "<b>Komponente</b>: Small Ion Disruptor",
+                        "<b>Komponente</b>: Medium Ion Disruptor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -448,8 +448,8 @@
                           "cost": 16000,
                           "description": "Extrem hochleistungsfähige Disruptoren, deren Quantenenergie-Entladungen allem und jedem in ihrem Weg unglaubliche Schäden zufügen.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Small Phased Disruptor",
-                            "<b>Component</b>: Medium Phased Disruptor"
+                            "<b>Komponente</b>: Small Phased Disruptor",
+                            "<b>Komponente</b>: Medium Phased Disruptor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -481,7 +481,7 @@
                               "cost": 20000,
                               "description": "Leistungsstarke Waffen, die Lichtbögen aus konzentrierter Energie auf Feinde verschießen und Schiffspanzerungen und -schilde teilweise ignorieren können.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Arc Emitter"
+                                "<b>Komponente</b>: Arc Emitter"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -518,7 +518,7 @@
                                   "cost": 24000,
                                   "description": "Diese verbesserten Emitter sind mit noch besseren Fokussierlinsen ausgerüstet, was zu noch stärkeren Energieentladungen führt.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Focused Arc Emitter"
+                                    "<b>Komponente</b>: Focused Arc Emitter"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": false,
@@ -564,9 +564,9 @@
                   "cost": 5000,
                   "description": "Diese Waffen verschießen zerstörerische Hochenergie-Plasmaprojektile, die sich extrem effektiv durch Schiffspanzerungen fressen.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Medium Plasma Thrower",
-                    "<b>Component</b>: Large Plasma Thrower",
-                    "<b>Component</b>: Small Plasma Thrower"
+                    "<b>Komponente</b>: Medium Plasma Thrower",
+                    "<b>Komponente</b>: Large Plasma Thrower",
+                    "<b>Komponente</b>: Small Plasma Thrower"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -599,9 +599,9 @@
                       "cost": 8000,
                       "description": "Diese neuen Beschleuniger verschießen Hochenergie-Plasmaprojektile mit verbesserten Eindämmungsfeldern, was zu geringerem Energieverlust auf dem Weg zum Ziel resultiert.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Medium Plasma Accelerator",
-                        "<b>Component</b>: Small Plasma Accelerator",
-                        "<b>Component</b>: Large Plasma Accelerator"
+                        "<b>Komponente</b>: Medium Plasma Accelerator",
+                        "<b>Komponente</b>: Small Plasma Accelerator",
+                        "<b>Komponente</b>: Large Plasma Accelerator"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -633,9 +633,9 @@
                           "cost": 16000,
                           "description": "Diese modernsten Plasmakanonen sind voll militarisierte Versionen der älteren Plasmawerfer, die ein wenig improvisiert wirkten, und verschießen noch tödlichere Plasmaprojektile.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Plasma Cannon",
-                            "<b>Component</b>: Small Plasma Cannon",
-                            "<b>Component</b>: Medium Plasma Cannon"
+                            "<b>Komponente</b>: Large Plasma Cannon",
+                            "<b>Komponente</b>: Small Plasma Cannon",
+                            "<b>Komponente</b>: Medium Plasma Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -711,7 +711,7 @@
           "cost": 0,
           "description": "Diese Energiequelle erzeugt Energie durch Kernspaltung, produziert aber auch schädlichen Atommüll.",
           "feature_unlocks": [
-            "<b>Component</b>: Fission Reactor"
+            "<b>Komponente</b>: Fission Reactor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -732,7 +732,7 @@
               "cost": 2500,
               "description": "Die atomare Fusion erzeugt ein hohes Maß an Energie, aber ohne viele der Risiken, die mit der Kernspaltung in Verbindung gebracht werden.",
               "feature_unlocks": [
-                "<b>Component</b>: Fusion Reactor"
+                "<b>Komponente</b>: Fusion Reactor"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -763,7 +763,7 @@
                   "cost": 5000,
                   "description": "Die Fähigkeit, eine Fusionsreaktion bei relativ geringen Temperaturen ablaufen zu lassen, wird zu einer neuen Generation von Fusionsreaktoren führen.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Cold Fusion Reactor"
+                    "<b>Komponente</b>: Cold Fusion Reactor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -794,7 +794,7 @@
                       "cost": 10000,
                       "description": "Durch Nutzung der durch Materie/Antimaterie-Annihilationen produzierten Energie werden wir Energie weit effizienter erzeugen können als mit Fusion.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Antimatter Reactor"
+                        "<b>Komponente</b>: Antimatter Reactor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -825,7 +825,7 @@
                           "cost": 20000,
                           "description": "Diese Generatoren extrahieren Vakuum-Energie und stellen eine fast unerschöpfliche Energiequelle dar. Es gibt keine effizientere Methode der Energieerzeugung.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Zero Point Reactor"
+                            "<b>Komponente</b>: Zero Point Reactor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -856,7 +856,7 @@
                               "cost": 32000,
                               "description": "Der Sprungantrieb ist ein technologisches Wunder. Er zerreißt das lokale Raum-Zeit-Kontinuum und setzt es auf der Quantenebene wieder so zusammen, dass es identisch mit dem des Zielorts ist. Es scheint fast so, als würde das Schiff ohne Zeitverlust von System zu System \"springen\".",
                               "feature_unlocks": [
-                                "<b>Component</b>: Jump Drive",
+                                "<b>Komponente</b>: Jump Drive",
                                 "<b>Feature : </b>Jump Drive Travel"
                               ],
                               "is_dangerous": true,
@@ -892,7 +892,7 @@
                               "cost": 50000,
                               "description": "Diese Generatoren scheinen Energie irgendwie direkt aus der Dunklen Materie zu beziehen, wodurch mehr Energie geliefert werden kann, als es nach den Gesetzten der Physik möglich wäre.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Dark Matter Reactor"
+                                "<b>Komponente</b>: Dark Matter Reactor"
                               ],
                               "is_dangerous": false,
                               "is_rare": true,
@@ -939,7 +939,7 @@
           "cost": 0,
           "description": "$REACTOR_BOOSTER_1_DESC$",
           "feature_unlocks": [
-            "<b>Component</b>: Reactor Booster"
+            "<b>Komponente</b>: Reactor Booster"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -960,7 +960,7 @@
               "cost": 3000,
               "description": "$REACTOR_BOOSTER_2_DESC$",
               "feature_unlocks": [
-                "<b>Component</b>: Improved Reactor Booster"
+                "<b>Komponente</b>: Improved Reactor Booster"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -995,7 +995,7 @@
                   "cost": 12000,
                   "description": "$REACTOR_BOOSTER_3_DESC$",
                   "feature_unlocks": [
-                    "<b>Component</b>: Advanced Reactor Booster"
+                    "<b>Komponente</b>: Advanced Reactor Booster"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1038,7 +1038,7 @@
           "cost": 0,
           "description": "Das extradimensionale Reich des Hyperraums erstreckt sich zwischen den Schwerkraftbereichen der meisten Sterne wie die Stränge eines Spinnennetzes. Entlang dieser Hyperraumrouten sind ÜL-Flüge theoretisch möglich.",
           "feature_unlocks": [
-            "<b>Component</b>: Hyper Drive I"
+            "<b>Komponente</b>: Hyper Drive I"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1059,7 +1059,7 @@
               "cost": 5000,
               "description": "Wir haben herausgefunden, dass es im Weltraum Punkte gibt, an denen Schiffe weniger Energie aufwenden müssen, um in eine Hyperraumroute \"einzubrechen\". Dies wird zu einer neuen Generation von Hyperantrieben führen.",
               "feature_unlocks": [
-                "<b>Component</b>: Hyper Drive II",
+                "<b>Komponente</b>: Hyper Drive II",
                 "<b>Starbase Building</b>: Transit Hub"
               ],
               "is_dangerous": false,
@@ -1091,7 +1091,7 @@
                   "cost": 12000,
                   "description": "Eine neue Generation von Hyperantrieben, die sich die im Hyperraum vorhandenen Hyperraum-Strudel zunutze machen können. Dies führt zu drastisch erhöhter Antriebsleistung.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Hyper Drive III"
+                    "<b>Komponente</b>: Hyper Drive III"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1247,7 +1247,7 @@
               "cost": 4000,
               "description": "Gravitationswellenprojektor können verwendet werden, um räumlich begrenzte Bereiche zu schaffen, in denen ein sicherer Eintritt in den Hyperraum unmöglich ist. Der immense Energiebedarf und die Größe der Projektoren verbieten ihren Einsatz allerdings auf allem, was kleiner als eine Sternenbasis ist.",
               "feature_unlocks": [
-                "<b>Component</b>: FTL Inhibitor",
+                "<b>Komponente</b>: FTL Inhibitor",
                 "<b>Feature : </b>Planetary FTL Inhibitors"
               ],
               "is_dangerous": false,
@@ -1514,9 +1514,9 @@
           "cost": 0,
           "description": "Energiedeflektoren können ein beschränktes Maß an Feindbeschuss aufhalten, bevor sie sich überladen. Ihr größter Nachteil ist ihr erheblicher Energieverbrauch.",
           "feature_unlocks": [
-            "<b>Component</b>: Medium Deflectors",
-            "<b>Component</b>: Large Deflectors",
-            "<b>Component</b>: Small Deflectors"
+            "<b>Komponente</b>: Medium Deflectors",
+            "<b>Komponente</b>: Large Deflectors",
+            "<b>Komponente</b>: Small Deflectors"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1537,9 +1537,9 @@
               "cost": 3000,
               "description": "Diese verbesserten Deflektorschirme können noch mehr Beschuss absorbieren, bevor sie sich überladen.",
               "feature_unlocks": [
-                "<b>Component</b>: Large Improved Deflectors",
-                "<b>Component</b>: Medium Improved Deflectors",
-                "<b>Component</b>: Small Improved Deflectors"
+                "<b>Komponente</b>: Large Improved Deflectors",
+                "<b>Komponente</b>: Medium Improved Deflectors",
+                "<b>Komponente</b>: Small Improved Deflectors"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1569,9 +1569,9 @@
                   "cost": 6000,
                   "description": "Diese neuen Schildgeneratoren stellen die nächste Energieschirmgeneration dar und ersetzen die älteren Deflektormodelle. Sie bieten weitaus besseren Schutz.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Large Shields",
-                    "<b>Component</b>: Small Shields",
-                    "<b>Component</b>: Medium Shields"
+                    "<b>Komponente</b>: Large Shields",
+                    "<b>Komponente</b>: Small Shields",
+                    "<b>Komponente</b>: Medium Shields"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1601,9 +1601,9 @@
                       "cost": 12000,
                       "description": "Ein verbesserter Schildgenerator, der ein sogar noch stärkeres Energiefeld erzeugt. Diese Barriere kann nur mit Dauerbeschuss durchdrungen werden.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Small Advanced Shields",
-                        "<b>Component</b>: Large Advanced Shields",
-                        "<b>Component</b>: Medium Advanced Shields"
+                        "<b>Komponente</b>: Small Advanced Shields",
+                        "<b>Komponente</b>: Large Advanced Shields",
+                        "<b>Komponente</b>: Medium Advanced Shields"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1633,9 +1633,9 @@
                           "cost": 24000,
                           "description": "Diese verstärkten und gehärteten Energieschilde sind unfassbar leistungsstark. Sie bieten unübertroffenen Schutz.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Hyper Shields",
-                            "<b>Component</b>: Medium Hyper Shields",
-                            "<b>Component</b>: Small Hyper Shields"
+                            "<b>Komponente</b>: Large Hyper Shields",
+                            "<b>Komponente</b>: Medium Hyper Shields",
+                            "<b>Komponente</b>: Small Hyper Shields"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -1665,9 +1665,9 @@
                               "cost": 50000,
                               "description": "Diese Deflektoren nutzen dunkle Materie, um ankommende Projektile auf eine Weise abzulenken, die scheinbar völlig allen Naturgesetzen trotzen.",
                               "feature_unlocks": [
-                                "<b>Component</b>: Small Dark Matter Deflectors",
-                                "<b>Component</b>: Large Dark Matter Deflectors",
-                                "<b>Component</b>: Medium Dark Matter Deflectors"
+                                "<b>Komponente</b>: Small Dark Matter Deflectors",
+                                "<b>Komponente</b>: Large Dark Matter Deflectors",
+                                "<b>Komponente</b>: Medium Dark Matter Deflectors"
                               ],
                               "is_dangerous": false,
                               "is_rare": true,
@@ -1735,7 +1735,7 @@
                       "cost": 6000,
                       "description": "Diese Kondensatoren speichern überschüssige Energie, die dann im Falle eines Schildversagens schnell transferiert werden kann.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Shield Capacitor"
+                        "<b>Komponente</b>: Shield Capacitor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1811,7 +1811,7 @@
           "cost": 0,
           "description": "Angriff ist die beste Verteidigung.",
           "feature_unlocks": [
-            "<b>Component</b>: Sentinel Point-Defense"
+            "<b>Komponente</b>: Sentinel Point-Defense"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1832,7 +1832,7 @@
               "cost": 6000,
               "description": "Mehrere miteinander verbundene Verteidigungssysteme sind viel effizienter als unabhängige Gegenmaßnahmen.",
               "feature_unlocks": [
-                "<b>Component</b>: Barrier Point-Defense"
+                "<b>Komponente</b>: Barrier Point-Defense"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1862,7 +1862,7 @@
                   "cost": 16000,
                   "description": "Verbesserte Prognosen erhöhen die Zielgenauigkeit aktiver Verteidigungssysteme enorm.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Guardian Point-Defense"
+                    "<b>Komponente</b>: Guardian Point-Defense"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1951,8 +1951,8 @@
                   "cost": 3000,
                   "description": "Aktive Matrizen, die speziell auf Gefechtsaufgaben eingestellt sind, verbessern die Angriffseffizienz immens.\" # The development of active combat personalities allows combat-AI to specialize heavily in specific tasks.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Starbase Fire Control",
-                    "<b>Component</b>: Combat Computer"
+                    "<b>Komponente</b>: Starbase Fire Control",
+                    "<b>Komponente</b>: Combat Computer"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1985,7 +1985,7 @@
                       "cost": 3000,
                       "description": "Durch die Installation eines zusätzlichen Feuerkontrollsystems können unsere Schiffe erweiterte Berechnungen durchführen und so die Genauigkeit erhöhen.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Auxiliary Fire-control"
+                        "<b>Komponente</b>: Auxiliary Fire-control"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2017,8 +2017,8 @@
                       "cost": 8000,
                       "description": "Weiter verbesserte Prognose-Algorithmen ermöglichen kompetentere taktische Entscheidungsfindung im Gefecht.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Advanced Combat Computer",
-                        "<b>Component</b>: Starbase Fire Control"
+                        "<b>Komponente</b>: Advanced Combat Computer",
+                        "<b>Komponente</b>: Starbase Fire Control"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2053,7 +2053,7 @@
                           "cost": 20000,
                           "description": "Das Durchspielen von Hochintensitäts-Gefechtssimulationen mit fühlenden KIs gewährt wertvolle Einsichten in potenzielle Optimierungen von Risikobewertungsmethoden.\" # The effectiveness of Ship-AIs have proved far greater with the sensation of a fear of death.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Sapient Combat Computer"
+                            "<b>Komponente</b>: Sapient Combat Computer"
                           ],
                           "is_dangerous": true,
                           "is_rare": true,
@@ -2097,7 +2097,7 @@
                           "cost": 20000,
                           "description": "Indem wir unseren Schiffen einen eigenen halbautonomen Verstand verliehen, wird ihre Reaktionsfähigkeit im Kampf erheblich verbessert.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Autonomous Ship Intellect"
+                            "<b>Komponente</b>: Autonomous Ship Intellect"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -3083,7 +3083,7 @@
           "description": "Diese Sensoren wurden auf Gravitationsänderungen im Weltraum eingestellt, wie sie von Raumschiffen erzeugt werden.",
           "feature_unlocks": [
             "<b>Starbase Building</b>: Listening Post",
-            "<b>Component</b>: Gravitic Sensors"
+            "<b>Komponente</b>: Gravitic Sensors"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -3142,7 +3142,7 @@
               "description": "Sensoren, die von Raumschiffen hinterlassene Hyperraum-Fluktuationen erkennen können. Ihre Empfindlichkeit und Reichweite übertreffen die einer Gravitationssensormatrix.",
               "feature_unlocks": [
                 "<b>Starbase Building</b>: Black Hole Observatory",
-                "<b>Component</b>: Subspace Sensors"
+                "<b>Komponente</b>: Subspace Sensors"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -3173,7 +3173,7 @@
                   "cost": 16000,
                   "description": "Fortschrittliche Sensoren, die sich zur Entdeckung von Schiffsbewegungen selbst auf extreme Entfernung auf rotierende Tachyon-Strahlen verlassen.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Tachyon Sensors"
+                    "<b>Komponente</b>: Tachyon Sensors"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,

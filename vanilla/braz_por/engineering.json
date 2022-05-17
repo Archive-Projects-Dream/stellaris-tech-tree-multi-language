@@ -58,8 +58,8 @@
               "cost": 2000,
               "description": "Novas técnicas de fraturamento permitirão que possamos atingir bolsões de recursos geotérmicos até então inatingíveis, abaixo da crosta planetária.",
               "feature_unlocks": [
-                "£minerals£ Minerals from Starbase Constructions +10%",
-                "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                "£minerals£ Minerais das Construções de Base Estelar +10%",
+                "£minerals£ Minerais das £job_miner£ [GetMinerPlural] +20%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -89,8 +89,8 @@
                   "cost": 4000,
                   "description": "Essas sondas imensas são necessárias para acessar os ricos depósitos de minerais que podem ser encontrados perto do núcleo de um planeta.",
                   "feature_unlocks": [
-                    "£minerals£ Minerals from Starbase Constructions +10%",
-                    "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                    "£minerals£ Minerais das Construções de Base Estelar +10%",
+                    "£minerals£ Minerais das £job_miner£ [GetMinerPlural] +20%"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -120,8 +120,8 @@
                       "cost": 8000,
                       "description": "Espectrometria avançada combinada com técnicas de fragmentação e banhos químicos para explorar rapidamente depósitos de profundidade rasa e média.",
                       "feature_unlocks": [
-                        "£minerals£ Minerals from Starbase Constructions +10%",
-                        "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                        "£minerals£ Minerais das Construções de Base Estelar +10%",
+                        "£minerals£ Minerais das £job_miner£ [GetMinerPlural] +20%"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -156,8 +156,8 @@
                   "cost": 3000,
                   "description": "Processamento otimizado de minerais extraídos nos permitiram atingir novos níveis de eficiência.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Mineral Purification Plants",
-                    "<b>Edict</b>: Mining Subsidies"
+                    "<b>Building</b>: Usinas de Purificação Mineral",
+                    "<b>Edict</b>: Subsídios de Mineração"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -223,7 +223,7 @@
                           "cost": 50000,
                           "description": "Mudanças em como os depósitos minerais são avaliados com relação um ao outro levam a padrões de perfuração mais eficientes.\\n\\n",
                           "feature_unlocks": [
-                            "£minerals£ Minerals from £job£ Jobs +5%"
+                            "£minerals£ Minerais das £job£ Jobs +5%"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -262,8 +262,8 @@
               "cost": 2000,
               "description": "Usar um traje de exoesqueleto energizado aumenta a velocidade e a força do usuário. As aplicações militares são óbvias, mas ele também ajuda a eficiência laboral.\\n\\n",
               "feature_unlocks": [
-                "Army Damage +5%",
-                "£minerals£ Minerals from £job£ Jobs +5%"
+                "Dano do Exército +5%",
+                "£minerals£ Minerais das £job£ Jobs +5%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -498,7 +498,7 @@
                           "description": "Robôs altamente avançados que são mais fortes, rápidos e duráveis que a grande maioria dos orgânicos. Com seus processadores neurais evoluídos, eles são totalmente capazes de operações independentes.\\n\\n",
                           "feature_unlocks": [
                             "Robot Output +10%",
-                            "<b>Feature : </b>Synthetic Workers"
+                            "<b>Feature : </b>Trabalhadores Sintéticos"
                           ],
                           "is_dangerous": true,
                           "is_rare": true,
@@ -598,7 +598,7 @@
                   "description": "A padronização de modelos de montagem permite uma especialização aprimorada da população de drones.",
                   "feature_unlocks": [
                     "<b>Feature : </b>Robomodding",
-                    "Machine Modification Points +1"
+                    "Pontos de Modificação de Máquinas +1"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -630,7 +630,7 @@
                       "cost": 8000,
                       "description": "Estes motivadores avançados são ao mesmo tempo menores e mais rápidos que versões anteriores, permitindo que as unidades robóticas aloquem espaço adicional para subsistemas.",
                       "feature_unlocks": [
-                        "Machine Modification Points +1"
+                        "Pontos de Modificação de Máquinas +1"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -667,7 +667,7 @@
                           "cost": 16000,
                           "description": "Ao usar nanitos programáveis para ajudar na construção de novas unidades robóticas permitirá modelos mais avançados que são equipados com uma rede ainda maior de subsistemas.",
                           "feature_unlocks": [
-                            "Machine Modification Points +1"
+                            "Pontos de Modificação de Máquinas +1"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -710,7 +710,7 @@
                           "cost": 16000,
                           "description": "Modelos avançados nos permitem aumentar drasticamente a montagem de novas unidades.",
                           "feature_unlocks": [
-                            "<b>Building</b>: Machine Assembly Complex"
+                            "<b>Building</b>: Complexo de Montagem de Máquinas"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -872,7 +872,7 @@
                   "cost": 8000,
                   "description": "Nano-separadores são um novo passo revolucionário na criação de ligas, simplificando o processo de moldes enquanto aumentam a qualidade geral de produção.",
                   "feature_unlocks": [
-                    "<b>Building</b>: Alloy Nano-Plants"
+                    "<b>Building</b>: Nano-Fábricas de Ligas"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1673,9 +1673,9 @@
           "cost": 2000,
           "description": "Blindagem de casco nanocomposta reforçada pode fornecer uma camada extra de proteção que poderia ser a diferença entre a vida e a morte em uma situação de combate.\\n\\n",
           "feature_unlocks": [
-            "<b>Component</b>: Large Nanocomposite Armor",
-            "<b>Component</b>: Small Nanocomposite Armor",
-            "<b>Component</b>: Medium Nanocomposite Armor"
+            "<b>Componente</b>: Large Nanocomposite Armor",
+            "<b>Componente</b>: Small Nanocomposite Armor",
+            "<b>Componente</b>: Medium Nanocomposite Armor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1696,9 +1696,9 @@
               "cost": 2500,
               "description": "Uma combinação de diferentes metais e cerâmica que resultam em uma forte armadura, sem sacrificar a flexibilidade.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Ceramo-Metal Armor",
-                "<b>Component</b>: Large Ceramo-Metal Armor",
-                "<b>Component</b>: Small Ceramo-Metal Armor"
+                "<b>Componente</b>: Medium Ceramo-Metal Armor",
+                "<b>Componente</b>: Large Ceramo-Metal Armor",
+                "<b>Componente</b>: Small Ceramo-Metal Armor"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1808,9 +1808,9 @@
                   "cost": 5000,
                   "description": "Açoplástico é um material elástico que combina muitas das qualidades dos plásticos e do metal. É relativamente barato de produzir e pode ser usado para melhorar a armadura de uma nave.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Plasteel Armor",
-                    "<b>Component</b>: Medium Plasteel Armor",
-                    "<b>Component</b>: Large Plasteel Armor"
+                    "<b>Componente</b>: Small Plasteel Armor",
+                    "<b>Componente</b>: Medium Plasteel Armor",
+                    "<b>Componente</b>: Large Plasteel Armor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1840,9 +1840,9 @@
                       "cost": 10000,
                       "description": "Este material forte, porém flexível é capaz de suportar castigos pesados. Ele serve bem como armadura para naves.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Large Durasteel Armor",
-                        "<b>Component</b>: Small Durasteel Armor",
-                        "<b>Component</b>: Medium Durasteel Armor"
+                        "<b>Componente</b>: Large Durasteel Armor",
+                        "<b>Componente</b>: Small Durasteel Armor",
+                        "<b>Componente</b>: Medium Durasteel Armor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1872,9 +1872,9 @@
                           "cost": 20000,
                           "description": "Esse material incrivelmente denso e forte pode resistir poder de fogo que transformaria armaduras feitas de qualquer outra liga em sucata.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Small Neutronium Armor",
-                            "<b>Component</b>: Large Neutronium Armor",
-                            "<b>Component</b>: Medium Neutronium Armor"
+                            "<b>Componente</b>: Small Neutronium Armor",
+                            "<b>Componente</b>: Large Neutronium Armor",
+                            "<b>Componente</b>: Medium Neutronium Armor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -1948,7 +1948,7 @@
           "cost": 0,
           "description": "Baterias de fogo que disparam estilhaços a curta distância. Elas são especialmente letais contra naves de ataque inimigas, mas também podem se defender contra mísseis.",
           "feature_unlocks": [
-            "<b>Component</b>: Flak Battery"
+            "<b>Componente</b>: Flak Battery"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1969,7 +1969,7 @@
               "cost": 6000,
               "description": "Baterias de fogo aprimoradas com balas de estilhaços novas e mais poderosas.",
               "feature_unlocks": [
-                "<b>Component</b>: Flak Cannons"
+                "<b>Componente</b>: Flak Cannons"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2001,7 +2001,7 @@
                   "cost": 16000,
                   "description": "Algoritmos de rastreamento preditivo e balas ainda mais poderosas fazem com que estas baterias sejam incrivelmente letais contra naves de ataque inimigas.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Flak Artillery"
+                    "<b>Componente</b>: Flak Artillery"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2041,7 +2041,7 @@
           "cost": 0,
           "description": "Propulsores químicos simples, porém eficazes, que confiam em combustíveis explosivos para funcionar.\\n\\n",
           "feature_unlocks": [
-            "<b>Component</b>: Chemical Thrusters"
+            "<b>Componente</b>: Chemical Thrusters"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2062,7 +2062,7 @@
               "cost": 2500,
               "description": "Estes propulsores poderosos produzem velocidade adicional de combate, mas consomem muita energia.",
               "feature_unlocks": [
-                "<b>Component</b>: Afterburners"
+                "<b>Componente</b>: Afterburners"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2094,7 +2094,7 @@
                   "cost": 10000,
                   "description": "Esta versão aprimorada dos pós-combustores tradicionais fornecem ainda mais potência à velocidade de combate de uma nave.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Advanced Afterburners"
+                    "<b>Componente</b>: Advanced Afterburners"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2134,7 +2134,7 @@
               "cost": 4000,
               "description": "Estes propulsores elétricos utilizam raios de íons para gerar propulsão sem a necessidade de combustão.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Ion Thrusters"
+                "<b>Componente</b>: Ion Thrusters"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2165,7 +2165,7 @@
                   "cost": 8000,
                   "description": "Uma forma avançada de propulsão elétrica, propulsores de plasma concedem às naves maiores velocidades abaixo da luz e manobrabilidade.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Plasma Thrusters"
+                    "<b>Componente</b>: Plasma Thrusters"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2196,7 +2196,7 @@
                       "cost": 16000,
                       "description": "Estes propulsores por fusão altamente avançados concedem às naves manobrabilidade e velocidade inigualáveis em condições abaixo da luz.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Impulse Thrusters"
+                        "<b>Componente</b>: Impulse Thrusters"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2227,7 +2227,7 @@
                           "cost": 50000,
                           "description": "Estes propulsores de nave utilizam tecnologia de Matéria Escura para gerar propulsão de uma maneira que parece desafiar diversas leis da física.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Dark Matter Thrusters"
+                            "<b>Componente</b>: Dark Matter Thrusters"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -2271,7 +2271,7 @@
           "cost": 0,
           "description": "Mísseis espaço-espaço equipados com ogivas nucleares de alto rendimento. Apesar de serem baseados em tecnologia antiga, pré-espacial, essas armas brutas 'dispare e esqueça' podem ser surpreendentemente eficazes a uma certa distância.\\n\\n",
           "feature_unlocks": [
-            "<b>Component</b>: Nuclear Missiles",
+            "<b>Componente</b>: Nuclear Missiles",
             "<b>Starbase Module</b>: Missile Battery"
           ],
           "is_dangerous": false,
@@ -2293,7 +2293,7 @@
               "cost": 2500,
               "description": "Esses mísseis atualizados espaço-espaço possuem ogivas de fusão mais poderosas e desempenho de voo aprimorado.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Fusion Missiles"
+                "<b>Componente</b>: Fusion Missiles"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2330,7 +2330,7 @@
                   "cost": 4000,
                   "description": "Mísseis avançados equipados com poderosas ogivas antimatéria. Um novo e melhorado sistema de direcionamento concede a elas uma melhor chance de encontrar os alvos.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Antimatter Missiles"
+                    "<b>Componente</b>: Antimatter Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2362,7 +2362,7 @@
                       "cost": 8000,
                       "description": "A versão mais recente de mísseis espaço-espaço, essa variação aprimorada possui uma ogiva imensamente poderosa que retira a sua energia a partir do vácuo de ponto zero.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Quantum Missiles"
+                        "<b>Componente</b>: Quantum Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2394,7 +2394,7 @@
                           "cost": 20000,
                           "description": "Esses mísseis altamente avançados são equipados com um número limitado de pilotos de bordo IA que melhoram substancialmente seu desempenho e capacidade de rastrear alvos. \\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Marauder Missiles"
+                            "<b>Componente</b>: Marauder Missiles"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2494,7 +2494,7 @@
                   "cost": 5000,
                   "description": "Esses mísseis menores são lançados em rajadas e foram desenvolvidos especialmente para sobrecarregar os sistemas de defesa pontual inimigos.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Swarmer Missiles"
+                    "<b>Componente</b>: Swarmer Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2526,7 +2526,7 @@
                       "cost": 20000,
                       "description": "Novas técnicas de miniaturização permitem que equipemos mísseis enxame com ogivas mais poderosas e desempenho de voo aprimorado.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Whirlwind Missiles"
+                        "<b>Componente</b>: Whirlwind Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2566,7 +2566,7 @@
               "cost": 5000,
               "description": "Esses torpedos são essencialmente mísseis muito grandes e lentos. Eles são equipados com ogivas mais poderosas e moduladores de escudo que permitem que passem diretamente por escudos energéticos.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Space Torpedoes"
+                "<b>Componente</b>: Space Torpedoes"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2598,7 +2598,7 @@
                   "cost": 10000,
                   "description": "Torpedos espaciais aprimorados envoltos em blindagem, para resistir melhor o fogo das defesas pontuais inimigas. A blindagem se fragmenta em estilhaços que causam dano adicional quando o torpedo detona.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Armored Torpedoes"
+                    "<b>Componente</b>: Armored Torpedoes"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2630,7 +2630,7 @@
                       "cost": 20000,
                       "description": "Torpedos avançados com ogivas muito poderosas. Eles possuem um projeto mais suave, motores mais rápidos e moduladores de escudo aprimorados para passarem por escudos energéticos.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Devastator Torpedoes"
+                        "<b>Componente</b>: Devastator Torpedoes"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2674,9 +2674,9 @@
           "description": "Estes lançadores de projéteis eletromagnéticos em altas velocidades usam ímãs para acelerar balas que perfuram armaduras, em direção a alvos.\\n\\n",
           "feature_unlocks": [
             "<b>Starbase Module</b>: Gun Battery",
-            "<b>Component</b>: Small Mass Driver",
-            "<b>Component</b>: Large Mass Driver",
-            "<b>Component</b>: Medium Mass Driver"
+            "<b>Componente</b>: Small Mass Driver",
+            "<b>Componente</b>: Large Mass Driver",
+            "<b>Componente</b>: Medium Mass Driver"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2697,9 +2697,9 @@
               "cost": 2500,
               "description": "Eles são versões mais poderosas das primeiras catapultas eletromagnéticas, usando bobinas eletromagnéticas para acelerar rapidamente os projéteis em direção aos alvos.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Coilgun",
-                "<b>Component</b>: Large Coilgun",
-                "<b>Component</b>: Small Coilgun"
+                "<b>Componente</b>: Medium Coilgun",
+                "<b>Componente</b>: Large Coilgun",
+                "<b>Componente</b>: Small Coilgun"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2731,9 +2731,9 @@
                   "cost": 4000,
                   "description": "O mais recente em aceleradores eletromagnéticos, canhões eletromagnéticos utilizam trilhos paralelos para disparar projéteis a velocidades incríveis.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Railgun",
-                    "<b>Component</b>: Large Railgun",
-                    "<b>Component</b>: Medium Railgun"
+                    "<b>Componente</b>: Small Railgun",
+                    "<b>Componente</b>: Large Railgun",
+                    "<b>Componente</b>: Medium Railgun"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2765,9 +2765,9 @@
                       "cost": 8000,
                       "description": "Uma nova versão do venerável canhão eletromagnético, com trilhos mais resistentes e um fornecimento de energia aumentado. Essas armas são mais poderosas e precisas que os seus predecessores.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Medium Advanced Railgun",
-                        "<b>Component</b>: Large Advanced Railgun",
-                        "<b>Component</b>: Small Advanced Railgun"
+                        "<b>Componente</b>: Medium Advanced Railgun",
+                        "<b>Componente</b>: Large Advanced Railgun",
+                        "<b>Componente</b>: Small Advanced Railgun"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2799,7 +2799,7 @@
                           "cost": 12000,
                           "description": "Artilharia de muito longo alcance, capaz de lançar balas poderosas a distâncias extremas com um alto grau de precisão.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Kinetic Battery"
+                            "<b>Componente</b>: Kinetic Battery"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2831,7 +2831,7 @@
                               "cost": 20000,
                               "description": "Um canhão de atilharia para naves de longo alcance e ainda mais poderoso, equipado com um novo barril e um computador para controle de fogo atualizado.\\n\\n",
                               "feature_unlocks": [
-                                "<b>Component</b>: Kinetic Artillery"
+                                "<b>Componente</b>: Kinetic Artillery"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2873,7 +2873,7 @@
                           "cost": 20000,
                           "description": "Um enorme canhão acelerador de massa que efetua disparos monstruosamente poderosos a grandes distâncias e só pode ser montado sobre uma estrutura vertebral.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Mega Cannon"
+                            "<b>Componente</b>: Mega Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2910,7 +2910,7 @@
                               "cost": 24000,
                               "description": "Um canhão acelerador de massa ainda mais poderoso que consegue perfurar até mesmo os escudos mais duros.\\n\\n",
                               "feature_unlocks": [
-                                "<b>Component</b>: Giga Cannon"
+                                "<b>Componente</b>: Giga Cannon"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2952,9 +2952,9 @@
                           "cost": 16000,
                           "description": "Essa versão atualizada do antigo projeto do Canhão de Bobina é até mais destrutivo que os últimos canhões eletromagnéticos. É capaz de lançar projéteis com precisão e velocidade incríveis.\\n\\n",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Gauss Cannon",
-                            "<b>Component</b>: Medium Gauss Cannon",
-                            "<b>Component</b>: Small Gauss Cannon"
+                            "<b>Componente</b>: Large Gauss Cannon",
+                            "<b>Componente</b>: Medium Gauss Cannon",
+                            "<b>Componente</b>: Small Gauss Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3054,7 +3054,7 @@
                   "cost": 5000,
                   "description": "Armas balísticas de grande calibre que disparam balas explosivas encapsuladas. A maior vantagem desses canhões é a alta taxa de disparos.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Autocannon"
+                    "<b>Componente</b>: Autocannon"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3087,7 +3087,7 @@
                       "cost": 8000,
                       "description": "Esses canhões giratórios automáticos atualizados possuem sistemas de rastreamento e controle de fogo aperfeiçoados. Isso permite que eles mantenham uma taxa de disparos maior ainda.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Ripper Autocannon"
+                        "<b>Componente</b>: Ripper Autocannon"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3119,7 +3119,7 @@
                           "cost": 16000,
                           "description": "Canhões giratórios automáticos avançados capazes de lançar uma nuvem de balas de alto poder explosivo a um alvo.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Stormfire Autocannon"
+                            "<b>Componente</b>: Stormfire Autocannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3186,7 +3186,7 @@
               "cost": 3000,
               "description": "Essas naves tripuladas de pequeno alcance são lançadas de uma nave mãe e dependem da sua velocidade e pequeno tamanho para sobreviver o bastante para conseguir perfurar as defesas inimigas.\\n\\n",
               "feature_unlocks": [
-                "<b>Component</b>: Basic Strike Craft",
+                "<b>Componente</b>: Basic Strike Craft",
                 "<b>Starbase Module</b>: Hangar Bay"
               ],
               "is_dangerous": false,
@@ -3217,7 +3217,7 @@
                   "cost": 6000,
                   "description": "A próxima geração de naves de ataque, com melhor aviônica, dirigibilidade e armamento mais poderoso.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Improved Strike Craft"
+                    "<b>Componente</b>: Improved Strike Craft"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3247,7 +3247,7 @@
                       "cost": 12000,
                       "description": "Um refinamento no projeto de nave de ataque, esses caças e bombardeiros são o sonho de um piloto. Seu desempenho excede e muito a de modelos anteriores.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Advanced Strike Craft"
+                        "<b>Componente</b>: Advanced Strike Craft"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -4035,8 +4035,8 @@
                           "feature_unlocks": [
                             "<b>Ship Size</b>: Titan",
                             "Fleet Command Limit +10",
-                            "<b>Component</b>: Ion Cannon",
-                            "<b>Component</b>: Perdition Beam",
+                            "<b>Componente</b>: Ion Cannon",
+                            "<b>Componente</b>: Perdition Beam",
                             "<b>Starbase Upgrade</b>: Ion Cannon"
                           ],
                           "is_dangerous": false,
@@ -4176,7 +4176,7 @@
                                   "cost": 48000,
                                   "description": "Uma nuvem de radiação neutrônica acelerada \"pinta\" a superfície do planeta, degradando severamente a maioria dos materiais e destruindo diretamente o tecido biológico.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Neutron Sweep"
+                                    "<b>Componente</b>: Neutron Sweep"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4216,7 +4216,7 @@
                                   "cost": 48000,
                                   "description": "Um campo de blindagem é posicionado ao redor de um planeta, criando uma barreira permanente e impenetrável (exceto por alguns comprimentos de onda e luz).",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Global Pacifier"
+                                    "<b>Componente</b>: Global Pacifier"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4254,7 +4254,7 @@
                                   "cost": 48000,
                                   "description": "Um catalisador arcano que amplifica certos comprimentos de onda psiônicos, capazes de induzir alucinações (experiências religiosas) em cérebros biológicos, e uma interrupção severa (morte cerebral) em cérebros elétricos.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Divine Enforcer"
+                                    "<b>Componente</b>: Divine Enforcer"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4293,7 +4293,7 @@
                                   "cost": 48000,
                                   "description": "Uma alimentação direta de energia térmica superaquece a atmosfera e agita o núcleo do planeta, desencadeando eventos tectônicos desastrosos. Uma explosão concussiva final é lançada, rachando o planeta ao meio.",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: World Cracker"
+                                    "<b>Componente</b>: World Cracker"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4331,7 +4331,7 @@
                                   "cost": 48000,
                                   "description": "Difusor de Nano Robôs",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Nanobot Diffuser"
+                                    "<b>Componente</b>: Nanobot Diffuser"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4670,8 +4670,8 @@
                           "cost": 20000,
                           "description": "Estabelecer novos padrões para como projetamos e construímos encouraçados massivos, melhora imensamente a velocidade com a qual eles são montados.",
                           "feature_unlocks": [
-                            "Battleship Build Cost -5%",
-                            "Battleship Build Speed +25%"
+                            "Custo de Construção de Encouraçado -5%",
+                            "Velocidade de Construção de Encouraçado +25%"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,

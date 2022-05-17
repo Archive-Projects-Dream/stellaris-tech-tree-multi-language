@@ -4519,7 +4519,7 @@
                   "cost": 20000,
                   "description": "Rozwój psioniki pozwala przypuszczać, że możliwe jest stworzenie komputerów bojowych, które potrafiłyby odczytywać i analizować impulsy psioników, zanim ci świadomie o czymś pomyślą.\\n\\n",
                   "feature_unlocks": [
-                    "<b>Component</b>: Precognitive Interface"
+                    "<b>Komponent</b>: Precognitive Interface"
                   ],
                   "is_dangerous": false,
                   "is_rare": true,
@@ -4558,7 +4558,7 @@
                       "cost": 40000,
                       "description": "Psioniczny napęd przeskokowy wykorzystuje energie psi emitowane przez załogę do przepchnięcia statku przez osnowę rzeczywistości, dzięki czemu jednostka natychmiast \"przeskakuje\" duże odległości.\\n\\n",
                       "feature_unlocks": [
-                        "<b>Component</b>: Psi Jump Drive",
+                        "<b>Komponent</b>: Psi Jump Drive",
                         "<b>Feature : </b>Jump Drive Travel"
                       ],
                       "is_dangerous": true,

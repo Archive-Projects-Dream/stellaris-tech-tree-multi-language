@@ -8,9 +8,9 @@
     "cost": 2500,
     "description": "Если обуздать энтропическую природу нулевой пустоты, этот луч вообще-то может уничтожать энергию.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Null Void Beam",
-      "<b>Component</b>: Medium Null Void Beam",
-      "<b>Component</b>: Small Null Void Beam"
+      "<b>Компонент</b>: Large Null Void Beam",
+      "<b>Компонент</b>: Medium Null Void Beam",
+      "<b>Компонент</b>: Small Null Void Beam"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -77,7 +77,7 @@
         "cost": 10000,
         "description": "Когда временной парадокс становится запутанным, зарождается некое сознание со своими потребностями и желаниями. Именно так и возникла сущность, которую некоторые называют Червем Ожидающим. Если мы наладим с ним контакт, то, возможно, достигнем чего-то вроде бессмертия.",
         "feature_unlocks": [
-          "<b>Building</b>: Omega Alignment"
+          "<b>Соружение</b>: Omega Alignment"
         ],
         "is_dangerous": false,
         "is_rare": true,
@@ -115,7 +115,7 @@
     "cost": 10000,
     "description": "Когда временной парадокс становится запутанным, зарождается некое сознание со своими потребностями и желаниями. Именно так и возникла сущность, которую некоторые называют Червем Ожидающим. Если мы наладим с ним контакт, то, возможно, достигнем чего-то вроде бессмертия.",
     "feature_unlocks": [
-      "<b>Building</b>: Omega Alignment"
+      "<b>Соружение</b>: Omega Alignment"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -150,7 +150,7 @@
     "cost": 6000,
     "description": "Разводя космических амеб в неволе, мы можем программировать их симбиотические жгутики на действия в качестве штурмовиков в наших флотилиях.",
     "feature_unlocks": [
-      "<b>Component</b>: Amoeba Flagella"
+      "<b>Компонент</b>: Amoeba Flagella"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -173,7 +173,7 @@
     "cost": 48000,
     "description": "В звезду направлен луч тахионной энергии, провоцирующий взрыв сверхновой. Высвобожденная при этом колоссальная энергия затем используется для производства большого количества тёмной материи.\\n\\nПри взрыве звезды ВСЕ колонии, мегасооружения и станции в системе уничтожаются, в том числе и ваши. Все корабли в системе перейдут в статус пропавших в бою. Единственным исключением является сам Пожиратель звёзд.§!",
     "feature_unlocks": [
-      "<b>Component</b>: Star Cracker"
+      "<b>Компонент</b>: Star Cracker"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -200,9 +200,9 @@
     "cost": 6000,
     "description": "Добавление в броню кристаллического вещества позволяет нарастить прочность защитной обшивки наших кораблей.",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Crystal-Infused Plating",
-      "<b>Component</b>: Large Crystal-Infused Plating",
-      "<b>Component</b>: Small Crystal-Infused Plating"
+      "<b>Компонент</b>: Medium Crystal-Infused Plating",
+      "<b>Компонент</b>: Large Crystal-Infused Plating",
+      "<b>Компонент</b>: Small Crystal-Infused Plating"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -227,9 +227,9 @@
     "cost": 16000,
     "description": "Введение кристаллического вещества в процесс ковки еще больше повышает сверхпрочность металлов с внедренными кристаллами.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Crystal-Forged Plating",
-      "<b>Component</b>: Small Crystal-Forged Plating",
-      "<b>Component</b>: Medium Crystal-Forged Plating"
+      "<b>Компонент</b>: Large Crystal-Forged Plating",
+      "<b>Компонент</b>: Small Crystal-Forged Plating",
+      "<b>Компонент</b>: Medium Crystal-Forged Plating"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -252,9 +252,9 @@
     "cost": 50000,
     "description": "Чешуя эфирного дракона состоит из множества слоев уникальных минеральных наноструктур. Нестандартные методы производства позволяют нам довольно хорошо имитировать эти самовосстанавливающиеся структуры.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Dragonscale Armor",
-      "<b>Component</b>: Medium Dragonscale Armor",
-      "<b>Component</b>: Small Dragonscale Armor"
+      "<b>Компонент</b>: Large Dragonscale Armor",
+      "<b>Компонент</b>: Medium Dragonscale Armor",
+      "<b>Компонент</b>: Small Dragonscale Armor"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -307,7 +307,7 @@
     "cost": 50000,
     "description": "Загадочный шифратор демонстрирует посредственные результаты в стандартных испытаниях, но, чем хаотичнее маршрут движения цели, тем точнее его прогнозирующие алгоритмы.",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Decoder"
+      "<b>Компонент</b>: Enigmatic Decoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -330,7 +330,7 @@
     "cost": 50000,
     "description": "Загадочный шифратор случайным образом зашифровывает данные о маршруте полета перед отправкой их в командование флота.",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Encoder"
+      "<b>Компонент</b>: Enigmatic Encoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -353,9 +353,9 @@
     "cost": 48000,
     "description": "Применение принципов пятимерного управления энергией на плоскостях меньшей мерности позволяет создать мощное энергетическое оружие.",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Matter Disintegrator",
-      "<b>Component</b>: Small Matter Disintegrator",
-      "<b>Component</b>: Large Matter Disintegrator"
+      "<b>Компонент</b>: Medium Matter Disintegrator",
+      "<b>Компонент</b>: Small Matter Disintegrator",
+      "<b>Компонент</b>: Large Matter Disintegrator"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -482,8 +482,8 @@
     "cost": 5000,
     "description": "Использование линз с жесткой фокусировкой в сочетании с переменной частотой стрельбы помогает создавать лазеры с мощностью, достаточной для проведения горных работ на астероидах или сбивания врагов.",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Cutting Laser",
-      "<b>Component</b>: Small Cutting Laser"
+      "<b>Компонент</b>: Medium Cutting Laser",
+      "<b>Компонент</b>: Small Cutting Laser"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -506,7 +506,7 @@
     "cost": 48000,
     "description": "Высокоэффективная система авторемонта корпуса, состоящая из миллиардов микроскопических наномашин, была обнаружена среди дымящихся останков Мусорщика и переделана под наши цели. То ли Мусорщик вытянул эту систему из каких-то древних обломков, то ли она изначально входила в его конструкцию, это нам неизвестно.",
     "feature_unlocks": [
-      "<b>Component</b>: Nanite Repair System"
+      "<b>Компонент</b>: Nanite Repair System"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -553,7 +553,7 @@
     "cost": 8000,
     "description": "Эта система управления орбитальной бомбардировкой засыпает планету миллионами высокоскоростных мелких снарядов, переполняя оборонные сети планеты мусорными данными. Корабли, оснащенные этим компонентом, будут наносить больший урон при орбитальной бомбардировке.",
     "feature_unlocks": [
-      "<b>Component</b>: Orbital Trash Disperser"
+      "<b>Компонент</b>: Orbital Trash Disperser"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -599,9 +599,9 @@
     "cost": 8000,
     "description": "Эти барьеры создаются из чистой психической энергии штатным персоналом из числа специалистов по псионике. Они способны остановить определенное количество огня противника, как и наши системы отражателей энергии, но без такого чрезмерно высокого энергопотребления.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Psionic Barrier",
-      "<b>Component</b>: Small Psionic Barrier",
-      "<b>Component</b>: Medium Psionic Barrier"
+      "<b>Компонент</b>: Large Psionic Barrier",
+      "<b>Компонент</b>: Small Psionic Barrier",
+      "<b>Компонент</b>: Medium Psionic Barrier"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -631,9 +631,9 @@
     "cost": 48000,
     "description": "Эти исключительно мощные щиты создаются из чистой экстрасенсорной энергии группой специалистов-псиоников. Их способности еще больше усиливаются массивами пси-излучателей.",
     "feature_unlocks": [
-      "<b>Component</b>: Small Psionic Shield",
-      "<b>Component</b>: Medium Psionic Shield",
-      "<b>Component</b>: Large Psionic Shield"
+      "<b>Компонент</b>: Small Psionic Shield",
+      "<b>Компонент</b>: Medium Psionic Shield",
+      "<b>Компонент</b>: Large Psionic Shield"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -663,7 +663,7 @@
     "cost": 10000,
     "description": "Генетически модифицированные бактерии на кремниевой основе в перспективе можно использовать для восстановления неорганических материалов.",
     "feature_unlocks": [
-      "<b>Component</b>: Regenerative Hull Tissue"
+      "<b>Компонент</b>: Regenerative Hull Tissue"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -716,7 +716,7 @@
     "cost": 48000,
     "description": "Анализируя биологическое оружие, используемое роем, мы можем создать самоходное кинетическое оружие, причиняющее такие же ужасные разрушения.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Scourge Missile"
+      "<b>Компонент</b>: Large Scourge Missile"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -739,7 +739,7 @@
     "cost": 6000,
     "description": "Войд-облака используют заряды, генерируемые плотными газами их ядра, чтобы высвободить сгустки горящей плазмы. Использование газа с тем же составом и со специальным проводником позволяет создать мощное оружие, поражающее с помощью разрядов молний.",
     "feature_unlocks": [
-      "<b>Component</b>: Cloud Lightning"
+      "<b>Компонент</b>: Cloud Lightning"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -762,7 +762,7 @@
     "cost": 3000,
     "description": "Адаптировав метод тиянки по перекачиванию энергии из газообразного вещества, можно создать оружие, отбирающее энергию у вражеских кораблей.",
     "feature_unlocks": [
-      "<b>Component</b>: Energy Siphon"
+      "<b>Компонент</b>: Energy Siphon"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -785,7 +785,7 @@
     "cost": 48000,
     "description": "Сбор образцов у побежденных преторианцев позволяет нам клонировать и генетически программировать собственных воинов.",
     "feature_unlocks": [
-      "<b>Component</b>: Swarm Strikers"
+      "<b>Компонент</b>: Swarm Strikers"
     ],
     "is_dangerous": false,
     "is_rare": true,

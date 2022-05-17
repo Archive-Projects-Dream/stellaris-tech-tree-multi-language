@@ -35,9 +35,9 @@
           "cost": 0,
           "description": "激光武器可以向目标发射聚焦光束，通过高热量给敌方造成伤害。",
           "feature_unlocks": [
-            "<b>Component</b>: Small Red Laser",
-            "<b>Component</b>: Medium Red Laser",
-            "<b>Component</b>: Large Red Laser"
+            "<b>组件</b>: Small Red Laser",
+            "<b>组件</b>: Medium Red Laser",
+            "<b>组件</b>: Large Red Laser"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -58,9 +58,9 @@
               "cost": 2500,
               "description": "比红色激光器更加强大，对有机生物来说，这种波长的电磁辐射看上去是蓝色或紫色的。",
               "feature_unlocks": [
-                "<b>Component</b>: Large Blue Laser",
-                "<b>Component</b>: Medium Blue Laser",
-                "<b>Component</b>: Small Blue Laser"
+                "<b>组件</b>: Large Blue Laser",
+                "<b>组件</b>: Medium Blue Laser",
+                "<b>组件</b>: Small Blue Laser"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -92,9 +92,9 @@
                   "cost": 4000,
                   "description": "紫外激光器是它的前身蓝激光器的更新强化版本。这些武器精准而充满毁灭性，可以造成巨大的杀伤。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Large UV Laser",
-                    "<b>Component</b>: Small UV Laser",
-                    "<b>Component</b>: Medium UV Laser"
+                    "<b>组件</b>: Large UV Laser",
+                    "<b>组件</b>: Small UV Laser",
+                    "<b>组件</b>: Medium UV Laser"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -126,9 +126,9 @@
                       "cost": 8000,
                       "description": "这种激光的波长较紫外线短一些，但是更具毁灭性。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Large X-Ray Laser",
-                        "<b>Component</b>: Small X-Ray Laser",
-                        "<b>Component</b>: Medium X-Ray Laser"
+                        "<b>组件</b>: Large X-Ray Laser",
+                        "<b>组件</b>: Small X-Ray Laser",
+                        "<b>组件</b>: Medium X-Ray Laser"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -160,9 +160,9 @@
                           "cost": 16000,
                           "description": "伽马激光的电磁辐射频率极高。在激光武器领域，其破坏力是无可比拟的。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Gamma Laser",
-                            "<b>Component</b>: Medium Gamma Laser",
-                            "<b>Component</b>: Small Gamma Laser"
+                            "<b>组件</b>: Large Gamma Laser",
+                            "<b>组件</b>: Medium Gamma Laser",
+                            "<b>组件</b>: Small Gamma Laser"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -196,7 +196,7 @@
                           "cost": 20000,
                           "description": "这些重型能量武器能够发射聚焦的粒子射线并造成巨幅伤害。发射阵列的规模限制了它们只能运用在战列舰和泰坦上。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Particle Lance"
+                            "<b>组件</b>: Particle Lance"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -233,7 +233,7 @@
                               "cost": 24000,
                               "description": "粒子光矛更为强力的版本，该武器发射携带有巨大能量的快子光束。和它的之前版本一样，只能运用在战列舰和泰坦上。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Tachyon Lance"
+                                "<b>组件</b>: Tachyon Lance"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -275,7 +275,7 @@
                           "cost": 12000,
                           "description": "这些能量抛射体由紧密聚集的质子组成，能够对敌方船体造成巨额伤害。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Proton Launchers"
+                            "<b>组件</b>: Proton Launchers"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -308,7 +308,7 @@
                               "cost": 20000,
                               "description": "由于中子具有毁灭性的能量，升级的能量发射物将依赖中子而非质子对敌方进行打击。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Neutron Launchers"
+                                "<b>组件</b>: Neutron Launchers"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -381,8 +381,8 @@
                   "cost": 5000,
                   "description": "裂解炮发射出的高能射束，能够同时弱化并破坏构成目标原子间的分子键。它们能够穿透护盾和护甲，对敌方的船体和船员直接造成毁灭性的打击。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Medium Disruptor",
-                    "<b>Component</b>: Small Disruptor"
+                    "<b>组件</b>: Medium Disruptor",
+                    "<b>组件</b>: Small Disruptor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -415,8 +415,8 @@
                       "cost": 8000,
                       "description": "这些升级版的裂解炮可以对目标发射出更具威力的离子流。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Small Ion Disruptor",
-                        "<b>Component</b>: Medium Ion Disruptor"
+                        "<b>组件</b>: Small Ion Disruptor",
+                        "<b>组件</b>: Medium Ion Disruptor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -448,8 +448,8 @@
                           "cost": 16000,
                           "description": "这种极限强化版的裂解炮能够发射量子能，任何被命中的目标都会承受极大的伤害。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Small Phased Disruptor",
-                            "<b>Component</b>: Medium Phased Disruptor"
+                            "<b>组件</b>: Small Phased Disruptor",
+                            "<b>组件</b>: Medium Phased Disruptor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -481,7 +481,7 @@
                               "cost": 20000,
                               "description": "该武器可以向目标发射带有混乱能量的电弧。可以在某种程度上无视装甲和护盾。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Arc Emitter"
+                                "<b>组件</b>: Arc Emitter"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -518,7 +518,7 @@
                                   "cost": 24000,
                                   "description": "这些升级后的发射器装备了更优秀的聚焦透镜，这使得它们可以发射出更加强大的能量。",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Focused Arc Emitter"
+                                    "<b>组件</b>: Focused Arc Emitter"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": false,
@@ -564,9 +564,9 @@
                   "cost": 5000,
                   "description": "可以向目标发射毁灭性的高能等离子球体的武器。这种等离子抛射体在对付大型舰船的装甲时特别有效。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Medium Plasma Thrower",
-                    "<b>Component</b>: Large Plasma Thrower",
-                    "<b>Component</b>: Small Plasma Thrower"
+                    "<b>组件</b>: Medium Plasma Thrower",
+                    "<b>组件</b>: Large Plasma Thrower",
+                    "<b>组件</b>: Small Plasma Thrower"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -599,9 +599,9 @@
                       "cost": 8000,
                       "description": "这种新的加速炮利发射具有更先进约束场的高能等离子体。这种技术可以降低等离子体向目标飞行过程中所逸散的能量。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Medium Plasma Accelerator",
-                        "<b>Component</b>: Small Plasma Accelerator",
-                        "<b>Component</b>: Large Plasma Accelerator"
+                        "<b>组件</b>: Medium Plasma Accelerator",
+                        "<b>组件</b>: Small Plasma Accelerator",
+                        "<b>组件</b>: Large Plasma Accelerator"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -633,9 +633,9 @@
                           "cost": 16000,
                           "description": "最先进的等离子武器，这种火炮是之前的升级版等离子发射器完全军事化的成果。它们的等离子抛射体更加致命。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Plasma Cannon",
-                            "<b>Component</b>: Small Plasma Cannon",
-                            "<b>Component</b>: Medium Plasma Cannon"
+                            "<b>组件</b>: Large Plasma Cannon",
+                            "<b>组件</b>: Small Plasma Cannon",
+                            "<b>组件</b>: Medium Plasma Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -711,7 +711,7 @@
           "cost": 0,
           "description": "引发核裂变为舰船提供能源，但同时也会生成有害核废料。",
           "feature_unlocks": [
-            "<b>Component</b>: Fission Reactor"
+            "<b>组件</b>: Fission Reactor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -732,7 +732,7 @@
               "cost": 2500,
               "description": "核聚变可为舰船提供大量能源，且风险小于裂变。",
               "feature_unlocks": [
-                "<b>Component</b>: Fusion Reactor"
+                "<b>组件</b>: Fusion Reactor"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -763,7 +763,7 @@
                   "cost": 5000,
                   "description": "低温核聚变技术将促进新一代舰载聚变反应堆诞生。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Cold Fusion Reactor"
+                    "<b>组件</b>: Cold Fusion Reactor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -794,7 +794,7 @@
                       "cost": 10000,
                       "description": "利用正反物质结合产生舰船能源，效率远超核聚变。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Antimatter Reactor"
+                        "<b>组件</b>: Antimatter Reactor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -825,7 +825,7 @@
                           "cost": 20000,
                           "description": "提取真空零点能是目前最高效的产能方式，可以近乎无限地供应舰船能源。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Zero Point Reactor"
+                            "<b>组件</b>: Zero Point Reactor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -856,7 +856,7 @@
                               "cost": 32000,
                               "description": "一项开创性科技奇迹，跃迁引擎可以粉碎当地的时空连续性并在量子层面上重组至与目标地点完全相同的状态，于是这艘舰船基几乎在一瞬间完成了星系间的“跃迁”。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Jump Drive",
+                                "<b>组件</b>: Jump Drive",
                                 "<b>Feature : </b>Jump Drive Travel"
                               ],
                               "is_dangerous": true,
@@ -892,7 +892,7 @@
                               "cost": 50000,
                               "description": "以某种违背物理法则的方法，直接从暗物质中汲取巨量能源，为舰船供能。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Dark Matter Reactor"
+                                "<b>组件</b>: Dark Matter Reactor"
                               ],
                               "is_dangerous": false,
                               "is_rare": true,
@@ -939,7 +939,7 @@
           "cost": 0,
           "description": "$REACTOR_BOOSTER_1_DESC$",
           "feature_unlocks": [
-            "<b>Component</b>: Reactor Booster"
+            "<b>组件</b>: Reactor Booster"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -960,7 +960,7 @@
               "cost": 3000,
               "description": "$REACTOR_BOOSTER_2_DESC$",
               "feature_unlocks": [
-                "<b>Component</b>: Improved Reactor Booster"
+                "<b>组件</b>: Improved Reactor Booster"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -995,7 +995,7 @@
                   "cost": 12000,
                   "description": "$REACTOR_BOOSTER_3_DESC$",
                   "feature_unlocks": [
-                    "<b>Component</b>: Advanced Reactor Booster"
+                    "<b>组件</b>: Advanced Reactor Booster"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1038,7 +1038,7 @@
           "cost": 0,
           "description": "就像蜘蛛网上的丝线一样，多维空间的其他维度在大多数恒星的重力井之间运动。在这些超空间航道间理论上是可以进行超光速旅行的。",
           "feature_unlocks": [
-            "<b>Component</b>: Hyper Drive I"
+            "<b>组件</b>: Hyper Drive I"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1059,7 +1059,7 @@
               "cost": 5000,
               "description": "我们已经确定太空中有能使舰船消耗更少的能源“突破”并进入一个超空间航道的点的存在。这将产生新一代的超级引擎。",
               "feature_unlocks": [
-                "<b>Component</b>: Hyper Drive II",
+                "<b>组件</b>: Hyper Drive II",
                 "<b>Starbase Building</b>: Transit Hub"
               ],
               "is_dangerous": false,
@@ -1091,7 +1091,7 @@
                   "cost": 12000,
                   "description": "新一代的超级引擎能够通过超空间中存在的亚空间滑流。这使得引擎的性能显着提高。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Hyper Drive III"
+                    "<b>组件</b>: Hyper Drive III"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1247,7 +1247,7 @@
               "cost": 4000,
               "description": "重力井投射器可以创造出局部无法安全进入超空间的区域。其能源需求与体积都十分巨大，只有恒星基地及以上等级的空间站才能安装。",
               "feature_unlocks": [
-                "<b>Component</b>: FTL Inhibitor",
+                "<b>组件</b>: FTL Inhibitor",
                 "<b>Feature : </b>Planetary FTL Inhibitors"
               ],
               "is_dangerous": false,
@@ -1514,9 +1514,9 @@
           "cost": 0,
           "description": "能量偏射屏障可在过载前化解一定敌方火力，主要缺点是能耗高。",
           "feature_unlocks": [
-            "<b>Component</b>: Medium Deflectors",
-            "<b>Component</b>: Large Deflectors",
-            "<b>Component</b>: Small Deflectors"
+            "<b>组件</b>: Medium Deflectors",
+            "<b>组件</b>: Large Deflectors",
+            "<b>组件</b>: Small Deflectors"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1537,9 +1537,9 @@
               "cost": 3000,
               "description": "升级能量偏射屏障，在过载前化解更多火力。",
               "feature_unlocks": [
-                "<b>Component</b>: Large Improved Deflectors",
-                "<b>Component</b>: Medium Improved Deflectors",
-                "<b>Component</b>: Small Improved Deflectors"
+                "<b>组件</b>: Large Improved Deflectors",
+                "<b>组件</b>: Medium Improved Deflectors",
+                "<b>组件</b>: Small Improved Deflectors"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1569,9 +1569,9 @@
                   "cost": 6000,
                   "description": "新型护盾生成器是新一代能量屏障，取代旧式能量偏转器，提供更优秀的防护能力。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Large Shields",
-                    "<b>Component</b>: Small Shields",
-                    "<b>Component</b>: Medium Shields"
+                    "<b>组件</b>: Large Shields",
+                    "<b>组件</b>: Small Shields",
+                    "<b>组件</b>: Medium Shields"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1601,9 +1601,9 @@
                       "cost": 12000,
                       "description": "升级护盾发生器以制造出更强能量场。只有持续不断的火力可以击穿此屏障。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Small Advanced Shields",
-                        "<b>Component</b>: Large Advanced Shields",
-                        "<b>Component</b>: Medium Advanced Shields"
+                        "<b>组件</b>: Small Advanced Shields",
+                        "<b>组件</b>: Large Advanced Shields",
+                        "<b>组件</b>: Medium Advanced Shields"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1633,9 +1633,9 @@
                           "cost": 24000,
                           "description": "加强、加固能源护盾，提供首屈一指的防护能力。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Hyper Shields",
-                            "<b>Component</b>: Medium Hyper Shields",
-                            "<b>Component</b>: Small Hyper Shields"
+                            "<b>组件</b>: Large Hyper Shields",
+                            "<b>组件</b>: Medium Hyper Shields",
+                            "<b>组件</b>: Small Hyper Shields"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -1665,9 +1665,9 @@
                               "cost": 50000,
                               "description": "这些偏导护盾利用暗物质以一种似乎完全违反自然规律的方式偏转来袭的炮火。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Small Dark Matter Deflectors",
-                                "<b>Component</b>: Large Dark Matter Deflectors",
-                                "<b>Component</b>: Medium Dark Matter Deflectors"
+                                "<b>组件</b>: Small Dark Matter Deflectors",
+                                "<b>组件</b>: Large Dark Matter Deflectors",
+                                "<b>组件</b>: Medium Dark Matter Deflectors"
                               ],
                               "is_dangerous": false,
                               "is_rare": true,
@@ -1735,7 +1735,7 @@
                       "cost": 6000,
                       "description": "储能电容器可用于增强舰船护盾。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Shield Capacitor"
+                        "<b>组件</b>: Shield Capacitor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1811,7 +1811,7 @@
           "cost": 0,
           "description": "进攻是最好的防御。",
           "feature_unlocks": [
-            "<b>Component</b>: Sentinel Point-Defense"
+            "<b>组件</b>: Sentinel Point-Defense"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1832,7 +1832,7 @@
               "cost": 6000,
               "description": "经验证，防御武器阵列比自主防御体系更有效。",
               "feature_unlocks": [
-                "<b>Component</b>: Barrier Point-Defense"
+                "<b>组件</b>: Barrier Point-Defense"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1862,7 +1862,7 @@
                   "cost": 16000,
                   "description": "推动预测系统进步，提升主动防御精确度。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Guardian Point-Defense"
+                    "<b>组件</b>: Guardian Point-Defense"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1951,8 +1951,8 @@
                   "cost": 3000,
                   "description": "根据特定任务主动调试矩阵，能令战斗事半功倍。\" # The development of active combat personalities allows combat-AI to specialize heavily in specific tasks.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Starbase Fire Control",
-                    "<b>Component</b>: Combat Computer"
+                    "<b>组件</b>: Starbase Fire Control",
+                    "<b>组件</b>: Combat Computer"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1985,7 +1985,7 @@
                       "cost": 3000,
                       "description": "安装辅助火控系统后，我们的舰船可以完成更加精密的计算以及准确的射击。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Auxiliary Fire-control"
+                        "<b>组件</b>: Auxiliary Fire-control"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2017,8 +2017,8 @@
                       "cost": 8000,
                       "description": "预测算法更进一步，战场决策胜人一筹。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Advanced Combat Computer",
-                        "<b>Component</b>: Starbase Fire Control"
+                        "<b>组件</b>: Advanced Combat Computer",
+                        "<b>组件</b>: Starbase Fire Control"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2053,7 +2053,7 @@
                           "cost": 20000,
                           "description": "知性人工智能在经过高强度战争模拟试验后对于风险评估技术的潜在优化有着宝贵的洞察力。\" # The effectiveness of Ship-AIs have proved far greater with the sensation of a fear of death.",
                           "feature_unlocks": [
-                            "<b>Component</b>: Sapient Combat Computer"
+                            "<b>组件</b>: Sapient Combat Computer"
                           ],
                           "is_dangerous": true,
                           "is_rare": true,
@@ -2097,7 +2097,7 @@
                           "cost": 20000,
                           "description": "赋予舰船以半自主智能，增强其战场响应能力。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Autonomous Ship Intellect"
+                            "<b>组件</b>: Autonomous Ship Intellect"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -3083,7 +3083,7 @@
           "description": "这些传感器已经过调整，可以检测太空中的任何引力变化，例如由舰船出现导致的力场扭曲波动。",
           "feature_unlocks": [
             "<b>Starbase Building</b>: Listening Post",
-            "<b>Component</b>: Gravitic Sensors"
+            "<b>组件</b>: Gravitic Sensors"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -3142,7 +3142,7 @@
               "description": "这些传感器能检测到旅行舰船启动后遗留的亚空间波动。它们的灵敏度和范围比重力传感器阵列更大。",
               "feature_unlocks": [
                 "<b>Starbase Building</b>: Black Hole Observatory",
-                "<b>Component</b>: Subspace Sensors"
+                "<b>组件</b>: Subspace Sensors"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -3173,7 +3173,7 @@
                   "cost": 16000,
                   "description": "先进的传感器依靠旋转的快子束，即使在极远距离也能检测船舶运动。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Tachyon Sensors"
+                    "<b>组件</b>: Tachyon Sensors"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,

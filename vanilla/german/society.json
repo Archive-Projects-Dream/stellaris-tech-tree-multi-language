@@ -4519,7 +4519,7 @@
                   "cost": 20000,
                   "description": "Fortschritte im Bereich der Psionik lassen darauf schließen, dass es möglich ist, Gefechtscomputer zu entwickeln, die in der Lage sind, die Impulse telepathischen Bedienungspersonals zu lesen und zu analysieren, bevor sie kognitiv verarbeitet wurden.",
                   "feature_unlocks": [
-                    "<b>Component</b>: Precognitive Interface"
+                    "<b>Komponente</b>: Precognitive Interface"
                   ],
                   "is_dangerous": false,
                   "is_rare": true,
@@ -4558,7 +4558,7 @@
                       "cost": 40000,
                       "description": "Der Psi-Sprungantrieb nutzt die Psi-Energien der Besatzung, um das Schiff direkt durch das Realitätsgefüge zu zwingen. Dadurch können große Entfernungen quasi per \"Sprung\" überbrückt werden.",
                       "feature_unlocks": [
-                        "<b>Component</b>: Psi Jump Drive",
+                        "<b>Komponente</b>: Psi Jump Drive",
                         "<b>Feature : </b>Jump Drive Travel"
                       ],
                       "is_dangerous": true,

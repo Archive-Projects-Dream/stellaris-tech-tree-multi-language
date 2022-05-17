@@ -8,9 +8,9 @@
     "cost": 2500,
     "description": "La maîtrise de la nature entropique du Vide absolu permet littéralement à ce rayon de détruire l'énergie.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Null Void Beam",
-      "<b>Component</b>: Medium Null Void Beam",
-      "<b>Component</b>: Small Null Void Beam"
+      "<b>Сomposant</b>: Large Null Void Beam",
+      "<b>Сomposant</b>: Medium Null Void Beam",
+      "<b>Сomposant</b>: Small Null Void Beam"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -150,7 +150,7 @@
     "cost": 6000,
     "description": "En élevant des amibes spatiales en captivité, nous pouvons programmer leurs flagella symbiotiques pour en faire un vaisseau d'attaque organique au service de notre flotte.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Amoeba Flagella"
+      "<b>Сomposant</b>: Amoeba Flagella"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -173,7 +173,7 @@
     "cost": 48000,
     "description": "Un rayon d'énergie tachyonique est dirigé directement sur l'étoile, faisant apparaître une supernova. L'énergie incroyable déclenchée par cet événement est alors utilisée pour générer de vastes quantités de matière noire.\\n\\nLorsque l'étoile explose, toutes les colonies, toutes les mégastructures et toutes les stations présentes dans le système sont détruites, y compris les nôtres. Toutes les flottes présentes seront portées disparues, le mange-étoiles lui-même étant la seule exception.§!",
     "feature_unlocks": [
-      "<b>Component</b>: Star Cracker"
+      "<b>Сomposant</b>: Star Cracker"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -200,9 +200,9 @@
     "cost": 6000,
     "description": "En imprégnant nos blindages de matière cristalline, nous pouvons prolonger la durée de vie des coques de protection de nos vaisseaux.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Crystal-Infused Plating",
-      "<b>Component</b>: Large Crystal-Infused Plating",
-      "<b>Component</b>: Small Crystal-Infused Plating"
+      "<b>Сomposant</b>: Medium Crystal-Infused Plating",
+      "<b>Сomposant</b>: Large Crystal-Infused Plating",
+      "<b>Сomposant</b>: Small Crystal-Infused Plating"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -227,9 +227,9 @@
     "cost": 16000,
     "description": "Introduire de la matière cristalline dans le processus de forgeage améliore les qualités ultra dures des métaux imprégnés dans du cristal.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Large Crystal-Forged Plating",
-      "<b>Component</b>: Small Crystal-Forged Plating",
-      "<b>Component</b>: Medium Crystal-Forged Plating"
+      "<b>Сomposant</b>: Large Crystal-Forged Plating",
+      "<b>Сomposant</b>: Small Crystal-Forged Plating",
+      "<b>Сomposant</b>: Medium Crystal-Forged Plating"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -252,9 +252,9 @@
     "cost": 50000,
     "description": "Les écailles du ver d'éther sont constituées de multiples couches de nanostructures minérales tout à fait uniques. Des techniques industrielles peu orthodoxes nous permettent de faire des républiques quasi parfaites de ces structures auto-réparatrice.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Dragonscale Armor",
-      "<b>Component</b>: Medium Dragonscale Armor",
-      "<b>Component</b>: Small Dragonscale Armor"
+      "<b>Сomposant</b>: Large Dragonscale Armor",
+      "<b>Сomposant</b>: Medium Dragonscale Armor",
+      "<b>Сomposant</b>: Small Dragonscale Armor"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -307,7 +307,7 @@
     "cost": 50000,
     "description": "Même s'il n'a produit que des résultats peu prometteurs lors des tests standards, la précision des prédictions de ce mystérieux décodeur semble s'accroître à mesure que le plan de vol de la cible se fait plus erratique.",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Decoder"
+      "<b>Сomposant</b>: Enigmatic Decoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -330,7 +330,7 @@
     "cost": 50000,
     "description": "Ce mystérieux encodeur brouille les données de vol selon des schémas imprévisibles, avant de les retransmettre au commandement de la flotte.",
     "feature_unlocks": [
-      "<b>Component</b>: Enigmatic Encoder"
+      "<b>Сomposant</b>: Enigmatic Encoder"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -353,9 +353,9 @@
     "cost": 48000,
     "description": "L'application des principes de manipulation énergétique en 5D aux plans dimensionnels inférieurs permet de créer de redoutables armes énergétiques.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Matter Disintegrator",
-      "<b>Component</b>: Small Matter Disintegrator",
-      "<b>Component</b>: Large Matter Disintegrator"
+      "<b>Сomposant</b>: Medium Matter Disintegrator",
+      "<b>Сomposant</b>: Small Matter Disintegrator",
+      "<b>Сomposant</b>: Large Matter Disintegrator"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -482,8 +482,8 @@
     "cost": 5000,
     "description": "La combinaison de puissantes lentilles et d'une fréquence de tir oscillante permet de créer des lasers suffisamment puissants pour exploiter les astéroïdes ou abattre les vaisseaux hostiles.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Medium Cutting Laser",
-      "<b>Component</b>: Small Cutting Laser"
+      "<b>Сomposant</b>: Medium Cutting Laser",
+      "<b>Сomposant</b>: Small Cutting Laser"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -506,7 +506,7 @@
     "cost": 48000,
     "description": "Un système extrêmement efficace d'autoréparation des coques, composé de milliards de nanomachines microscopiques a été trouvé dans les vestiges encore fumants du Trifouilleur, et réaffectés pour notre propre usage. On ne peut dire, toutefois, si le Trifouilleur a trouvé ce système sur une quelconque épave, ou s'il l'a élaboré lui-même.",
     "feature_unlocks": [
-      "<b>Component</b>: Nanite Repair System"
+      "<b>Сomposant</b>: Nanite Repair System"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -553,7 +553,7 @@
     "cost": 8000,
     "description": "Ce système de gestion des bombardements orbitaux propulse vers le monde visé des millions de projectiles minuscules à très grande vitesse, noyant les réseaux défensifs de surface de données inutiles. Les vaisseaux équipés de ce composant sont donc extrêmement efficaces pour accroître les dommages causés par les bombardements orbitaux.",
     "feature_unlocks": [
-      "<b>Component</b>: Orbital Trash Disperser"
+      "<b>Сomposant</b>: Orbital Trash Disperser"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -599,9 +599,9 @@
     "cost": 8000,
     "description": "Ces barrières sont générées à partir de l'énergie psychique pure par un collège de spécialistes du psionisme. Elles permettent d'arrêter certains feux ennemis, tout comme nos propres systèmes de déflexion, mais avec une dépense énergétique bien moins coûteuse.",
     "feature_unlocks": [
-      "<b>Component</b>: Large Psionic Barrier",
-      "<b>Component</b>: Small Psionic Barrier",
-      "<b>Component</b>: Medium Psionic Barrier"
+      "<b>Сomposant</b>: Large Psionic Barrier",
+      "<b>Сomposant</b>: Small Psionic Barrier",
+      "<b>Сomposant</b>: Medium Psionic Barrier"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -631,9 +631,9 @@
     "cost": 48000,
     "description": "Ces boucliers extrêmement puissants sont générés par l'énergie psychique pure par un petit groupe de psioniques spécialisés. Leur puissance est encore accrue par de vastes appareillages d'émetteurs psi.",
     "feature_unlocks": [
-      "<b>Component</b>: Small Psionic Shield",
-      "<b>Component</b>: Medium Psionic Shield",
-      "<b>Component</b>: Large Psionic Shield"
+      "<b>Сomposant</b>: Small Psionic Shield",
+      "<b>Сomposant</b>: Medium Psionic Shield",
+      "<b>Сomposant</b>: Large Psionic Shield"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -663,7 +663,7 @@
     "cost": 10000,
     "description": "Une version génétiquement modifiée d'une bactérie basée sur le silicone pourrait potentiellement être manipulée pour régénérer les matériaux non organiques.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Regenerative Hull Tissue"
+      "<b>Сomposant</b>: Regenerative Hull Tissue"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -716,7 +716,7 @@
     "cost": 48000,
     "description": "En analysant l'arsenal biologique utilisé par l'essaim, nous pouvons créer des armes à projectiles autopropulsés aux pouvoirs tout aussi dévastateurs.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Large Scourge Missile"
+      "<b>Сomposant</b>: Large Scourge Missile"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -739,7 +739,7 @@
     "cost": 6000,
     "description": "Les nuages spatiaux utilisent les courants électriques générés par les gaz denses dont est principalement constitué leur noyau pour libérer des éclairs de plasma en fusion. L'utilisation de la même composition gazeuse et d'un conduit spécifique créent de puissantes armes foudroyantes.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Cloud Lightning"
+      "<b>Сomposant</b>: Cloud Lightning"
     ],
     "is_dangerous": false,
     "is_rare": true,
@@ -762,7 +762,7 @@
     "cost": 3000,
     "description": "En recourant à la méthode de siphonnage de l'énergie de la matière gazeuse des Tiyanki, il est possible de fabriquer des armes capables de puiser l'énergie des vaisseaux ennemis.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Energy Siphon"
+      "<b>Сomposant</b>: Energy Siphon"
     ],
     "is_dangerous": false,
     "is_rare": false,
@@ -785,7 +785,7 @@
     "cost": 48000,
     "description": "La collecte de spécimens parmi les Préthoryns déchus nous permet de cloner et de programmer génétiquement notre propre race guerrière.\\n\\n",
     "feature_unlocks": [
-      "<b>Component</b>: Swarm Strikers"
+      "<b>Сomposant</b>: Swarm Strikers"
     ],
     "is_dangerous": false,
     "is_rare": true,

@@ -58,8 +58,8 @@
               "cost": 2000,
               "description": "新的水力压裂技术可使我们深入地壳，开采过去无法获得的地热资源。",
               "feature_unlocks": [
-                "£minerals£ Minerals from Starbase Constructions +10%",
-                "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                "£minerals£ 恒星基地建设产生的矿物 +10%",
+                "£minerals£ 矿物从 £job_miner£ [GetMinerPlural] +20%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -89,8 +89,8 @@
                   "cost": 4000,
                   "description": "借助这些大型钻机，我们可以开采接近地心附近常见的深层富矿。",
                   "feature_unlocks": [
-                    "£minerals£ Minerals from Starbase Constructions +10%",
-                    "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                    "£minerals£ 恒星基地建设产生的矿物 +10%",
+                    "£minerals£ 矿物从 £job_miner£ [GetMinerPlural] +20%"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -120,8 +120,8 @@
                       "cost": 8000,
                       "description": "用先进光谱测定法配合水力压裂技术与化学冲刷，可以快速开采浅层与中层的矿脉。",
                       "feature_unlocks": [
-                        "£minerals£ Minerals from Starbase Constructions +10%",
-                        "£minerals£ Minerals from £job_miner£ [GetMinerPlural] +20%"
+                        "£minerals£ 恒星基地建设产生的矿物 +10%",
+                        "£minerals£ 矿物从 £job_miner£ [GetMinerPlural] +20%"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -156,7 +156,7 @@
                   "cost": 3000,
                   "description": "优化开采矿物的加工流程可使我们的效率达到新的水平。",
                   "feature_unlocks": [
-                    "<b>Building</b>: Mineral Purification Plants",
+                    "<b>Building</b>: 矿物处理站",
                     "<b>Edict</b>: Mining Subsidies"
                   ],
                   "is_dangerous": false,
@@ -223,7 +223,7 @@
                           "cost": 50000,
                           "description": "评估矿物沉积的变动形式可以帮助建立更有效的钻探模式。",
                           "feature_unlocks": [
-                            "£minerals£ Minerals from £job£ Jobs +5%"
+                            "£minerals£ 矿物从 £job£ Jobs +5%"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -262,8 +262,8 @@
               "cost": 2000,
               "description": "外骨骼动力套装能增加穿戴者的力量和速度。其军事用途显而易见，但同样可以用来提升劳动效率。",
               "feature_unlocks": [
-                "Army Damage +5%",
-                "£minerals£ Minerals from £job£ Jobs +5%"
+                "陆军伤害 +5%",
+                "£minerals£ 矿物从 £job£ Jobs +5%"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -498,7 +498,7 @@
                           "description": "高级机器人，比绝大多数有机生物更强，更快，更耐用。其神经处理器有很大提高，拥有独立运作的能力。",
                           "feature_unlocks": [
                             "Robot Output +10%",
-                            "<b>Feature : </b>Synthetic Workers"
+                            "<b>Feature : </b>合成人劳力"
                           ],
                           "is_dangerous": true,
                           "is_rare": true,
@@ -598,7 +598,7 @@
                   "description": "标准化的装配模板能进一步细化机械人口的分工。",
                   "feature_unlocks": [
                     "<b>Feature : </b>Robomodding",
-                    "Machine Modification Points +1"
+                    "机械改造点数 +1"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -630,7 +630,7 @@
                       "cost": 8000,
                       "description": "这些先进的内驱程序比早先版本量级更轻，能让机器人单位为为子系统分配额外的空间。",
                       "feature_unlocks": [
-                        "Machine Modification Points +1"
+                        "机械改造点数 +1"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -667,7 +667,7 @@
                           "cost": 16000,
                           "description": "使用程控的纳米机器人辅助新机器单位的建造能够让其使用更为先进的模板并装备更好的子系统阵列。",
                           "feature_unlocks": [
-                            "Machine Modification Points +1"
+                            "机械改造点数 +1"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -710,7 +710,7 @@
                           "cost": 16000,
                           "description": "先进的装配模板系统，可以大幅提高我们装配新单位的效率。",
                           "feature_unlocks": [
-                            "<b>Building</b>: Machine Assembly Complex"
+                            "<b>Building</b>: 机械组装复合体"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -872,7 +872,7 @@
                   "cost": 8000,
                   "description": "纳米分离器乃是合金制造业改革性的新一步。大幅简化铸模过程，还能够提升总体生产质量。",
                   "feature_unlocks": [
-                    "<b>Building</b>: Alloy Nano-Plants"
+                    "<b>Building</b>: 纳米合金工厂"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1673,9 +1673,9 @@
           "cost": 2000,
           "description": "加强过的纳米装甲能够提供多一层的防护，有没有这一层防护，在战斗中可能就是生与死的区别。",
           "feature_unlocks": [
-            "<b>Component</b>: Large Nanocomposite Armor",
-            "<b>Component</b>: Small Nanocomposite Armor",
-            "<b>Component</b>: Medium Nanocomposite Armor"
+            "<b>组件</b>: Large Nanocomposite Armor",
+            "<b>组件</b>: Small Nanocomposite Armor",
+            "<b>组件</b>: Medium Nanocomposite Armor"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1696,9 +1696,9 @@
               "cost": 2500,
               "description": "不同金属和陶瓷的结合物，坚硬而又不失柔韧性。",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Ceramo-Metal Armor",
-                "<b>Component</b>: Large Ceramo-Metal Armor",
-                "<b>Component</b>: Small Ceramo-Metal Armor"
+                "<b>组件</b>: Medium Ceramo-Metal Armor",
+                "<b>组件</b>: Large Ceramo-Metal Armor",
+                "<b>组件</b>: Small Ceramo-Metal Armor"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -1808,9 +1808,9 @@
                   "cost": 5000,
                   "description": "塑钢由多种塑料和金属结合而成，富有弹性。能增加舰体强度，而且造价低廉。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Plasteel Armor",
-                    "<b>Component</b>: Medium Plasteel Armor",
-                    "<b>Component</b>: Large Plasteel Armor"
+                    "<b>组件</b>: Small Plasteel Armor",
+                    "<b>组件</b>: Medium Plasteel Armor",
+                    "<b>组件</b>: Large Plasteel Armor"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -1840,9 +1840,9 @@
                       "cost": 10000,
                       "description": "此种材料质地强韧、耐冲击，是合适的舰体材料。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Large Durasteel Armor",
-                        "<b>Component</b>: Small Durasteel Armor",
-                        "<b>Component</b>: Medium Durasteel Armor"
+                        "<b>组件</b>: Large Durasteel Armor",
+                        "<b>组件</b>: Small Durasteel Armor",
+                        "<b>组件</b>: Medium Durasteel Armor"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -1872,9 +1872,9 @@
                           "cost": 20000,
                           "description": "中子装甲密度大、质地坚，相比常规合金装甲，中子装甲能抵抗更强大火力。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Small Neutronium Armor",
-                            "<b>Component</b>: Large Neutronium Armor",
-                            "<b>Component</b>: Medium Neutronium Armor"
+                            "<b>组件</b>: Small Neutronium Armor",
+                            "<b>组件</b>: Large Neutronium Armor",
+                            "<b>组件</b>: Medium Neutronium Armor"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -1948,7 +1948,7 @@
           "cost": 0,
           "description": "高射炮可以近距离发射榴弹，这对敌人的舰载机杀伤巨大，当然也能够防御导弹。",
           "feature_unlocks": [
-            "<b>Component</b>: Flak Battery"
+            "<b>组件</b>: Flak Battery"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -1969,7 +1969,7 @@
               "cost": 6000,
               "description": "升级后的高射炮装备了新型更加强大的榴弹。",
               "feature_unlocks": [
-                "<b>Component</b>: Flak Cannons"
+                "<b>组件</b>: Flak Cannons"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2001,7 +2001,7 @@
                   "cost": 16000,
                   "description": "使用预测跟踪算法和更强大的齐射，使得这些高射炮拥有了难以置信的打击敌军舰载机的能力。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Flak Artillery"
+                    "<b>组件</b>: Flak Artillery"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2041,7 +2041,7 @@
           "cost": 0,
           "description": "简易而有效的化学能推进器，依靠可燃推进剂来维持运作。",
           "feature_unlocks": [
-            "<b>Component</b>: Chemical Thrusters"
+            "<b>组件</b>: Chemical Thrusters"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2062,7 +2062,7 @@
               "cost": 2500,
               "description": "这种强力推进器能够额外提升战斗速度，然而需要消耗巨大能源。",
               "feature_unlocks": [
-                "<b>Component</b>: Afterburners"
+                "<b>组件</b>: Afterburners"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2094,7 +2094,7 @@
                   "cost": 10000,
                   "description": "这种改进版的标准加力燃烧室能够极大提升舰船的战斗速度。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Advanced Afterburners"
+                    "<b>组件</b>: Advanced Afterburners"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2134,7 +2134,7 @@
               "cost": 4000,
               "description": "此种电推进器的推力来源于离子束，而非传统工质。",
               "feature_unlocks": [
-                "<b>Component</b>: Ion Thrusters"
+                "<b>组件</b>: Ion Thrusters"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2165,7 +2165,7 @@
                   "cost": 8000,
                   "description": "等离子推进是电推进的高级形式，赋予舰船更快的亚光速航速和更好的机动性。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Plasma Thrusters"
+                    "<b>组件</b>: Plasma Thrusters"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2196,7 +2196,7 @@
                       "cost": 16000,
                       "description": "在亚光速条件下，此种高级聚变推进器可赋予舰船无与伦比的机动性和速度优势。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Impulse Thrusters"
+                        "<b>组件</b>: Impulse Thrusters"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2227,7 +2227,7 @@
                           "cost": 50000,
                           "description": "这些舰船推进器利用暗物质技术，以一种似乎违反了多个物理法则的方式来产生推进力。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Dark Matter Thrusters"
+                            "<b>组件</b>: Dark Matter Thrusters"
                           ],
                           "is_dangerous": false,
                           "is_rare": true,
@@ -2271,7 +2271,7 @@
           "cost": 0,
           "description": "配备有高当量核弹头的天基导弹。尽管是前太空时代的老旧技术，这种简单粗暴的制导武器在射程范围内有着惊人的高效。",
           "feature_unlocks": [
-            "<b>Component</b>: Nuclear Missiles",
+            "<b>组件</b>: Nuclear Missiles",
             "<b>Starbase Module</b>: Missile Battery"
           ],
           "is_dangerous": false,
@@ -2293,7 +2293,7 @@
               "cost": 2500,
               "description": "升级版的深空导弹，配备了更强大的核聚变弹头，飞行能力进一步提升。",
               "feature_unlocks": [
-                "<b>Component</b>: Fusion Missiles"
+                "<b>组件</b>: Fusion Missiles"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2330,7 +2330,7 @@
                   "cost": 4000,
                   "description": "这些先进的导弹配备有强劲的反物质弹头。更加完善的导航系统大大提高了索敌能力。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Antimatter Missiles"
+                    "<b>组件</b>: Antimatter Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2362,7 +2362,7 @@
                       "cost": 8000,
                       "description": "最新的深空导弹，升级之后装备了威力极度强大的弹头，它能够从真空中汲取真空零点能。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Quantum Missiles"
+                        "<b>组件</b>: Quantum Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2394,7 +2394,7 @@
                           "cost": 20000,
                           "description": "这些最尖端的导弹配备有限程度的人工智能导航，极大地提高导弹追踪目标的能力和表现。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Marauder Missiles"
+                            "<b>组件</b>: Marauder Missiles"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2494,7 +2494,7 @@
                   "cost": 5000,
                   "description": "这些小导弹可以集群发射，是专为克制敌人的点防御系统设计的。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Swarmer Missiles"
+                    "<b>组件</b>: Swarmer Missiles"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2526,7 +2526,7 @@
                       "cost": 20000,
                       "description": "新的微型化技术将使得我们可以在蜂群导弹上安装更加强力的弹头，并提高飞行能力。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Whirlwind Missiles"
+                        "<b>组件</b>: Whirlwind Missiles"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2566,7 +2566,7 @@
               "cost": 5000,
               "description": "这些鱼雷其实都是速度缓慢的巨大导弹。它们装备了更加强大的弹头和护盾调制器，这使得它们可以安然穿过能量屏障。",
               "feature_unlocks": [
-                "<b>Component</b>: Space Torpedoes"
+                "<b>组件</b>: Space Torpedoes"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2598,7 +2598,7 @@
                   "cost": 10000,
                   "description": "升级过后的太空鱼雷装备有装甲，可以更好地应对敌人的点防御系统。在爆炸的时候，鱼雷碎裂的装甲也会造成额外的伤害。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Armored Torpedoes"
+                    "<b>组件</b>: Armored Torpedoes"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2630,7 +2630,7 @@
                       "cost": 20000,
                       "description": "装备有超强弹头的先进鱼雷。拥有更加光滑的设计，更快的引擎以及改良的护盾调解器，可以轻松穿过能量屏障。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Devastator Torpedoes"
+                        "<b>组件</b>: Devastator Torpedoes"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2674,9 +2674,9 @@
           "description": "此类电磁射弹器使用磁铁将穿甲弹丸回旋加速到极高的速度。",
           "feature_unlocks": [
             "<b>Starbase Module</b>: Gun Battery",
-            "<b>Component</b>: Small Mass Driver",
-            "<b>Component</b>: Large Mass Driver",
-            "<b>Component</b>: Medium Mass Driver"
+            "<b>组件</b>: Small Mass Driver",
+            "<b>组件</b>: Large Mass Driver",
+            "<b>组件</b>: Medium Mass Driver"
           ],
           "is_dangerous": false,
           "is_rare": false,
@@ -2697,9 +2697,9 @@
               "cost": 2500,
               "description": "线圈炮是早期质量投射器的升级版，使用电磁线圈更有效地加速弹药。",
               "feature_unlocks": [
-                "<b>Component</b>: Medium Coilgun",
-                "<b>Component</b>: Large Coilgun",
-                "<b>Component</b>: Small Coilgun"
+                "<b>组件</b>: Medium Coilgun",
+                "<b>组件</b>: Large Coilgun",
+                "<b>组件</b>: Small Coilgun"
               ],
               "is_dangerous": false,
               "is_rare": false,
@@ -2731,9 +2731,9 @@
                   "cost": 4000,
                   "description": "轨道炮是最新的电磁加速炮，轨道炮通过并行双轨加速炮弹使之以难以置信的高速发射出去。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Small Railgun",
-                    "<b>Component</b>: Large Railgun",
-                    "<b>Component</b>: Medium Railgun"
+                    "<b>组件</b>: Small Railgun",
+                    "<b>组件</b>: Large Railgun",
+                    "<b>组件</b>: Medium Railgun"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -2765,9 +2765,9 @@
                       "cost": 8000,
                       "description": "经典轨道炮的新版本，使用更坚固的轨道并增加了能量配给。这些武器比之前的更强劲，更准确。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Medium Advanced Railgun",
-                        "<b>Component</b>: Large Advanced Railgun",
-                        "<b>Component</b>: Small Advanced Railgun"
+                        "<b>组件</b>: Medium Advanced Railgun",
+                        "<b>组件</b>: Large Advanced Railgun",
+                        "<b>组件</b>: Small Advanced Railgun"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -2799,7 +2799,7 @@
                           "cost": 12000,
                           "description": "射程极远的火炮，火力猛烈，而且准确性极高。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Kinetic Battery"
+                            "<b>组件</b>: Kinetic Battery"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2831,7 +2831,7 @@
                               "cost": 20000,
                               "description": "更为强劲的远程舰载火力系统，装备有升级版的发射装置和火控系统。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Kinetic Artillery"
+                                "<b>组件</b>: Kinetic Artillery"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2873,7 +2873,7 @@
                           "cost": 20000,
                           "description": "一款无比庞大的质量加速炮，只能安装在轴基武器台上。能够在极远距离射出威力惊人的炮弹。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Mega Cannon"
+                            "<b>组件</b>: Mega Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -2910,7 +2910,7 @@
                               "cost": 24000,
                               "description": "更加强大的质量加速炮，能够轻易撕毁最坚固的护盾。",
                               "feature_unlocks": [
-                                "<b>Component</b>: Giga Cannon"
+                                "<b>组件</b>: Giga Cannon"
                               ],
                               "is_dangerous": false,
                               "is_rare": false,
@@ -2952,9 +2952,9 @@
                           "cost": 16000,
                           "description": "在对老式电磁线圈的设计进行升级后，新版本的破坏性甚至高于最先进的轨道炮。它能够发射得更准，速度更快。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Large Gauss Cannon",
-                            "<b>Component</b>: Medium Gauss Cannon",
-                            "<b>Component</b>: Small Gauss Cannon"
+                            "<b>组件</b>: Large Gauss Cannon",
+                            "<b>组件</b>: Medium Gauss Cannon",
+                            "<b>组件</b>: Small Gauss Cannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3054,7 +3054,7 @@
                   "cost": 5000,
                   "description": "大口径的弹道武器，发抛射壳炮弹。主要优势在于高开火速率。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Autocannon"
+                    "<b>组件</b>: Autocannon"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3087,7 +3087,7 @@
                       "cost": 8000,
                       "description": "这些升级版机关炮具备更完善的追踪能力和开火控制系统，因此开火速率也提升了。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Ripper Autocannon"
+                        "<b>组件</b>: Ripper Autocannon"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -3119,7 +3119,7 @@
                           "cost": 16000,
                           "description": "设计先进的自动火炮，能够向目标倾泻一片由高爆炮弹构成的弹幕。",
                           "feature_unlocks": [
-                            "<b>Component</b>: Stormfire Autocannon"
+                            "<b>组件</b>: Stormfire Autocannon"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
@@ -3186,7 +3186,7 @@
               "cost": 3000,
               "description": "短程载人舰载机，速度快，体型小，突防生存能力强。",
               "feature_unlocks": [
-                "<b>Component</b>: Basic Strike Craft",
+                "<b>组件</b>: Basic Strike Craft",
                 "<b>Starbase Module</b>: Hangar Bay"
               ],
               "is_dangerous": false,
@@ -3217,7 +3217,7 @@
                   "cost": 6000,
                   "description": "新一代舰载机装备了改进的航空电子设备，同时拥有更优良的操作性能及更强劲的武器装备。",
                   "feature_unlocks": [
-                    "<b>Component</b>: Improved Strike Craft"
+                    "<b>组件</b>: Improved Strike Craft"
                   ],
                   "is_dangerous": false,
                   "is_rare": false,
@@ -3247,7 +3247,7 @@
                       "cost": 12000,
                       "description": "深度改良型舰载机，性能远胜于先期版本，是每位飞行员梦寐以求的机型。",
                       "feature_unlocks": [
-                        "<b>Component</b>: Advanced Strike Craft"
+                        "<b>组件</b>: Advanced Strike Craft"
                       ],
                       "is_dangerous": false,
                       "is_rare": false,
@@ -4035,8 +4035,8 @@
                           "feature_unlocks": [
                             "<b>Ship Size</b>: Titan",
                             "Fleet Command Limit +10",
-                            "<b>Component</b>: Ion Cannon",
-                            "<b>Component</b>: Perdition Beam",
+                            "<b>组件</b>: Ion Cannon",
+                            "<b>组件</b>: Perdition Beam",
                             "<b>Starbase Upgrade</b>: Ion Cannon"
                           ],
                           "is_dangerous": false,
@@ -4176,7 +4176,7 @@
                                   "cost": 48000,
                                   "description": "一种加速的中子辐射羽流将会扫过行星表面，并对大多数生物组织进行破坏。",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Neutron Sweep"
+                                    "<b>组件</b>: Neutron Sweep"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4216,7 +4216,7 @@
                                   "cost": 48000,
                                   "description": "一个永久的、不可逾越的屏蔽场将被部署在行星表面（吸收一些波长的光）。",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Global Pacifier"
+                                    "<b>组件</b>: Global Pacifier"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4254,7 +4254,7 @@
                                   "cost": 48000,
                                   "description": "一种能增强特定灵能波长的神秘催化剂，能诱导生物脑产生幻觉（宗教体验），并能严重扰乱电子脑（脑死亡）。",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Divine Enforcer"
+                                    "<b>组件</b>: Divine Enforcer"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4293,7 +4293,7 @@
                                   "cost": 48000,
                                   "description": "发射的热能流能够加热行星大气，并引爆行星核心，此举将彻底的毁灭星球的地壳构造。 最后，一个相对较小的冲击波会将行星炸得四分五裂。",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: World Cracker"
+                                    "<b>组件</b>: World Cracker"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4331,7 +4331,7 @@
                                   "cost": 48000,
                                   "description": "纳米灾疫",
                                   "feature_unlocks": [
-                                    "<b>Component</b>: Nanobot Diffuser"
+                                    "<b>组件</b>: Nanobot Diffuser"
                                   ],
                                   "is_dangerous": false,
                                   "is_rare": true,
@@ -4670,8 +4670,8 @@
                           "cost": 20000,
                           "description": "建立新的战列舰模板和建造标准将会大大提高生产线的效率。",
                           "feature_unlocks": [
-                            "Battleship Build Cost -5%",
-                            "Battleship Build Speed +25%"
+                            "战列舰建造花费 -5%",
+                            "战列舰建造速度 +25%"
                           ],
                           "is_dangerous": false,
                           "is_rare": false,
